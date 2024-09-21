@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Unveils In-Depth Evaluation of AndaSeat Kaiser 3 : Expert Reviews & Ratings"
-date: 2024-09-19 18:52:14
-updated: 2024-09-20 10:45:49
+date: 2024-09-13T23:48:59.547Z
+updated: 2024-09-20T20:48:20.353Z
 tags:
   - office-furniture
 categories:
@@ -63,6 +63,13 @@ Pricing
 
 The AndaSeat Kaiser 3 can be bought from the brand's [official website](https://www.andaseat.com/) for $549\. And while it's not available to purchase outside of the United States just yet, it's safe to assume that it will have a similar price tag in the UK and in Canada, and possibly closer to $700 in Australia. It is a lot of money for a gaming chair, but it's also in the same tier as the [Secretlab Titan Evo](https://oc.brcclx.com/t?lid=26675287&tid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) ($519) and the [Noblechairs HERO](https://www.noblechairs.com/hero-series/gaming-chair-pu-leather) ($459.99), which are some of the most popular "luxury" gaming chairs on the market. And I can honestly say that after a few weeks of use, the AndaSeat Kaiser 3 is worth every penny.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Assembly
 
 The neat packaging made identifying and verifying parts quick and easy.
@@ -100,6 +107,13 @@ The model I was sent for review features the premium PVC faux leather upholstery
 A lint roller is more than sufficient to take care of any pet hair and crumbs that come from having animals or eating lunch at your desk, while a baby wipe or damp, soapy washcloth is perfect for getting rid of dirt, oils, and spills. The neck cushion has a velvety-feeling cloth cover that unzips and can be removed if you need to toss it in your washer, and I would recommend spot cleaning the pillow itself with a damp, soapy cloth if need be since the magnet plate is permanently attached to it.
 
 The wheelbase has 5 casters and is made of cast aluminum, giving the chair a heavier base to keep it from easily tipping while you shift around in the seat, recline, or release the tilt lock. The caster wheels have smooth movement over both hard floors and carpet, making it easy to zip around your gaming room or office without leaving your chair. The height adjustment and tilt lock levers are located under the seat and are easy to reach, featuring a textured handle for a better grip. The tilt lock lever can be a bit finicky when trying to release it, but you don't need to wrench on it; just make sure you're centered in the chair and not putting too much pressure on the lever itself and the tilt lock will release without any issues. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Comfort and durability
 
@@ -188,11 +202,28 @@ The Respawn 110 is one of the more affordable options for a gaming chair, and it
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigating-the-world-of-online-streaming-wirecast-and-facebook/"><u>[New] In 2024, Navigating the World of Online Streaming Wirecast & Facebook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-uncover-the-best-android-photo-editor-does-picku-stand-out/"><u>[Updated] Uncover the Best Android Photo Editor – Does PickU Stand Out?</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/h265-hevc/"><u>最高の H.265 HEVC ビデオエディター推薦リスト</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asus-motherboard-software-update-and-installation-procedures-for-windows-computers/"><u>ASUS Motherboard Software Update and Installation Procedures for Windows Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beginners-tutorial-for-accessing-the-enhanced-bing-search-powered-by-artifice-intelligence/"><u>Beginner's Tutorial for Accessing the Enhanced Bing Search Powered by Artifice Intelligence</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/expediting-the-engagement-of-instagram-videos/"><u>Expediting the Engagement of Instagram Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/getting-to-grips-with-graphic-animation-basics-for-2024/"><u>Getting to Grips with Graphic Animation Basics for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/guide-steps-to-successfully-downloading-content-from-jw-player-platforms/"><u>Guide: Steps to Successfully Downloading Content From JW Player Platforms</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/hassle-free-method-batch-convert-your-au-recordings-to-high-quality-wav-files-instantly/"><u>Hassle-Free Method: Batch Convert Your AU Recordings to High-Quality WAV Files Instantly</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/hevch265vlc/"><u>HEVC(H.265)をVLCメディアプレーヤー上で再生しにくい場合の解決策</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-nokia-130-music-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Nokia 130 Music Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/ipad-compatible-video-types-explained-a-guide-to-seamless-file-conversions/"><u>IPad Compatible Video Types Explained: A Guide to Seamless File Conversions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/sticker-enhanced-imagery-ios-and-androids-best-app-companions-for-2024/"><u>Sticker-Enhanced Imagery IOS and Android's Best App Companions for 2024</u></a></li>
+</ul></div>
+

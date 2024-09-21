@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Latest Security Scare: Should We Laugh or Cry? - A Deep Dive on ZDNet"
-date: 2024-09-18 15:41:23
-updated: 2024-09-20 10:16:12
+date: 2024-09-17T01:44:33.221Z
+updated: 2024-09-21T00:13:05.074Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,36 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-achieving-asmr-bliss-selecting-the-right-mic-for-2024/"><u>[New] Achieving ASMR Bliss Selecting the Right Mic for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-art-of-streaming-saved-media-easy-igtv-downloads-on-pc-and-mac-for-2024/"><u>[New] The Art of Streaming Saved Media Easy IGTV Downloads on PC & Mac for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-tailored-instagram-filters-a-step-by-step-process/"><u>[Updated] 2024 Approved Tailored Instagram Filters A Step-by-Step Process</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-tecno-spark-20c-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Tecno Spark 20C Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/wavflacmp3/"><u>高品質サウンドへの移行: WAV、FLACなどハイレ㻋オーディオファイルをMP3形式に変換するテクニック</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/conquering-new-heights-with-dji-robomasters-s1-comprehensive-examination-of-the-battle-and-programming-drone/"><u>Conquering New Heights with DJI Robomasters S1: Comprehensive Examination of the Battle and Programming Drone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-apple-iphone-14-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the Apple iPhone 14 iCloud Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-tecno-camon-30-pro-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Tecno Camon 30 Pro 5G</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/instantaneous-timestamping-for-your-youtube-urls/"><u>Instantaneous Timestamping for Your YouTube URLs</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/the-easy-way-to-edit-high-definition-video-quality-transforming-4k-content-into-1080p-with-vlc-software/"><u>The Easy Way to Edit High Definition Video Quality: Transforming 4K Content Into 1080P with VLC Software</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-wrf-format-transformer-how-to-change-your-webex-audiovideo-files-into-various-types/"><u>Top WRF Format Transformer: How to Change Your WebEx Audio/Video Files Into Various Types</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/ultimate-guide-to-crafting-engaging-fb-video-content-expert-tips-and-techniques/"><u>Ultimate Guide to Crafting Engaging FB Video Content: Expert Tips & Techniques</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/unveiling-the-distinct-features-of-dvd-r-dl-vs-single-layer-dvds/"><u>Unveiling the Distinct Features of DVD-R DL Vs. Single Layer DVDs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/upgrading-your-videos-to-high-definition-or-4k-tips-for-pc-and-mac-users/"><u>Upgrading Your Videos to High Definition or 4K: Tips for PC and Mac Users</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1726029374273-audacity/"><u>オーディオ編集が必要な時、Audacity以外におすすめ!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
