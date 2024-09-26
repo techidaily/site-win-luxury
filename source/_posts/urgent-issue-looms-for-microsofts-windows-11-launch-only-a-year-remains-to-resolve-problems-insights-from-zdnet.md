@@ -1,7 +1,7 @@
 ---
 title: Urgent Issue Looms for Microsoft's Windows 11 Launch; Only a Year Remains to Resolve Problems – Insights From ZDNet
-date: 2024-09-16T04:35:36.773Z
-updated: 2024-09-21T00:02:08.761Z
+date: 2024-09-20T18:00:13.372Z
+updated: 2024-09-25T17:29:20.612Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -116,10 +123,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -128,15 +141,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -180,5 +200,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-a-new-era-of-photo-display-best-frame-makers/"><u>[New] 2024 Approved A New Era of Photo Display Best Frame Makers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-professionals-guide-to-top-10-fcp-tools/"><u>[Updated] Professional's Guide to Top 10 FCP Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unraveling-the-economic-power-of-mr-beast/"><u>[Updated] Unraveling the Economic Power of Mr. Beast</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722974654227-free-hp-laserjet-1018-printer-software-driver-get-it-now/"><u>Free HP LaserJet 1018 Printer Software (Driver) - Get It Now!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/ipad-compatible-video-types-explained-a-guide-to-seamless-file-conversions/"><u>IPad Compatible Video Types Explained: A Guide to Seamless File Conversions</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/legitimate-wonderfox-dvd-ripping-solution-secure-your-copy-without-the-crack/"><u>Legitimate WonderFox DVD Ripping Solution – Secure Your Copy Without the Crack</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/master-the-art-of-opening-and-streaming-vob-movies-directly-from-your-windows-1011-device-tips-and-tricks-for-a-seamless-experience/"><u>Master the Art of Opening and Streaming VOB Movies Directly From Your Windows 10/11 Device: Tips & Tricks for a Seamless Experience</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/opening-swf-files-a-comprehensive-guide-for-pc-users/"><u>Opening SWF Files: A Comprehensive Guide for PC Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-compatibility-woes-for-samsung-print-devices-in-the-windows-environment-resolved/"><u>Resolving Compatibility Woes for Samsung Print Devices in the Windows Environment [RESOLVED]</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/seamless-guide-converting-and-ripping-dvds-into-divx-format/"><u>Seamless Guide: Converting & Ripping DVDs Into DivX Format</u></a></li>
+</ul></div>
 

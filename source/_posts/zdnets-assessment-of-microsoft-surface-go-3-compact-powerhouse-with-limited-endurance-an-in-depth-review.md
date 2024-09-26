@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Assessment of Microsoft Surface Go 3: Compact Powerhouse with Limited Endurance - An In-Depth Review"
-date: 2024-09-14T01:01:27.426Z
-updated: 2024-09-20T22:15:32.373Z
+date: 2024-09-23T21:29:50.332Z
+updated: 2024-09-25T23:25:57.620Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,19 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -140,6 +141,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -186,5 +194,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-help.techidaily.com/days-gone-gameplay-analysis-by-a-road-warrior-battling-undead-in-the-wild-west-of-apocalypse/"><u>'Days Gone' Gameplay Analysis by a Road Warrior: Battling Undead in the Wild West of Apocalypse</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-unleash-clean-visuals-step-by-step-guide-to-backdrop-erasure/"><u>[New] 2024 Approved Unleash Clean Visuals Step-By-Step Guide to Backdrop Erasure</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gagmaster-start-crafting-fun-videos-today/"><u>[New] GagMaster Start Crafting Fun Videos Today</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-apowersoft-reviewed-a-guide-to-pc-screen-capture/"><u>[Updated] 2024 Approved Apowersoft Reviewed A Guide to PC Screen Capture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-ranking-cellular-wonders-for-media-makers/"><u>[Updated] Ranking Cellular Wonders for Media Makers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-meditative-tunes-compilation-top-10-legal-streams/"><u>2024 Approved Meditative Tunes Compilation - Top 10 Legal Streams</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-lenovo-yoga-embrace-the-power-of-updated-win10-drivers/"><u>Enhance Lenovo Yoga - Embrace the Power of Updated Win10 Drivers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-10-meme-creation-apps-for-mobile-for-2024/"><u>New The Ultimate List 10 Meme Creation Apps for Mobile for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/save-on-professional-licenses-with-deals-at-20-get-microsoft-project-and-visio-today/"><u>Save on Professional Licenses with Deals at $20 - Get Microsoft Project & Visio Today!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/singapore-elevates-legal-tech-with-microsoft-copilot-integration-a-game-changer-revealed-by-zdnet/"><u>Singapore Elevates Legal Tech with Microsoft Copilot Integration: A Game-Changer Revealed by ZDNet</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/unlock-peak-performance-for-your-tech-projects-discover-microsofts-elite-developer-pool-on-zdnet/"><u>Unlock Peak Performance for Your Tech Projects: Discover Microsoft's Elite Developer Pool on ZDNET</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/urgent-alert-windows-11-versions-21h2-and-22h2-hit-end-of-life-upgrade-immediately-to-secure-your-system/"><u>Urgent Alert: Windows 11 Versions 21H2 & 22H2 Hit End-of-Life - Upgrade Immediately to Secure Your System!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/urgent-update-microsofts-major-challenge-with-windows-11-just-12-months-left/"><u>Urgent Update: Microsoft's Major Challenge with Windows 11 - Just 12 Months Left!</u></a></li>
+</ul></div>
 

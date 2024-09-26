@@ -1,7 +1,7 @@
 ---
 title: Mastering Screen Recordings in Microsoft's Latest Operating Systems with Built-In Features | Tech Tips for Windows Users
-date: 2024-09-19T17:55:45.675Z
-updated: 2024-09-20T23:00:39.504Z
+date: 2024-09-18T16:34:47.101Z
+updated: 2024-09-25T17:49:00.590Z
 tags:
   - windows
 categories:
@@ -39,13 +39,6 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -55,18 +48,18 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -80,6 +73,19 @@ When you see the setting or command you want, simply double-click it to launch i
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Create a changeable icon for God Mode
 
 With God Mode, you can't see the icon's name or change the image. Here's another option for creating an icon with a viewable name and modifiable image.
@@ -91,24 +97,37 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -147,5 +166,20 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/uy-youtube-subscribers-hundreds-of-subscribers-for-5/"><u>[New] Buy YouTube Subscribers - Hundreds of Subscribers for $5?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-vision-to-value-an-all-inclusive-guide-on-analyzing-views-clicks-and-monetization/"><u>[New] In 2024, From Vision to Value An All-Inclusive Guide on Analyzing Views, Clicks, & Monetization</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-prime-video-kingmakers-top-tweeted-and-most-watched-originals/"><u>[Updated] Prime Video Kingmakers Top Tweeted & Most Watched Originals</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/44cm54sh5paz44ki44ox44oq44ks5l244gj44gf44oh44kj44k644ol44o844ox44op44k55yuv55s76yyy55s744ks44kk44oj44cn/"><u>「無料アプリを使ったディズニープラス動画録画ガイド」</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/wavflacmp3/"><u>高品質サウンドへの移行: WAV、FLACなどハイレ㻋オーディオファイルをMP3形式に変換するテクニック</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/movm4v/"><u>品質保持MOVファイルを効率的にM4Vに素早い変換方法</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-depths-safely-insta360-one-x2s-review/"><u>Exploring the Depths Safely - Insta360 One X2's Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/navigate-your-way-to-joining-google-live-video-sessions-for-2024/"><u>Navigate Your Way to Joining Google Live Video Sessions for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/step-by-step-guide-facebook-group-assembly-blueprints/"><u>Step-by-Step Guide: Facebook Group Assembly Blueprints</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/the-ultimate-guide-to-enhancing-your-video-quality-transforming-1080p-to-stunning-4k-using-top-tier-4k-upconversion-software/"><u>The Ultimate Guide to Enhancing Your Video Quality: Transforming 1080P to Stunning 4K Using Top-Tier 4K Upconversion Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-concerning-issues-in-using-openais-chatgpt/"><u>Top 8 Concerning Issues in Using OpenAI's ChatGPT</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/windows-10-pc/"><u>Windows 10 PCで動画が再生しない時の解決策</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1726029374273-audacity/"><u>オーディオ編集が必要な時、Audacity以外におすすめ!</u></a></li>
+</ul></div>
 

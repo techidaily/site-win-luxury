@@ -1,7 +1,7 @@
 ---
 title: "Silent Release, Loud Complaints: How Microsoft's New Feature Ignited Controversy | TechInsight"
-date: 2024-09-15T09:23:59.641Z
-updated: 2024-09-21T03:14:01.675Z
+date: 2024-09-21T01:00:49.665Z
+updated: 2024-09-25T17:50:13.101Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -121,28 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -186,5 +194,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boosting-your-short-form-video-content-on-youtube/"><u>[New] 2024 Approved Boosting Your Short-Form Video Content on Youtube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-audiotest-review-for-2024/"><u>[New] AudioTest Review for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-closure-secrets-of-spectacative-video-sign-offs/"><u>[Updated] 2024 Approved Crafting Closure Secrets of Spectacative Video Sign-Offs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-frolicsome-videoland-assessor/"><u>2024 Approved Frolicsome Videoland Assessor</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715806245440-detailed-evaluation-razer-kiyo-webcam-for-2024/"><u>Detailed Evaluation - Razer Kiyo Webcam for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-to-safely-download-and-watch-your-favorite-shows-from-cbs-a-step-by-step-guide-for-macwindows-users/"><u>How to Safely Download and Watch Your Favorite Shows From CBS: A Step-by-Step Guide for Mac/Windows Users</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-to-save-your-favorite-gumroad-videos-in-high-quality-formats-like-mp4-or-avi/"><u>How to Save Your Favorite Gumroad Videos in High-Quality Formats Like MP4 or AVI</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-to-save-your-favorite-skillmeup-lessons-as-high-quality-video-files/"><u>How To Save Your Favorite SkillMeup Lessons as High-Quality Video Files</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-a23-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy A23 5G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-list-of-premium-sound-recording-mics/"><u>In 2024, Exclusive List of Premium Sound Recording Mics</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/mastering-visual-studio-videos-with-devu-downloader-your-ultimate-guide/"><u>Mastering Visual Studio Videos with DevU Downloader: Your Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nuphys-halo75-v2-unveiled-a-comprehensive-review-of-a-cost-effective-enthusiast-mechanical-board/"><u>Nuphy's Halo75 V2 Unveiled: A Comprehensive Review of a Cost-Effective Enthusiast Mechanical Board</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/quick-guide-how-to-transfer-movies-from-megasharing-platforms-into-popular-video-formats-like-mp4-avi-and-mov/"><u>Quick Guide: How to Transfer Movies From Megasharing Platforms Into Popular Video Formats Like MP4, AVI & MOV</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/spotify-vs-deezer-showdown-unveiling-key-distinctions-in-streaming-music-services/"><u>Spotify Vs. Deezer Showdown: Unveiling Key Distinctions in Streaming Music Services</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-converting-your-favorite-youtube-videos-into-dvd-format-for-mac-and-pc-users/"><u>Step-by-Step Guide: Converting Your Favorite YouTube Videos Into DVD Format for Mac & PC Users</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-instructions-securely-capturing-tbs-streams-for-pcmac-users/"><u>Step-by-Step Instructions: Securely Capturing TBS Streams for PC/MAC Users</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-tutorial-on-saving-martial-arts-movies-as-mp4-avi-and-mov-files-for-offline-viewing/"><u>Step-by-Step Tutorial on Saving Martial Arts Movies as MP4, AVI & MOV Files for Offline Viewing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unveiling-professional-hdr-magic-in-adobes-photoshop/"><u>Unveiling Professional HDR Magic in Adobe's Photoshop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/visual-data-extractor/"><u>Visual Data Extractor</u></a></li>
+</ul></div>
 

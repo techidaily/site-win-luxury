@@ -1,7 +1,7 @@
 ---
 title: How Microsoft Is Making Artificial Intelligence Seem Familiar, Particularly When Solitary - Discover the Strategy on ZDNet
-date: 2024-09-18T05:27:01.842Z
-updated: 2024-09-20T22:50:20.131Z
+date: 2024-09-24T21:08:23.227Z
+updated: 2024-09-25T16:31:31.499Z
 tags:
   - microsoft
 categories:
@@ -112,18 +112,24 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-commanding-voice-performance-analysis-edition-8/"><u>[Updated] In 2024, Commanding Voice Performance Analysis, Edition 8</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-instagram-virtuosos-playbook-for-widespread-popularity/"><u>2024 Approved The Instagram Virtuoso's Playbook for Widespread Popularity</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/free-end-of-road-microsoft-halts-windows-10-upgrade-offers/"><u>Free End of Road: Microsoft Halts Windows 10 Upgrade Offers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-focus-effortless-viewport-changes-on-iphone/"><u>In 2024, Quick Focus Effortless Viewport Changes on iPhone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/introducing-the-speedy-new-chrome-update-enhanced-performance-on-windows-with-an-important-note-exclusive-info-from-zdnet/"><u>Introducing the Speedy New Chrome Update: Enhanced Performance on Windows with an Important Note - Exclusive Info From ZDNet</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/mastering-screen-recordings-in-microsofts-latest-operating-systems-with-built-in-features-tech-tips-for-windows-users/"><u>Mastering Screen Recordings in Microsoft's Latest Operating Systems with Built-In Features | Tech Tips for Windows Users</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/microsoft-faces-major-challenges-with-windows-10-only-1-year-left-to-fix-them/"><u>Microsoft Faces Major Challenges with Windows 10: Only 1 Year Left to Fix Them!</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-edge-with-microsofts-advanced-protection-technology-aguard-on-windows-11/"><u>Secure Edge with Microsoft's Advanced Protection Technology (Aguard) on Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-techniques-for-high-quality-lenovo-captures/"><u>Step-by-Step Techniques for High Quality Lenovo Captures</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Microsoft Office 2019: Quality Tools for Windows & Mac - Exclusive Deal Under $26 at ZDNET"
-date: 2024-09-20T10:09:29.599Z
-updated: 2024-09-20T18:12:44.006Z
+date: 2024-09-20T00:36:53.641Z
+updated: 2024-09-25T16:25:53.877Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -122,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -180,5 +194,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-urban-unleashed-best-matches-to-grand-theft-auto-v/"><u>[New] 2024 Approved Urban Unleashed Best Matches to Grand Theft Auto V</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-versions-unveiled-an-analytical-review/"><u>[New] Gopro Versions Unveiled An Analytical Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-a-practical-guide-elevating-your-podcast-with-an-iconic-title/"><u>[Updated] A Practical Guide Elevating Your Podcast with an Iconic Title</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/3gpwmv/"><u>「迅速な3GPビデオからWMVへの全件変換ガイド」</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-precise-documentation-how-to-record-full-fbm-calls/"><u>2024 Approved Precise Documentation How to Record Full FBM Calls</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/5-best-no-cost-avchd-media-players-enjoy-hd-videos-without-spending-a-penny/"><u>5 Best No Cost AVCHD Media Players - Enjoy HD Videos Without Spending a Penny!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/5wmv/"><u>5人気無料WMV変換ツールランキング</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/apple-lossless-itunes-m4aflac/"><u>Apple Lossless iTunes M4Aファイルから劣化無しのFLAC形式に簡単に変換するコツ</u></a></li>
+<li><a href="https://fox-info.techidaily.com/elevate-listener-engagement-seo-strategies-for-podcasts/"><u>Elevate Listener Engagement Seo Strategies for Podcasts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-personalize-your-netflix-account-with-a-unique-avatar-image/"><u>How to Personalize Your Netflix Account with a Unique Avatar Image</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-lowered-cpu-impact-with-improved-windows-driver-foundations/"><u>Resolved Issue: Lowered CPU Impact with Improved Windows Driver Foundations</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-common-culprits-behind-insurgency-sandstorm-game-crashes-elucidated-and-solved/"><u>The Common Culprits Behind Insurgency: Sandstorm Game Crashes Elucidated and Solved</u></a></li>
+</ul></div>
 
