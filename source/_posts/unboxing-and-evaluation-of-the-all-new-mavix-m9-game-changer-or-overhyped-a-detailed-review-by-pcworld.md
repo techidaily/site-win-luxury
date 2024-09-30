@@ -1,7 +1,7 @@
 ---
 title: "Unboxing and Evaluation of the All-New Mavix M9: Game Changer or Overhyped? - A Detailed Review by PCWorld"
-date: 2024-09-21T23:19:32.711Z
-updated: 2024-09-25T19:25:42.272Z
+date: 2024-09-27T15:09:35.898Z
+updated: 2024-09-30T13:33:31.891Z
 tags:
   - office-furniture
 categories:
@@ -50,13 +50,6 @@ Let's take a deep dive into Mavix's take on a high-end gaming chair by examining
 | Available colorways   | White, Black, Black & White, Black & Glacier                                 |
 | Assembly required     | Yes                                                                          |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Design  
 
 Mavix's entire line looks similar from a distance. All feature a nearly identical seat and backrest shape and include the company's "Dynamic Variable Lumbar" support, which allows the bottom portion of the backrest to flex separately from the top for better comfort and ergonomics. 
@@ -74,10 +67,16 @@ The seat, back, and headrest are designed to be equally well-suited to use at a 
 Optional add-ons like the Elemax heating/cooling/massage and FS 360 armrests combine with the default configuration and adjustments to provide a design that's one of the most customizable (both at the time of purchase and once you've got it set up) that I've ever used. This expansive set of variables can be both a blessing and, occasionally, a hindrance, as we'll discuss further on in our review. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Build quality
@@ -95,6 +94,13 @@ The frame of the unit is a combination of metal (central gas lift cylinder, back
 **More: [The best office chairs: Treat yourself](https://www.zdnet.com/home-and-office/smart-office/best-office-chair/)**   
   
  Lastly, the M9's locking, in-line skate casters work well on everything from hard floors to dense carpeting, removing any need for the upgraded replacement casters I recommend for many other chairs. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Shipping and setup 
 
@@ -124,13 +130,6 @@ Speaking of oversights, the second speedbump came from a small hex wrench and a 
   
 All told, the clear markings on the hardware card still helped me complete the assembly in about a half-hour. I could have finished faster with help, but I flew solo to simulate a worst-case scenario. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Installing the extras 
 
 While the above section covers the standard setup process, I'll quickly outline the two optional extras Mavix sent along: the Elemax system and its FS 360 arms 
@@ -154,10 +153,10 @@ The add-on is a semi-soft pad that lives within the "Dynamic Variable Lumbar" su
 The confusion started when I noticed that the Elemax system included two elastic straps that covered the built-in fans providing the unit's heating and cooling airflow. These straps weren't present in the instructional videos or literature. I was left to take my best guess on their purpose. The straps seemed likely to interfere with the airflow of the fans. But, I soldiered on with the installation as close to the instructions as possible. Since the airflow ultimately seemed normal, I moved on, adding one more mystery to the list. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Adjustability 
@@ -245,6 +244,13 @@ But the active posture and focused state I tend to be in when gaming or working 
 
 [Buy the Mavix M9 $999 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09MDWBB99%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d4e66d1-29f7-4809-92b1-63f89a63902a%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 As I mentioned in the opening, there are numerous companies vying for the gaming chair space these days. Standouts like [Secret Lab](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSecretlab-Titan-Stealth-Gaming-Chair%2Fdp%2FB0B3RDWTDD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d4e66d1-29f7-4809-92b1-63f89a63902a%7Cdtp&dtb=1) have made a name for themselves with high-end racing seats. Meanwhile, others try to differentiate themselves by adding unusual, often intense, visual features like RGB lighting or themed colorways.
@@ -297,20 +303,18 @@ A chair from a company better known for its mice and keyboards, the Iskur is exc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-streamline-video-using-vimeo-record-for-live-captures/"><u>[New] 2024 Approved Streamline Video Using Vimeo Record for Live Captures</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-groan-inducing-humor-in-hits-for-2024/"><u>[New] Groan-Inducing Humor in Hits for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-optimal-platforms-for-remote-team-engagement/"><u>[New] In 2024, Optimal Platforms for Remote Team Engagement</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-the-art-of-farewell-in-the-instagram-world/"><u>[Updated] In 2024, Mastering the Art of Farewell in the Instagram World</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unmissable-upgrades-top-8-tech-and-tools-reshaping-modern-enterprises-for-2024/"><u>[Updated] Unmissable Upgrades Top 8 Tech & Tools Reshaping Modern Enterprises for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/affordable-microsoft-office-2019-secure-your-pcmac-license-today-for-just-25-top-deals-on-zdnet/"><u>Affordable Microsoft Office 2019: Secure Your PC/Mac License Today for Just $25 – Top Deals on ZDNet!</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/bringing-the-classic-look-to-windows-11-restoring-the-start-button-easily-innovatetech/"><u>Bringing the Classic Look to Windows 11: Restoring the Start Button Easily | InnovateTech</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-70-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor 70 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-charting-a-course-through-creative-professions/"><u>In 2024, Charting a Course Through Creative Professions</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/taking-cloud-gaming-centerstage-how-microsoft-and-samsung-could-be-game-changers/"><u>Taking Cloud Gaming Centerstage: How Microsoft & Samsung Could Be Game Changers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-superior-viewing-with-a-closer-examination-of-p2715q/"><u>Unveiling Superior Viewing with a Closer Examination of P2715Q</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/urgent-alert-windows-11-versions-21h2-and-22h2-hit-end-of-life-upgrade-immediately-to-secure-your-system/"><u>Urgent Alert: Windows 11 Versions 21H2 & 22H2 Hit End-of-Life - Upgrade Immediately to Secure Your System!</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/urgent-update-microsofts-major-challenge-with-windows-11-just-12-months-left/"><u>Urgent Update: Microsoft's Major Challenge with Windows 11 - Just 12 Months Left!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/zdnet-exclusive-tutorial-effortless-color-selection-with-powertoys-color-picker-tool-for-windows-users/"><u>ZDNet Exclusive Tutorial: Effortless Color Selection with PowerToy's Color Picker Tool for Windows Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-tailoring-horizontal-video-footage-for-maximum-impact-on-igtv-for-2024/"><u>[New] Tailoring Horizontal Video Footage for Maximum Impact on IGTV for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-revenue-potential-in-facebooks-animated-ads-for-2024/"><u>[New] Unlocking Revenue Potential in Facebook's Animated Ads for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtubes-celebrated-click-it-achievements/"><u>[New] YouTube's Celebrated Click-It Achievements</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-apocalypse-alert-the-ultimate-list-of-thrilling-zombie-games/"><u>[Updated] In 2024, Apocalypse Alert The Ultimate List of Thrilling Zombie Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-professional-handbook-integrating-countdown-mechanisms-into-streaming-tools-for-2024/"><u>[Updated] Professional Handbook Integrating Countdown Mechanisms Into Streaming Tools for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/add-table-of-contents-feature-to-your-ebooks-on-flipbakercom/"><u>Add Table of Contents Feature to Your eBooks on flipbaker.com</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/automatic-conversion-with-flippdf-service-turn-your-pdfs-into-readable-ebooks-at-flipbuildercom/"><u>Automatic Conversion with FlipPDF Service: Turn Your PDFs Into Readable Ebooks at [flipbuilder.com]</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/convert-multiple-djvu-books-to-high-quality-pdf-for-free-on-flipbuilder/"><u>Convert Multiple DJVU Books to High-Quality PDF for Free on FlipBuilder</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/convert-your-doc-files-into-pdfs-for-free-with-flipbuilder-effortless-format-conversion/"><u>Convert Your DOC Files Into PDFs for Free with FlipBuilder - Effortless Format Conversion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-nighttime-luminosity-on-iphone-photos/"><u>In 2024, Nighttime Luminosity on iPhone Photos</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-installation-of-the-latest-win11-version-22h2-update/"><u>Mastering Installation of the Latest Win11 Version 22H2 Update</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/the-ultimate-guide-to-enhancing-your-video-quality-transforming-1080p-to-stunning-4k-using-top-tier-4k-upconversion-software/"><u>The Ultimate Guide to Enhancing Your Video Quality: Transforming 1080P to Stunning 4K Using Top-Tier 4K Upconversion Software</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/windows-10-pc/"><u>Windows 10 PCで動画が再生しない時の解決策</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Controversy Arises with Microsoft's Latest OS, Windows 11 – Does It Deserve Its Detractors?
-date: 2024-09-20T23:19:06.751Z
-updated: 2024-09-25T23:40:06.138Z
+date: 2024-09-29T13:19:14.760Z
+updated: 2024-09-29T22:33:28.186Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,20 +181,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-innovative-strategies-for-captivate-demonstrations/"><u>[New] 2024 Approved Innovative Strategies for Captivate Demonstrations</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-charting-the-course-of-youtube-success-through-social-blade-analysis/"><u>[Updated] 2024 Approved Charting the Course of YouTube Success Through Social Blade Analysis</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-optimal-graphics-setup-for-high-res-editing/"><u>[Updated] 2024 Approved Optimal Graphics Setup for High Res Editing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unveiling-the-top-5-windows-screen-capturing-utilities-for-2024/"><u>[Updated] Unveiling The Top 5 Windows Screen Capturing Utilities for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/assessing-digital-bartending-with-chatgpt/"><u>Assessing Digital Bartending with ChatGPT</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/expedited-promotion-opportunities-for-flipoffice-pro-users-learn-more-here-flipbuildercom/"><u>Expedited Promotion Opportunities for FlipOffice Pro Users: Learn More Here [flipbuilder.com]</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/expert-insights-into-flippdf-pro-features-and-usage-an-in-depth-knowledge-hub/"><u>Expert Insights Into FlipPDF Pro Features and Usage – An In-Depth Knowledge Hub</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-can-you-encourage-viewers-to-print-your-flipbook-content-on-flipbuildercom/"><u>How Can You Encourage Viewers to Print Your Flipbook Content on FlipBuilder.com?</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-to-access-specific-pages-in-online-flipbooks-navigating-to-page-on-flipbuilder/"><u>How to Access Specific Pages in Online Flipbooks: Navigating to Page Ⅴ on FlipBuilder</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-to-adjust-position-of-pages-in-your-ebook-on-flipbuildercom/"><u>How to Adjust Position of Pages in Your eBook on FlipBuilder.com</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-to-build-a-converted-ebook-from-multiple-pdf-files-using-flipbuilder-the-perfect-guide/"><u>How to Build a Converted eBook From Multiple PDF Files Using FlipBuilder - The Perfect Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-vivo-y100t-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y100t Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-captivating-yt-cover-art-for-maximum-traffic/"><u>In 2024, Captivating YT Cover Art for Maximum Traffic</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 14 Pro Max?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-crafting-a-celebrity-online-presence-nine-strategies-for-social-media-success-for-2024/"><u>[Updated] Crafting a Celebrity Online Presence Nine Strategies for Social Media Success for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-essentials-in-av1-compression/"><u>2024 Approved Exploring the Essentials in AV1 Compression</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/affordable-microsoft-office-2019-secure-your-pcmac-license-today-for-just-25-top-deals-on-zdnet/"><u>Affordable Microsoft Office 2019: Secure Your PC/Mac License Today for Just $25 – Top Deals on ZDNet!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-radeon-rx-590-driver-installation-for-windows-quick-and-simple-steps/"><u>AMD Radeon RX 590 Driver Installation for Windows - Quick and Simple Steps</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/bringing-the-classic-look-to-windows-11-restoring-the-start-button-easily-innovatetech/"><u>Bringing the Classic Look to Windows 11: Restoring the Start Button Easily | InnovateTech</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/exploring-the-latest-windows-11-enhancements-and-innovations-tech-insights-from-zdnet/"><u>Exploring the Latest Windows 11 Enhancements and Innovations | Tech Insights From ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/making-photographs-larger-without-losing-quality-for-2024/"><u>Making Photographs Larger Without Losing Quality for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/microsofts-latest-security-scare-should-we-laugh-or-cry-a-deep-dive-on-zdnet/"><u>Microsoft's Latest Security Scare: Should We Laugh or Cry? - A Deep Dive on ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-how-to-excel-at-royal-match-game/"><u>The Ultimate Tutorial on How to Excel at Royal Match Game</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/top-20-best-twitter-unfollowers-and-tools/"><u>Top 20 Best Twitter Unfollowers & Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-handbrake-hevc-h265-encode-issues-fixes-and-tips/"><u>Troubleshooting HandBrake HEVC (H.265) Encode Issues - Fixes & Tips</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-download-vn-video-editor-for-mac-or-explore-alternative-options-for-2024/"><u>Updated Download VN Video Editor for Mac or Explore Alternative Options for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/zdnet-exclusive-tutorial-effortless-color-selection-with-powertoys-color-picker-tool-for-windows-users/"><u>ZDNet Exclusive Tutorial: Effortless Color Selection with PowerToy's Color Picker Tool for Windows Users</u></a></li>
 </ul></div>
 
