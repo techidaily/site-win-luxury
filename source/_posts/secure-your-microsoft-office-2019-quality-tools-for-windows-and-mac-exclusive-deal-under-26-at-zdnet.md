@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Microsoft Office 2019: Quality Tools for Windows & Mac - Exclusive Deal Under $26 at ZDNET"
-date: 2024-09-25T23:48:28.908Z
-updated: 2024-09-30T07:58:57.689Z
+date: 2024-09-30T21:19:40.028Z
+updated: 2024-10-05T20:28:43.367Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +123,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,21 +141,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,22 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-guide-to-selecting-9-superior-streamscape-filters/"><u>[Updated] The Ultimate Guide to Selecting 9 Superior Streamscape Filters</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1-alavsoft-9xbuddy-alternatives-top-free-and-easy-to-use-budgeting-tools-compatible-with-mac-and-windows/"><u>1. Alavsoft 9Xbuddy Alternatives: Top Free & Easy-to-Use Budgeting Tools Compatible with Mac and Windows</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-essential-underrated-free-speech-to-text-apps-for-mac/"><u>2024 Approved Essential, Underrated, Free Speech-to-Text Apps for Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-error-code-727e66ac-in-nba-2mysql-ultimate-guide-to-enhancing-your-2024-gaming-experience/"><u>Beat Error Code 727E66AC in NBA 2MySQL: Ultimate Guide to Enhancing Your 2024 Gaming Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/black-ops-cold-war-pc-no-sound-fixes-expert-solutions-unveiled/"><u>Black Ops Cold War PC No Sound Fixes - Expert Solutions Unveiled</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/bulk-transfer-techniques-converting-and-saving-your-favorite-trainmaster-series-in-various-video-formats/"><u>Bulk Transfer Techniques: Converting and Saving Your Favorite Trainmaster Series in Various Video Formats</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/expert-guide-on-downloading-your-favorite-tracks-from-qq-music-in-various-formats-like-mp3-wav-and-more/"><u>Expert Guide on Downloading Your Favorite Tracks From QQ Music in Various Formats Like MP3, WAV & More!</u></a></li>
-<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-reno-8t-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo Reno 8T 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-a-comprehensive-tutorial-on-mp4-video-editing-for-mac-and-windows-users/"><u>New Edit Like a Pro A Comprehensive Tutorial on MP4 Video Editing for Mac and Windows Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-nspr4dll-error-a-comprehensive-guide-to-finding-and-restoring-the-missing-file/"><u>Solving nspr4.dll Error: A Comprehensive Guide to Finding and Restoring the Missing File</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-securely-acquiring-hbo-go-video-content-for-offline-viewing/"><u>Step-by-Step Guide: Securely Acquiring HBO GO Video Content for Offline Viewing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/ultimate-freedom-centric-app-substitute-your-complete-solution-with-allavsoft-across-mac-and-pc/"><u>Ultimate Freedom-Centric App Substitute: Your Complete Solution with Allavsoft Across Mac and PC</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/ultimate-guide-converting-ufctv-content-into-various-video-formats/"><u>Ultimate Guide: Converting UFC.TV Content Into Various Video Formats</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/ultimate-tutorial-transforming-your-acast-podcasts-into-mp3-downloads-on-windowsmacos/"><u>Ultimate Tutorial: Transforming Your Acast Podcasts Into MP3 Downloads on Windows/MacOS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-potential-leverage-8-user-friendly-gpt-varieties-from-day-one/"><u>Unlocking Potential: Leverage 8 User-Friendly GPT Varieties From Day One</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/unmatched-downloader-companion-for-apple-and-pc-users-explore-the-superiority-of-allavsoft/"><u>Unmatched Downloader Companion for Apple & PC Users: Explore the Superiority of Allavsoft!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-cutting-edge-recording-facing-screen-first/"><u>[New] 2024 Approved Cutting Edge Recording - Facing Screen First</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/est-10-volume-elevators-for-windows-ios-and-android/"><u>[New] Best 10 Volume Elevators for Windows, iOS & Android</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-iphone-x-a-complete-animoji-guide-for-proficient-users/"><u>[New] IPhone X A Complete Animoji Guide for Proficient Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-becoming-professionally-active-registering-a-business-on-ig/"><u>[Updated] In 2024, Becoming Professionally Active Registering a Business on IG</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-platforms-converting-vids-for-the-bird/"><u>[Updated] Premium Platforms Converting Vids for the Bird</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-charismatic-charm-of-moving-text-on-screen/"><u>2024 Approved Charismatic Charm of Moving Text on Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-pulse-finder-your-free-online-music-buddy/"><u>2024 Approved The Pulse Finder – Your Free, Online Music Buddy</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/movm4v/"><u>品質保持MOVファイルを効率的にM4Vに素早い変換方法</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/add-table-of-contents-feature-to-your-ebooks-on-flipbakercom/"><u>Add Table of Contents Feature to Your eBooks on flipbaker.com</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/automatic-conversion-with-flippdf-service-turn-your-pdfs-into-readable-ebooks-at-flipbuildercom/"><u>Automatic Conversion with FlipPDF Service: Turn Your PDFs Into Readable Ebooks at [flipbuilder.com]</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/convert-multiple-djvu-books-to-high-quality-pdf-for-free-on-flipbuilder/"><u>Convert Multiple DJVU Books to High-Quality PDF for Free on FlipBuilder</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/convert-your-doc-files-into-pdfs-for-free-with-flipbuilder-effortless-format-conversion/"><u>Convert Your DOC Files Into PDFs for Free with FlipBuilder - Effortless Format Conversion</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/creating-compact-discs-from-digital-books-a-guide-using-flipbuilder/"><u>Creating Compact Discs From Digital Books: A Guide Using FlipBuilder</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-realme-12-proplus-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Realme 12 Pro+ 5G without App | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-introducing-dimensional-text-with-photoshop-expertise/"><u>In 2024, Introducing Dimensional Text with Photoshop Expertise</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/the-ultimate-guide-to-enhancing-your-video-quality-transforming-1080p-to-stunning-4k-using-top-tier-4k-upconversion-software/"><u>The Ultimate Guide to Enhancing Your Video Quality: Transforming 1080P to Stunning 4K Using Top-Tier 4K Upconversion Software</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/windows-10-pc/"><u>Windows 10 PCで動画が再生しない時の解決策</u></a></li>
 </ul></div>
 

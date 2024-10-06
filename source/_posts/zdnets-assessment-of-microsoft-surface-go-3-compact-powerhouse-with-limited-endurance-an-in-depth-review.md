@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Assessment of Microsoft Surface Go 3: Compact Powerhouse with Limited Endurance - An In-Depth Review"
-date: 2024-09-26T04:32:55.607Z
-updated: 2024-09-30T15:04:23.407Z
+date: 2024-09-30T20:57:45.512Z
+updated: 2024-10-05T20:01:27.581Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,13 +62,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +82,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-integrated-technique-for-cross-platform-movie-logging-for-2024/"><u>[New] Integrated Technique for Cross-Platform Movie Logging for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unbox-t5-and-explore-its-action-filming-capabilities/"><u>[Updated] In 2024, Unbox T5 and Explore Its Action Filming Capabilities</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/automatic-conversion-with-flippdf-service-turn-your-pdfs-into-readable-ebooks-at-flipbuildercom/"><u>Automatic Conversion with FlipPDF Service: Turn Your PDFs Into Readable Ebooks at [flipbuilder.com]</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/convert-multiple-djvu-books-to-high-quality-pdf-for-free-on-flipbuilder/"><u>Convert Multiple DJVU Books to High-Quality PDF for Free on FlipBuilder</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/convert-your-doc-files-into-pdfs-for-free-with-flipbuilder-effortless-format-conversion/"><u>Convert Your DOC Files Into PDFs for Free with FlipBuilder - Effortless Format Conversion</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/creating-compact-discs-from-digital-books-a-guide-using-flipbuilder/"><u>Creating Compact Discs From Digital Books: A Guide Using FlipBuilder</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/effective-strategies-for-reading-out-loud-to-audiences-using-flippingbooks-tools/"><u>Effective Strategies for Reading Out Loud to Audiences Using FlippingBook's Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/efficiently-navigate-googles-features-with-gemini-learn-how/"><u>Efficiently Navigate Google's Features with Gemini - Learn How!</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/expedited-promotion-opportunities-for-flipoffice-pro-users-learn-more-here-flipbuildercom/"><u>Expedited Promotion Opportunities for FlipOffice Pro Users: Learn More Here [flipbuilder.com]</u></a></li>
-<li><a href="https://fox-info.techidaily.com/harnessing-windows-11-for-high-impact-visually-striking-videos/"><u>Harnessing Windows 11 for High-Impact, Visually Striking Videos</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-stop-your-iphone-from-randomly-skipping-songs-4-effective-techniques/"><u>How To Stop Your iPhone From Randomly Skipping Songs: 4 Effective Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-depth-evaluation-of-the-newest-slomo-video-software/"><u>In-Depth Evaluation of the Newest SloMo Video Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-pixiz-for-creating-dynamic-photo-videos/"><u>Mastering Pixiz for Creating Dynamic Photo Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-how-to-kick-start-your-digital-broadcast-today/"><u>[New] In 2024, How to Kick-Start Your Digital Broadcast Today</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-integrating-soundscapes-with-fusion-studios-tips/"><u>[New] Integrating Soundscapes with Fusion Studio's Tips</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-ad-innovations-what-to-expect-from-facebook/"><u>[Updated] 2024 Approved Ad Innovations What to Expect From Facebook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-revolutionize-your-videos-here-are-the-top-8-free-cutting-suites/"><u>[Updated] 2024 Approved Revolutionize Your Videos - Here Are the Top 8 Free Cutting Suites</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-13-ultra-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on 13 Ultra</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/experts-pick-for-premier-noise-reduction-window-treatments-of-2024-exclusive-guide-by-zdnet/"><u>Experts' Pick for Premier Noise Reduction Window Treatments of 2024 | Exclusive Guide by ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-6-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 6 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/probleme-mit-der-wiedergabe-von-udf-dvds-losen-erfolge-mit-dem-programm-winx-dvd-ripper/"><u>Probleme Mit Der Wiedergabe Von UDF-DVDs Lösen: Erfolge Mit Dem Programm WinX DVD Ripper</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/revive-your-old-pc-with-these-5-cost-free-tips-before-upgrading-to-windows-11-tech-insights/"><u>Revive Your Old PC with These 5 Cost-Free Tips Before Upgrading to Windows 11 | Tech Insights</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/save-big-on-your-surface-pro-upgrade-with-our-simple-200-diy-trick-techinsights/"><u>Save Big on Your Surface Pro Upgrade with Our Simple $200 DIY Trick | TechInsights</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/secure-your-microsoft-office-2019-quality-tools-for-windows-and-mac-exclusive-deal-under-26-at-zdnet/"><u>Secure Your Microsoft Office 2019: Quality Tools for Windows & Mac - Exclusive Deal Under $26 at ZDNET</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/streamline-digital-hygiene-using-stellar-file-eraser-5-configurable-windows-interface-and-pre-set-cleanup-timetables-for-optimal-security/"><u>Streamline Digital Hygiene Using Stellar File Eraser 5 - Configurable Windows Interface & Pre-Set Cleanup Timetables for Optimal Security</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/the-end-of-the-line-for-windows-control-panel-insights-from-microsoft-and-reactions-on-zdnet/"><u>The End of the Line for Windows Control Panel? Insights From Microsoft and Reactions on ZDnet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-lost-ark-effective-solutions-for-performance-improvement/"><u>Troubleshooting Lost Ark: Effective Solutions for Performance Improvement</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/upcoming-payment-plans-for-microsoft-windows-10-updates-what-users-should-expect/"><u>Upcoming Payment Plans for Microsoft Windows 10 Updates - What Users Should Expect</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/urgent-issue-looms-for-microsofts-windows-11-launch-only-a-year-remains-to-resolve-problems-insights-from-zdnet/"><u>Urgent Issue Looms for Microsoft's Windows 11 Launch; Only a Year Remains to Resolve Problems – Insights From ZDNet</u></a></li>
 </ul></div>
 

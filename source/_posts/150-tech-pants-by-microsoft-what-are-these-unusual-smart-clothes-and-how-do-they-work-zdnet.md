@@ -1,7 +1,7 @@
 ---
 title: $150 Tech Pants by Microsoft – What Are These Unusual Smart Clothes and How Do They Work? | ZDNet
-date: 2024-09-27T07:18:08.768Z
-updated: 2024-09-29T16:03:45.822Z
+date: 2024-09-29T22:48:51.030Z
+updated: 2024-10-05T19:54:57.929Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,21 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,19 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-legal-lens-for-tiktoks-pre-upload-rights-and-compliance/"><u>[New] Legal Lens for TikToks Pre-Upload Rights & Compliance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-use-gopro-time-lapse/"><u>[Updated] How to Use GoPro Time Lapse</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-minecraft-recording-top-5-techniques-for-mac-users-for-2024/"><u>[Updated] Navigating Minecraft Recording Top 5 Techniques for Mac Users for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1-ultimate-youtube-video-downloader-and-converter-supporting-macwindows-users/"><u>1. Ultimate YouTube Video Downloader & Converter: Supporting Mac/Windows Users</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/complete-guide-to-youtube-downloads-how-to-get-your-favorite-videos-and-music-with-a-reliable-subscription-service/"><u>Complete Guide to YouTube Downloads: How to Get Your Favorite Videos and Music with a Reliable Subscription Service</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/comprehensive-tutorial-saving-france-24-videos-as-mp4-avi-or-mov-files-for-offline-viewing/"><u>Comprehensive Tutorial: Saving France 24 Videos as MP4, AVI or MOV Files for Offline Viewing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/convert-and-save-your-favorite-youtube-episodes-as-mp4aviwmv-files-for-pcs-and-macs/"><u>Convert and Save Your Favorite YouTube Episodes as MP4/AVI/WMV Files for PCs and MACs</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/convert-your-facebook-videos-into-mp3-files-the-easy-guide/"><u>Convert Your Facebook Videos Into MP3 Files – The Easy Guide</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/download-and-save-dailymotion-playlist-as-video-files-in-mp4-wmv-avi-or-mov-on-macoswindows-systems/"><u>Download and Save DailyMotion Playlist as Video Files in MP4, WMV, AVI or MOV on MacOS/Windows Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/newbie-friendly-guide-to-winning-with-telegram-promotion/"><u>Newbie-Friendly Guide to Winning with Telegram Promotion</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-9-apple-iphone-15-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>Top 9 Apple iPhone 15 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-audacitys-full-potential-for-professional-audio-for-2024/"><u>Unlocking Audacity's Full Potential for Professional Audio for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/updated-rndis-drivers-for-windows-complete-guide-and-downloads/"><u>Updated RNDIS Drivers for Windows: Complete Guide & Downloads</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-step-by-step-to-superior-image-clarity-by-removing-backgrounds-using-affinity/"><u>[New] 2024 Approved Step-by-Step to Superior Image Clarity by Removing Backgrounds Using Affinity</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-a-compre-market-leaders-guide-to-the-most-effective-fb-video-ad-approaches-for-2024/"><u>[New] A Compre Market Leader's Guide to the Most Effective FB Video Ad Approaches for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-iphones-voice-memo-functionality/"><u>[New] In 2024, Mastering iPhone's Voice Memo Functionality</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-snapshotpro-v2021-ultimate-edition/"><u>[Updated] 2024 Approved SnapshotPro V2021 - Ultimate Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-cross-platform-shares-igtv-and-facebook-for-2024/"><u>[Updated] Navigating Cross-Platform Shares IGTV & Facebook for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/4-ways-to-fix-flashing-folder-with-question-mark-on-macbook/"><u>4 Ways to Fix Flashing Folder With Question Mark on Macbook</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/intense-close-ups-in-minecraft-five-simple-steps-for-2024/"><u>Intense Close-Ups in Minecraft Five Simple Steps for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/simple-methods-for-uninstalling-programs-from-your-ipad/"><u>Simple Methods for Uninstalling Programs From Your iPad</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-moving-your-itunes-tunes-to-an-android-device/"><u>Step-by-Step Guide: Moving Your iTunes Tunes to an Android Device</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-retrieving-images-from-a-non-responsive-ios-device/"><u>Step-by-Step Guide: Retrieving Images From a Non-Responsive iOS Device</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-tips-for-blurring-backgrounds-like-a-pro-in-your-photography-a-comprehensive-guide/"><u>Top Tips for Blurring Backgrounds Like a Pro in Your Photography: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/trouble-free-methods-sync-photos-with-your-iphone-apart-from-using-itunes/"><u>Trouble-Free Methods: Sync Photos with Your iPhone Apart From Using iTunes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/twitch-troubleshooting-guide-is-it-an-overall-outage-or-a-personal-connection-issue/"><u>Twitch Troubleshooting Guide - Is It an Overall Outage or a Personal Connection Issue?</u></a></li>
 </ul></div>
 

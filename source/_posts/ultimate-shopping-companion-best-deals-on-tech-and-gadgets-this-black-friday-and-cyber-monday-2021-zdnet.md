@@ -1,7 +1,7 @@
 ---
 title: Ultimate Shopping Companion - Best Deals on Tech & Gadgets This Black Friday and Cyber Monday 2021 | ZDNet
-date: 2024-09-27T00:55:34.050Z
-updated: 2024-09-30T05:42:47.546Z
+date: 2024-10-04T23:29:04.369Z
+updated: 2024-10-06T00:33:15.230Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,13 +62,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +82,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-proiphone-macro-techniques-achieving-professional-quality/"><u>[New] Proiphone Macro Techniques Achieving Professional Quality</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-transition-magic-4-simplified-fading-methods-for-2024/"><u>[New] Transition Magic 4 Simplified Fading Methods for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-ultimate-windows-11-hacks-and-tips-for-2024/"><u>[New] Ultimate Windows 11 Hacks and Tips for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-cross-platform-video-uploading-twittertumblr/"><u>[Updated] Cross-Platform Video Uploading Twitter/Tumblr</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-splitstream-analysis-top-video-camera-champion/"><u>[Updated] In 2024, SplitStream Analysis Top Video Camera Champion?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-discover-the-top-3-alternative-video-portals/"><u>2024 Approved Discover the Top 3 Alternative Video Portals</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-f04-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy F04 Is Unlocked</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-unleash-your-vision-the-best-360-livestimation-devices/"><u>In 2024, Unleash Your Vision The Best 360° Livestimation Devices</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/master-the-art-of-opening-and-streaming-vob-movies-directly-from-your-windows-1011-device-tips-and-tricks-for-a-seamless-experience/"><u>Master the Art of Opening and Streaming VOB Movies Directly From Your Windows 10/11 Device: Tips & Tricks for a Seamless Experience</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/opening-swf-files-a-comprehensive-guide-for-pc-users/"><u>Opening SWF Files: A Comprehensive Guide for PC Users</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/seamless-guide-converting-and-ripping-dvds-into-divx-format/"><u>Seamless Guide: Converting & Ripping DVDs Into DivX Format</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/solving-troubleshooting-premiere-pro-and-generic-import-errors/"><u>Solving, Troubleshooting, Premiere Pro, and Generic Import Errors.</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-introduction-understanding-video-transcoding-techniques/"><u>Step-by-Step Introduction: Understanding Video Transcoding Techniques</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/the-easy-way-to-edit-high-definition-video-quality-transforming-4k-content-into-1080p-with-vlc-software/"><u>The Easy Way to Edit High Definition Video Quality: Transforming 4K Content Into 1080P with VLC Software</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/top-wrf-format-transformer-how-to-change-your-webex-audiovideo-files-into-various-types/"><u>Top WRF Format Transformer: How to Change Your WebEx Audio/Video Files Into Various Types</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/ultimate-guide-to-crafting-engaging-fb-video-content-expert-tips-and-techniques/"><u>Ultimate Guide to Crafting Engaging FB Video Content: Expert Tips & Techniques</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/unveiling-the-distinct-features-of-dvd-r-dl-vs-single-layer-dvds/"><u>Unveiling the Distinct Features of DVD-R DL Vs. Single Layer DVDs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-brisksnatch-slowframe-capture/"><u>[New] 2024 Approved BriskSnatch SlowFrame Capture</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevating-video-marketing-with-youtube-thumbnails-for-2024/"><u>[Updated] Elevating Video Marketing with YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-instagrams-policies-a-musicians-legal-primer/"><u>[Updated] Unveiling Instagram's Policies A Musician's Legal Primer</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1-microsoft-shatters-expectations-with-easily-repairable-latest-laptop-models-a-challenge-to-competitors-like-apple-insights-from-ifixit-featured-on-zdnet.m130/"><u>1. Microsoft Shatters Expectations with Easily-Repairable Latest Laptop Models: A Challenge to Competitors Like Apple - Insights From iFixit Featured on ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-keyboard-driver-for-windows-7-easily-and-quickly/"><u>Download Keyboard Driver for Windows 7 – Easily & Quickly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-toms-gadget-hub-in-depth-reviews-and-news/"><u>Inside Tom's Gadget Hub: In-Depth Reviews & News</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-the-most-of-intel-unison-for-convenient-windows-11-calls/"><u>Making the Most of Intel Unison for Convenient Windows 11 Calls</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/t-the-right-font-to-stand-out-on-youtube/"><u>Select the Right Font to Stand Out on YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-story-behind-aim-how-aol-revolutionized-instant-messaging-with-its-iconic-platform/"><u>The Story Behind AIM: How AOL Revolutionized Instant Messaging with Its Iconic Platform</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/ultimate-guide-top-rated-durable-tablet-featuring-stylus-and-windows-a-zdnet-review/"><u>Ultimate Guide: Top-Rated Durable Tablet Featuring Stylus & Windows - A ZDNet Review</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/uninterrupted-legacy-software-sync-how-microsoft-ensures-continued-back-end-services-for-office-20162019-users-ahead-of-2024-itproportal/"><u>Uninterrupted Legacy Software Sync: How Microsoft Ensures Continued Back-End Services for Office 2016/2019 Users Ahead of 2024 | ITProPortal</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/unlock-a-sleeker-search-activate-bing-chats-latest-dark-mode-update-zdnet-insights/"><u>Unlock a Sleeker Search: Activate Bing Chat's Latest Dark Mode Update | ZDNET Insights</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/zdnets-assessment-of-microsoft-surface-go-3-compact-powerhouse-with-limited-endurance-an-in-depth-review/"><u>ZDNet's Assessment of Microsoft Surface Go 3: Compact Powerhouse with Limited Endurance - An In-Depth Review</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/zdnets-in-depth-review-surface-duo-2-with-enhanced-durability-and-wireless-charging-via-pen-cover-accessory/"><u>ZDNet's In-Depth Review: Surface Duo 2 with Enhanced Durability & Wireless Charging via Pen Cover Accessory</u></a></li>
 </ul></div>
 

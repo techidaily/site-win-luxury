@@ -1,7 +1,7 @@
 ---
 title: Save on Professional Licenses with Deals at $20 - Get Microsoft Project & Visio Today!
-date: 2024-09-29T11:46:54.402Z
-updated: 2024-09-30T10:43:40.927Z
+date: 2024-10-03T23:53:28.950Z
+updated: 2024-10-05T19:36:42.460Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-boredoms-ender-the-ultimate-list-of-jovial-youtube-content/"><u>[New] 2024 Approved Boredom's Ender The Ultimate List of Jovial YouTube Content</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-silence-problem-twitter-videos-lacking-sounds-for-2024/"><u>[New] Silence Problem Twitter Videos Lacking Sounds for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1-alavsoft-9xbuddy-alternatives-top-free-and-easy-to-use-budgeting-tools-compatible-with-mac-and-windows/"><u>1. Alavsoft 9Xbuddy Alternatives: Top Free & Easy-to-Use Budgeting Tools Compatible with Mac and Windows</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nubia-z50s-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nubia Z50S Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/bulk-transfer-techniques-converting-and-saving-your-favorite-trainmaster-series-in-various-video-formats/"><u>Bulk Transfer Techniques: Converting and Saving Your Favorite Trainmaster Series in Various Video Formats</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/expert-guide-on-downloading-your-favorite-tracks-from-qq-music-in-various-formats-like-mp3-wav-and-more/"><u>Expert Guide on Downloading Your Favorite Tracks From QQ Music in Various Formats Like MP3, WAV & More!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620212476-how-to-effortlessly-change-wmv-video-format-to-flv-discover-the-best-6-strategies/"><u>How To Effortlessly Change WMV Video Format to FLV: Discover The Best 6 Strategies!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-future-of-electronics-insights-from-toms-hardware-gurus/"><u>Navigate the Future of Electronics - Insights From Tom's Hardware Gurus</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ng-at-starred-online-chatter/"><u>Peering at Starred Online Chatter</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secure-and-save-every-exchange-the-ultimate-tutorial-on-storing-chatgpt-dialogues/"><u>Secure and Save Every Exchange: The Ultimate Tutorial on Storing ChatGPT Dialogues</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-securely-acquiring-hbo-go-video-content-for-offline-viewing/"><u>Step-by-Step Guide: Securely Acquiring HBO GO Video Content for Offline Viewing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/stream-or-save-top-anime-and-cartoons-effortlessly-using-animehavens-reliable-download-tool/"><u>Stream or Save Top Anime and Cartoons Effortlessly Using AnimeHaven's Reliable Download Tool!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/streamlining-your-youtube-editing-with-imovie-tools/"><u>Streamlining Your YouTube Editing with iMovie Tools</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/ultimate-guide-converting-ufctv-content-into-various-video-formats/"><u>Ultimate Guide: Converting UFC.TV Content Into Various Video Formats</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/ultimate-tutorial-transforming-your-acast-podcasts-into-mp3-downloads-on-windowsmacos/"><u>Ultimate Tutorial: Transforming Your Acast Podcasts Into MP3 Downloads on Windows/MacOS</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/unmatched-downloader-companion-for-apple-and-pc-users-explore-the-superiority-of-allavsoft/"><u>Unmatched Downloader Companion for Apple & PC Users: Explore the Superiority of Allavsoft!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-decoding-your-path-to-prominence-on-youtube/"><u>[New] 2024 Approved Decoding Your Path to Prominence on YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-top-5-tools-to-transform-your-instant-feeds-into-videos/"><u>[Updated] 2024 Approved Top 5 Tools to Transform Your Instant Feeds Into Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-advanced-methods-for-swift-file-exchange-apples-ecosystem-for-2024/"><u>[Updated] Advanced Methods for Swift File Exchange Apple's Ecosystem for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/3gpwmv/"><u>「迅速な3GPビデオからWMVへの全件変換ガイド」</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1-free-fixes-for-corrupted-movies-restore-mov-file-quality/"><u>1. Free Fixes for Corrupted Movies: Restore .MOV File Quality</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/5-best-no-cost-avchd-media-players-enjoy-hd-videos-without-spending-a-penny/"><u>5 Best No Cost AVCHD Media Players - Enjoy HD Videos Without Spending a Penny!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/best-mac-audio-capture-apps-as-audio-hijack-pro-substitutes-find-your-ideal-solution-today/"><u>Best Mac Audio Capture Apps as Audio Hijack Pro Substitutes - Find Your Ideal Solution Today!</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-steps-to-stop-and-fix-iomap64-bsod-on-windows-pcs/"><u>Effective Steps to Stop and Fix IOMap64 BSoD on Windows PCs</u></a></li>
+<li><a href="https://facebook.techidaily.com/fine-tuning-who-sees-your-on-demand-activity/"><u>Fine-Tuning Who Sees Your On-Demand Activity</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-gt-5-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme GT 5 Pro Phone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-audible-magic-cropping-and-edits-in-canva-videos/"><u>In 2024, Crafting Audible Magic Cropping and Edits in Canva Videos</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1726028561252-windows-and-mac/"><u>パーソナルレコーダー選びは大切！Windows & Mac用おすすめソフトウェアリスト!</u></a></li>
 </ul></div>
 

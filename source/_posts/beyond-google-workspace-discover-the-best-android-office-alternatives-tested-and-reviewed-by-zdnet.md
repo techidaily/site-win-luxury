@@ -1,7 +1,7 @@
 ---
 title: "Beyond Google Workspace: Discover the Best Android Office Alternatives Tested and Reviewed by ZDNet"
-date: 2024-09-27T06:00:24.014Z
-updated: 2024-09-30T14:49:16.082Z
+date: 2024-10-01T18:09:22.759Z
+updated: 2024-10-05T18:40:30.097Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-getting-started-with-pro-level-youtube-tech-for-2024/"><u>[Updated] Getting Started with Pro-Level YouTube Tech for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-time-lapse-technology-breakthroughs-full-slomo-review-2024/"><u>[Updated] Time-Lapse Technology Breakthroughs Full SloMo Review, 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unraveling-drone-technology-mechanisms-and-applications-demystified/"><u>[Updated] Unraveling Drone Technology Mechanisms and Applications Demystified</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/captivating-colors-in-photos-a-ps-masterclass-for-2024/"><u>Captivating Colors in Photos A PS Masterclass for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/download-and-save-dailymotion-playlist-as-video-files-in-mp4-wmv-avi-or-mov-on-macoswindows-systems/"><u>Download and Save DailyMotion Playlist as Video Files in MP4, WMV, AVI or MOV on MacOS/Windows Systems</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/download-tv-reviews-from-fernsehkritik-access-favorite-episodes-via-seo-optimized-titles/"><u>Download TV Reviews From Fernsehkritik: Access Favorite Episodes via Seo-Optimized Titles</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/easy-steps-to-save-and-watch-bg-video-footage-on-your-device/"><u>Easy Steps to Save and Watch BG Video Footage on Your Device</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/effortless-access-to-zdf-media-exclusive-desktop-apps-for-quick-downloads-on-windows-and-macos/"><u>Effortless Access to ZDF Media: Exclusive Desktop Apps for Quick Downloads on Windows & macOS</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/effortless-mp3-conversion-how-to-save-your-favorite-mixcloud-songs-as-mp3s/"><u>Effortless MP3 Conversion: How to Save Your Favorite Mixcloud Songs as MP3s</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/free-zee-tamil-app-watch-and-download-latest-episodes-no-subscription-needed/"><u>Free Zee Tamil App: Watch & Download Latest Episodes - No Subscription Needed!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-new-realities-a-guide-to-metaverse-and-multiverse/"><u>In 2024, Navigating New Realities A Guide to Metaverse & Multiverse</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/online-konvertoren-3gpp-naar-mp4-zonder-kostprijzen-met-movavis-hulpbronnen/"><u>Online Konvertoren: 3GPP Naar MP4 Zonder Kostprijzen Met Movavi's Hulpbronnen</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/the-ultimate-guide-to-swiftly-and-accurately-convert-your-mov-files-into-mp4-format-with-the-best-tools/"><u>The Ultimate Guide to Swiftly & Accurately Convert Your MOV Files Into MP4 Format with the Best Tools!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/wifi-iphone-charging-woes-discover-7-effective-remedies-to-get-it-working-again/"><u>WiFi iPhone Charging Woes? Discover 7 Effective Remedies to Get It Working Again</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-best-windows-video-editors-top-picks-for-professional-creatives/"><u>[New] Best Windows Video Editors Top Picks for Professional Creatives</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-watch-youtube-green-screen-videos-and-inspire-your-green-screen-ideas/"><u>[Updated] 2024 Approved Watch Youtube Green Screen Videos and Inspire Your Green Screen Ideas</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1-simple-strategies-for-adding-written-content-to-your-pdf-documents-updated-guide/"><u>1. Simple Strategies for Adding Written Content to Your PDF Documents - Updated Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-safe-surveillance-practices-keeping-info-undercover/"><u>2024 Approved Safe Surveillance Practices Keeping Info Undercover</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-art-of-aural-storytelling-on-instagram-reels/"><u>2024 Approved The Art of Aural Storytelling on Instagram Reels</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-14-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 14 without Backup | Stellar</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/live-sounds-made-simple-the-ultimate-guide-to-digital-recording/"><u>Live Sounds Made Simple The Ultimate Guide to Digital Recording</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mov-in-3gp-convertito-online-gratuitamente-tramite-movavi-guida-dettagliata/"><u>MOV in 3Gp Convertito Online Gratuitamente Tramite Movavi - Guida Dettagliata</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavis-cost-free-tool-to-transform-wav-audio-into-flash-swf-file-online/"><u>Movavi's Cost-Free Tool to Transform WAV Audio Into Flash SWF File Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolve-android-parsing-errors-with-these-8-simple-techniques/"><u>Resolve Android Parsing Errors with These 8 Simple Techniques</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/simple-methods-for-uninstalling-programs-from-your-ipad/"><u>Simple Methods for Uninstalling Programs From Your iPad</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/simplify-your-skype-interviews-how-to-perfectly-capture-every-moment/"><u>Simplify Your Skype Interviews: How to Perfectly Capture Every Moment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-coredll-absent-mistake-on-your-computer/"><u>Step-by-Step Fix for Core.DLL Absent Mistake on Your Computer</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-moving-your-itunes-tunes-to-an-android-device/"><u>Step-by-Step Guide: Moving Your iTunes Tunes to an Android Device</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-retrieving-images-from-a-non-responsive-ios-device/"><u>Step-by-Step Guide: Retrieving Images From a Non-Responsive iOS Device</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-5-flexible-video-conversion-tools-compatible-with-windows-11/"><u>Top 5 Flexible Video Conversion Tools Compatible with Windows 11</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-alternatives-to-imovie-on-android-devices-best-app-picks-of-2020/"><u>Top Alternatives to iMovie on Android Devices: Best App Picks of 2020</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-free-tools-seamless-conversion-of-videos-into-multiple-languages/"><u>Top Free Tools: Seamless Conversion of Videos Into Multiple Languages</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/trouble-free-methods-sync-photos-with-your-iphone-apart-from-using-itunes/"><u>Trouble-Free Methods: Sync Photos with Your iPhone Apart From Using iTunes</u></a></li>
 </ul></div>
 

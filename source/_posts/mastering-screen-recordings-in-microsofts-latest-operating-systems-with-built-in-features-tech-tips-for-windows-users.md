@@ -1,7 +1,7 @@
 ---
 title: Mastering Screen Recordings in Microsoft's Latest Operating Systems with Built-In Features | Tech Tips for Windows Users
-date: 2024-09-24T14:05:17.367Z
-updated: 2024-09-30T10:28:11.033Z
+date: 2024-09-30T00:36:02.667Z
+updated: 2024-10-05T17:05:41.668Z
 tags:
   - windows
 categories:
@@ -40,10 +40,10 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
@@ -56,10 +56,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -75,10 +75,16 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
@@ -105,10 +111,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -156,15 +162,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-creme-de-la-fluid-simulation-games/"><u>[Updated] 2024 Approved The Crème De La Fluid Simulation Games</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-from-basic-to-brilliant-the-ultimate-snapchat-filter-journey/"><u>[Updated] From Basic to Brilliant The Ultimate Snapchat Filter Journey</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-battle-of-the-titans-gopro-hero4-black-versus-drift-ghost-s/"><u>[Updated] In 2024, Battle of the Titans GoPro Hero4 Black Versus Drift Ghost-S</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1-mirillis-your-comprehensive-hub-for-legal-insights-and-law-resources/"><u>1. Mirillis: Your Comprehensive Hub for Legal Insights and Law Resources</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/beyond-google-workspace-discover-the-best-android-office-alternatives-tested-and-reviewed-by-zdnet/"><u>Beyond Google Workspace: Discover the Best Android Office Alternatives Tested and Reviewed by ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-honor-magic-vs-2-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Honor Magic Vs 2 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-step-by-step-guide-to-using-bandicam-insights-users/"><u>In 2024, Step-by-Step Guide to Using Bandicam – Insights Users</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/seamless-access-using-your-microsoft-amoeba-business-account-for-windows-11-login-learn-how-and-the-benefits/"><u>Seamless Access: Using Your Microsoft Amoeba Business Account for Windows 11 Login - Learn How and the Benefits!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-prime-10-list-of-incredible-mac-friendly-monitors/"><u>The Prime 10 List of Incredible Mac-Friendly Monitors</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/unlocking-media-potential-with-mirillis-your-ultimate-resource-hub/"><u>Unlocking Media Potential with Mirillis – Your Ultimate Resource Hub</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unlock-your-potential-best-free-mac-screen-recorder-software-reviewed/"><u>[New] 2024 Approved Unlock Your Potential Best Free Mac Screen Recorder Software Reviewed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dive-into-the-art-of-asmr-recording-a-comprehensive-overview/"><u>[Updated] 2024 Approved Dive Into the Art of ASMR Recording – A Comprehensive Overview</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-deciphering-past-visual-content-inverse-queries-and-fb-techniques/"><u>[Updated] In 2024, Deciphering Past Visual Content Inverse Queries and FB Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-reimagining-the-role-of-titles-in-after-effects-media/"><u>[Updated] In 2024, Reimagining the Role of Titles in After Effects Media</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-invisible-enthusiast-of-facebook-episodes/"><u>[Updated] Invisible Enthusiast of Facebook Episodes</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/best-mac-audio-capture-apps-as-audio-hijack-pro-substitutes-find-your-ideal-solution-today/"><u>Best Mac Audio Capture Apps as Audio Hijack Pro Substitutes - Find Your Ideal Solution Today!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/best-mp3-download-software-reviewed-for-mac-users/"><u>Best MP3 Download Software Reviewed for Mac Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/defending-originality-shielding-your-creations-from-ai-replication/"><u>Defending Originality: Shielding Your Creations From AI Replication</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/demystifying-matroska-mkv-an-insight-into-this-popular-video-container/"><u>Demystifying Matroska (MKV): An Insight Into This Popular Video Container</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/editing-excess-strategies-to-clean-up-oversized-tiktok-drafts-for-2024/"><u>Editing Excess Strategies to Clean Up Oversized TikTok Drafts for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/essential-tips-and-tricks-for-capturing-quality-tracks-in-macos-el-capitan/"><u>Essential Tips and Tricks for Capturing Quality Tracks in MacOS El Capitan</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-tips-to-enhance-your-youtube-live-stream-with-zoom/"><u>Essential Tips to Enhance Your YouTube Live Stream with Zoom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-hd-disruptions-clear-screening-challenges-in-fir-safari-chrome/"><u>In 2024, Navigating HD Disruptions Clear Screening Challenges in Fir, Safari, Chrome</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-memory-locker-at-no-cost-plus-elite-charged-cloud-spheres/"><u>Photo Memory Locker at No Cost, Plus Elite Charged Cloud Spheres</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/simple-guide-seamless-transfers-of-songs-between-iphones/"><u>Simple Guide: Seamless Transfers of Songs Between iPhones</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-accessing-apple-music-streams-via-your-windows-mobile-device/"><u>Step-by-Step Guide: Accessing Apple Music Streams via Your Windows Mobile Device</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/the-ultimate-guide-expertly-rated-file-rescue-apps-for-outdated-hardware-2023-edition/"><u>The Ultimate Guide: Expertly Rated File Rescue Apps for Outdated Hardware, 2023 Edition</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/the-ultimate-tutorial-on-shifting-pictures-securely-to-your-memory-card/"><u>The Ultimate Tutorial on Shifting Pictures Securely to Your Memory Card</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/ultimate-guide-transferring-your-iphone-screen-to-television-seamlessly/"><u>Ultimate Guide: Transferring Your iPhone Screen to Television Seamlessly</u></a></li>
 </ul></div>
 

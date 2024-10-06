@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Review: Surface Duo 2 with Enhanced Durability & Wireless Charging via Pen Cover Accessory"
-date: 2024-09-26T08:48:41.932Z
-updated: 2024-09-30T00:56:35.313Z
+date: 2024-09-29T00:02:28.356Z
+updated: 2024-10-05T22:05:59.385Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,29 +149,9 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,24 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-10-preferred-top-free-image-editing-and-overlay-apps-for-phones/"><u>[New] 10 Preferred Top-Free Image Editing & Overlay Apps for Phones</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-snap-it-up-iphone-and-androids-best-10-photo-enhancers/"><u>[New] In 2024, Snap It Up! IPhone and Android's Best 10 Photo Enhancers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-from-novice-to-vlogger-the-top-10-editing-techniques/"><u>[Updated] In 2024, From Novice to Vlogger The Top 10 Editing Techniques</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-zoom-for-beginners-managing-breakout-groups-for-2024/"><u>[Updated] Zoom for Beginners Managing Breakout Groups for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/expert-insights-into-flippdf-pro-features-and-usage-an-in-depth-knowledge-hub/"><u>Expert Insights Into FlipPDF Pro Features and Usage – An In-Depth Knowledge Hub</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hassle-free-guide-to-freshly-update-your-asus-z370-e-motherboard-drivers/"><u>Hassle-Free Guide to Freshly Update Your Asus Z370-E Motherboard Drivers</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-can-you-encourage-viewers-to-print-your-flipbook-content-on-flipbuildercom/"><u>How Can You Encourage Viewers to Print Your Flipbook Content on FlipBuilder.com?</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-to-access-specific-pages-in-online-flipbooks-navigating-to-page-on-flipbuilder/"><u>How to Access Specific Pages in Online Flipbooks: Navigating to Page Ⅴ on FlipBuilder</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-to-adjust-position-of-pages-in-your-ebook-on-flipbuildercom/"><u>How to Adjust Position of Pages in Your eBook on FlipBuilder.com</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-to-build-a-converted-ebook-from-multiple-pdf-files-using-flipbuilder-the-perfect-guide/"><u>How to Build a Converted eBook From Multiple PDF Files Using FlipBuilder - The Perfect Guide</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-to-combine-four-photos-into-a-single-image-using-flipbuilder/"><u>How to Combine Four Photos Into a Single Image Using FlipBuilder</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-to-easily-switch-your-flipbook-design-a-complete-guide-flipbuildercom/"><u>How To Easily Switch Your FlipBook Design: A Complete Guide - FlipBuilder.com</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-to-rearrange-and-float-toolbars-on-top-within-flipbuilder-templates-for-enhanced-user-experience/"><u>How to Rearrange and Float Toolbars on Top Within FlipBuilder Templates for Enhanced User Experience</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-to-view-your-flipping-book-as-a-single-page-on-flipbuilder/"><u>How to View Your Flipping Book as a Single Page on FlipBuilder</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-harmonizing-acoustics-with-visuals-for-enriched-photo-experiences/"><u>In 2024, Harmonizing Acoustics with Visuals for Enriched Photo Experiences</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/shifting-gears-in-the-office-navigating-the-post-quarantine-work-environment/"><u>Shifting Gears in the Office: Navigating the Post-Quarantine Work Environment</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sony-xbr65x850f-65-inch-4k-tv-quality-and-price-that-wont-break-the-bank/"><u>Sony XBR65X850F (65-Inch) 4K TV: Quality & Price That Won't Break The Bank!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/start-with-snapseed-a-foundation-for-image-editing-for-2024/"><u>Start with Snapseed A Foundation for Image Editing for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-behind-the-scenes-windows-pc-essentials-for-flawless-live-tv-screen-capture/"><u>[Updated] 2024 Approved Behind the Scenes Windows PC Essentials for Flawless Live TV Screen Capture</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-a78-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo A78 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-motorola-edge-40-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Motorola Edge 40</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/connecting-your-vpn-on-windows-10-a-step-by-step-guide-insights-from-zdnet/"><u>Connecting Your VPN on Windows 10: A Step-by-Step Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/discover-microsofts-secret-explore-hidden-windows-features-with-the-new-leaked-insider-prototype/"><u>Discover Microsoft's Secret: Explore Hidden Windows Features with the New Leaked Insider Prototype</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/effortless-file-exchange-utilizing-google-quick-share-to-connect-windows-and-android-devices-efficiently-insights-by-zdnet/"><u>Effortless File Exchange: Utilizing Google Quick Share to Connect Windows and Android Devices Efficiently | Insights by ZDNET</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/free-end-of-road-microsoft-halts-windows-10-upgrade-offers/"><u>Free End of Road: Microsoft Halts Windows 10 Upgrade Offers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/getting-into-film-editing-made-easy/"><u>Getting Into Film Editing Made Easy</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dot-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dot file document electronically</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-tier-eighth-edition-of-image-blender-tool/"><u>In 2024, Top Tier Eighth Edition of Image Blender Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovate-and-personalize-with-gpt-transforming-chatgpt-into-a-custom-solution/"><u>Innovate and Personalize with GPT: Transforming ChatGPT Into a Custom Solution</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/introducing-the-speedy-new-chrome-update-enhanced-performance-on-windows-with-an-important-note-exclusive-info-from-zdnet/"><u>Introducing the Speedy New Chrome Update: Enhanced Performance on Windows with an Important Note - Exclusive Info From ZDNet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a59-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A59 5GFRP Lock</u></a></li>
+<li><a href="https://facebook.techidaily.com/stepwise-strategy-expedite-your-online-purchase-reimbursement-via-fb/"><u>Stepwise Strategy: Expedite Your Online Purchase Reimbursement via FB</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/unboxing-and-evaluation-of-the-all-new-mavix-m9-game-changer-or-overhyped-a-detailed-review-by-pcworld/"><u>Unboxing and Evaluation of the All-New Mavix M9: Game Changer or Overhyped? - A Detailed Review by PCWorld</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/zdnet-unveils-in-depth-evaluation-of-andaseat-kaiser-3-expert-reviews-and-ratings/"><u>ZDNet Unveils In-Depth Evaluation of AndaSeat Kaiser 3 : Expert Reviews & Ratings</u></a></li>
 </ul></div>
 
