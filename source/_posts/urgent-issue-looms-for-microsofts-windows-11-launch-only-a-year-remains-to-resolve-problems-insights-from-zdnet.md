@@ -1,7 +1,7 @@
 ---
 title: Urgent Issue Looms for Microsoft's Windows 11 Launch; Only a Year Remains to Resolve Problems – Insights From ZDNet
-date: 2024-10-03T19:26:35.488Z
-updated: 2024-10-05T21:46:50.920Z
+date: 2024-10-09T10:29:06.764Z
+updated: 2024-10-10T20:39:43.267Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,15 +141,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-easeus-review-inclusivity-in-action/"><u>[Updated] EaseUS Review Inclusivity in Action</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-intellect-in-your-hand-the-moto-z2-breakdown/"><u>[Updated] In 2024, Intellect in Your Hand The Moto Z2 Breakdown</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unveiling-the-ideal-youtube-subset-of-viewers/"><u>[Updated] In 2024, Unveiling the Ideal YouTube Subset of Viewers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-master-audio-fusion-a-stepwise-approach-to-incorporating-srt-into-mp4s-for-2024/"><u>[Updated] Master Audio Fusion A Stepwise Approach to Incorporating SRT Into MP4s for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-live-video-showdown-which-is-superior-obs-or-twitch-studio/"><u>2024 Approved Live Video Showdown Which Is Superior, OBS or Twitch Studio?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/dji-unmanned-aircraft-series-basic-high-end-4k-pro/"><u>DJI Unmanned Aircraft Series Basic, High-End, 4K Pro</u></a></li>
-<li><a href="https://discover-help.techidaily.com/easy-online-conversion-techniques-for-avi-videos-to-quicktime-mov-on-windows-and-macos/"><u>Easy Online Conversion Techniques for AVI Videos to QuickTime MOV on Windows and MacOS</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/interactive-flash-features-for-readers-on-flipbook-creator-flipbuilder-get-started-today/"><u>Interactive Flash Features for Readers on FlipBook Creator (FlipBuilder) – Get Started Today!</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/license-assurance-is-inclusion-of-company-logo-ensured-in-the-online-flip-book-offerings-post-purchase/"><u>License Assurance: Is Inclusion of Company Logo Ensured in the Online Flip Book Offerings Post-Purchase?</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/optimizing-output-quality-for-flipbook-on-smartphones-essential-tips-and-tricks/"><u>Optimizing Output Quality for FlipBook on Smartphones: Essential Tips & Tricks</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/refreshing-individual-webpages-without-overhauling-your-entire-project-with-flipbuilder-tools/"><u>Refreshing Individual Webpages Without Overhauling Your Entire Project with FlipBuilder Tools</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/resolving-the-grey-screen-error-while-editing-pages-on-flipprogram-expert-solutions/"><u>Resolving the Grey Screen Error While Editing Pages on FlipProgram - Expert Solutions</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/speed-up-your-reading-mastering-quick-flip-techniques-with-flipbuilder/"><u>Speed Up Your Reading: Mastering Quick Flip Techniques with FlipBuilder</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/top-rated-photo-design-software-can-you-trust-flipbuilder/"><u>Top Rated Photo Design Software: Can You Trust FlipBuilder?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/garmin-vivosmart-4/"><u>보안을 위해 Garmin Vivosmart 4 검토: 심리 모니터링, 스트레스 감지 등 다재다하고 유용한 기능</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1716070207717-new-2024-approved-playcapture-pro-your-own-screen-recorder-free/"><u>[New] 2024 Approved PlayCapture Pro Your Own Screen Recorder, Free!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-25-ultimate-android-and-ios-downloading-tools-reviewed/"><u>[New] In 2024, 25 Ultimate Android & iOS Downloading Tools Reviewed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-secrets-to-free-hd-video-grabs-from-facebook/"><u>[New] Secrets to Free HD Video Grabs From Facebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-digital-documentation-at-its-best-with-ezvide-software/"><u>[Updated] 2024 Approved Digital Documentation at Its Best with EZvide Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-blitz-through-edits-with-windows-11-pro-tips/"><u>[Updated] Blitz Through Edits with Windows 11 Pro Tips</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1-free-fixes-for-corrupted-movies-restore-mov-file-quality/"><u>1. Free Fixes for Corrupted Movies: Restore .MOV File Quality</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-guide-best-7-color-grades-in-editing/"><u>2024 Approved The Ultimate Guide Best 7 Color Grades in Editing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-xr-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone XR? Find the Best Solution Here</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/best-mac-audio-capture-apps-as-audio-hijack-pro-substitutes-find-your-ideal-solution-today/"><u>Best Mac Audio Capture Apps as Audio Hijack Pro Substitutes - Find Your Ideal Solution Today!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/best-mp3-download-software-reviewed-for-mac-users/"><u>Best MP3 Download Software Reviewed for Mac Users</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/demystifying-matroska-mkv-an-insight-into-this-popular-video-container/"><u>Demystifying Matroska (MKV): An Insight Into This Popular Video Container</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/essential-tips-and-tricks-for-capturing-quality-tracks-in-macos-el-capitan/"><u>Essential Tips and Tricks for Capturing Quality Tracks in MacOS El Capitan</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/leveraging-high-roi-crafting-dynamic-animated-ads-for-fb-for-2024/"><u>Leveraging High ROI Crafting Dynamic Animated Ads for FB for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-accessing-apple-music-streams-via-your-windows-mobile-device/"><u>Step-by-Step Guide: Accessing Apple Music Streams via Your Windows Mobile Device</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/the-ultimate-guide-expertly-rated-file-rescue-apps-for-outdated-hardware-2023-edition/"><u>The Ultimate Guide: Expertly Rated File Rescue Apps for Outdated Hardware, 2023 Edition</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/the-ultimate-tutorial-on-shifting-pictures-securely-to-your-memory-card/"><u>The Ultimate Tutorial on Shifting Pictures Securely to Your Memory Card</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-honor-x9b-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-d3d-initialization-error-errgfx-in-grand-theft-auto-v/"><u>Troubleshooting the D3D Initialization Error (ERR_GFX) in Grand Theft Auto V</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/ultimate-guide-transferring-your-iphone-screen-to-television-seamlessly/"><u>Ultimate Guide: Transferring Your iPhone Screen to Television Seamlessly</u></a></li>
 </ul></div>
 

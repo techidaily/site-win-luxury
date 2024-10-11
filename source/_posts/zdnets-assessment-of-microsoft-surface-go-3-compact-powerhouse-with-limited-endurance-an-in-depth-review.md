@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Assessment of Microsoft Surface Go 3: Compact Powerhouse with Limited Endurance - An In-Depth Review"
-date: 2024-09-30T20:57:45.512Z
-updated: 2024-10-05T20:01:27.581Z
+date: 2024-10-07T03:30:15.766Z
+updated: 2024-10-11T04:35:45.511Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,16 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,21 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-how-to-kick-start-your-digital-broadcast-today/"><u>[New] In 2024, How to Kick-Start Your Digital Broadcast Today</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-integrating-soundscapes-with-fusion-studios-tips/"><u>[New] Integrating Soundscapes with Fusion Studio's Tips</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-ad-innovations-what-to-expect-from-facebook/"><u>[Updated] 2024 Approved Ad Innovations What to Expect From Facebook</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-revolutionize-your-videos-here-are-the-top-8-free-cutting-suites/"><u>[Updated] 2024 Approved Revolutionize Your Videos - Here Are the Top 8 Free Cutting Suites</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-13-ultra-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on 13 Ultra</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/experts-pick-for-premier-noise-reduction-window-treatments-of-2024-exclusive-guide-by-zdnet/"><u>Experts' Pick for Premier Noise Reduction Window Treatments of 2024 | Exclusive Guide by ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-6-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 6 when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/probleme-mit-der-wiedergabe-von-udf-dvds-losen-erfolge-mit-dem-programm-winx-dvd-ripper/"><u>Probleme Mit Der Wiedergabe Von UDF-DVDs Lösen: Erfolge Mit Dem Programm WinX DVD Ripper</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/revive-your-old-pc-with-these-5-cost-free-tips-before-upgrading-to-windows-11-tech-insights/"><u>Revive Your Old PC with These 5 Cost-Free Tips Before Upgrading to Windows 11 | Tech Insights</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/save-big-on-your-surface-pro-upgrade-with-our-simple-200-diy-trick-techinsights/"><u>Save Big on Your Surface Pro Upgrade with Our Simple $200 DIY Trick | TechInsights</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/secure-your-microsoft-office-2019-quality-tools-for-windows-and-mac-exclusive-deal-under-26-at-zdnet/"><u>Secure Your Microsoft Office 2019: Quality Tools for Windows & Mac - Exclusive Deal Under $26 at ZDNET</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/streamline-digital-hygiene-using-stellar-file-eraser-5-configurable-windows-interface-and-pre-set-cleanup-timetables-for-optimal-security/"><u>Streamline Digital Hygiene Using Stellar File Eraser 5 - Configurable Windows Interface & Pre-Set Cleanup Timetables for Optimal Security</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/the-end-of-the-line-for-windows-control-panel-insights-from-microsoft-and-reactions-on-zdnet/"><u>The End of the Line for Windows Control Panel? Insights From Microsoft and Reactions on ZDnet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-lost-ark-effective-solutions-for-performance-improvement/"><u>Troubleshooting Lost Ark: Effective Solutions for Performance Improvement</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/upcoming-payment-plans-for-microsoft-windows-10-updates-what-users-should-expect/"><u>Upcoming Payment Plans for Microsoft Windows 10 Updates - What Users Should Expect</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/urgent-issue-looms-for-microsofts-windows-11-launch-only-a-year-remains-to-resolve-problems-insights-from-zdnet/"><u>Urgent Issue Looms for Microsoft's Windows 11 Launch; Only a Year Remains to Resolve Problems – Insights From ZDNet</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-reconstructing-your-tiktok-identity-step-by-step-renaming-manual/"><u>[Updated] In 2024, Reconstructing Your TikTok Identity Step-by-Step Renaming Manual</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1-alavsoft-9xbuddy-alternatives-top-free-and-easy-to-use-budgeting-tools-compatible-with-mac-and-windows/"><u>1. Alavsoft 9Xbuddy Alternatives: Top Free & Easy-to-Use Budgeting Tools Compatible with Mac and Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-f34-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy F34 5G without App | Dr.fone</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1725289012602-winxvideo-ai-4k8k10k/"><u>利用 Winxvideo AI 技術進行超解析度影像升級：如何達成 4K/8K/10K效果</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-c50-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco C50 To Phone | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-connoisseurs-guide-to-adding-precise-dates-on-images/"><u>In 2024, The Connoisseur's Guide to Adding Precise Dates on Images</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-microsofts-ergonomic-keyboard-is-it-really-as-high-quality/"><u>In-Depth Look at Microsoft's Ergonomic Keyboard – Is It Really as High Quality?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/remote-control-revolution-the-galaxy-ford-f1n50-dominates-as-a-monstrous-rc-companion-reviewed/"><u>Remote Control Revolution: The Galaxy Ford F1n50 Dominates as a Monstrous RC Companion Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/spectral-footage-innovation-in-cams/"><u>Spectral Footage Innovation in Cams</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-instructions-securely-capturing-tbs-streams-for-pcmac-users/"><u>Step-by-Step Instructions: Securely Capturing TBS Streams for PC/MAC Users</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-tutorial-on-saving-martial-arts-movies-as-mp4-avi-and-mov-files-for-offline-viewing/"><u>Step-by-Step Tutorial on Saving Martial Arts Movies as MP4, AVI & MOV Files for Offline Viewing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/supreme-6-overachievers-heavyweight-lms-champions/"><u>Supreme 6 Overachievers: Heavyweight LMS Champions</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/the-ultimate-guide-for-downloading-and-converting-youtube-media-into-high-quality-m4a-files/"><u>The Ultimate Guide for Downloading & Converting YouTube Media Into High-Quality M4A Files</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/transfer-your-loved-yt-videos-and-tunes-to-mp4mp3-easy-download-on-macpc/"><u>Transfer Your Loved YT Videos & Tunes to MP4/MP3 - Easy Download on Mac/PC</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/ultimate-freedom-centric-app-substitute-your-complete-solution-with-allavsoft-across-mac-and-pc/"><u>Ultimate Freedom-Centric App Substitute: Your Complete Solution with Allavsoft Across Mac and PC</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/ultimate-guide-converting-ufctv-content-into-various-video-formats/"><u>Ultimate Guide: Converting UFC.TV Content Into Various Video Formats</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/ultimate-tutorial-transforming-your-acast-podcasts-into-mp3-downloads-on-windowsmacos/"><u>Ultimate Tutorial: Transforming Your Acast Podcasts Into MP3 Downloads on Windows/MacOS</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/unmatched-downloader-companion-for-apple-and-pc-users-explore-the-superiority-of-allavsoft/"><u>Unmatched Downloader Companion for Apple & PC Users: Explore the Superiority of Allavsoft!</u></a></li>
 </ul></div>
 

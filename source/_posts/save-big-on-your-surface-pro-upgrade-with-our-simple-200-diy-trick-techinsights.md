@@ -1,7 +1,7 @@
 ---
 title: Save Big on Your Surface Pro Upgrade with Our Simple $200 DIY Trick | TechInsights
-date: 2024-10-02T16:56:57.349Z
-updated: 2024-10-05T23:12:27.929Z
+date: 2024-10-03T23:03:53.560Z
+updated: 2024-10-10T17:07:31.796Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -91,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +123,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,21 +141,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-mastering-video-success-on-facebook-platforms/"><u>[New] In 2024, Mastering Video Success on Facebook Platforms</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-humorhub-join-the-fun-filled-world/"><u>[Updated] 2024 Approved HumorHub Join the Fun-Filled World</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-elevate-your-instagram-imagery-with-striking-borders/"><u>[Updated] In 2024, Elevate Your Instagram Imagery with Striking Borders</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/44cm54sh5paz44ki44ox44oq44ks5l244gj44gf44oh44kj44k644ol44o844ox44op44k55yuv55s76yyy55s744ks44kk44oj44cn/"><u>「無料アプリを使ったディズニープラス動画録画ガイド」</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/wavflacmp3/"><u>高品質サウンドへの移行: WAV、FLACなどハイレ㻋オーディオファイルをMP3形式に変換するテクニック</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726221192366-movavi-mka-wav/"><u>使用 Movavi 網站免費 MKA 到 WAV 格式的直接轉換 - 在線上無限制</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-nokia-c12-pro-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Nokia C12 Pro.</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/best-mac-audio-capture-apps-as-audio-hijack-pro-substitutes-find-your-ideal-solution-today/"><u>Best Mac Audio Capture Apps as Audio Hijack Pro Substitutes - Find Your Ideal Solution Today!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/cambia-archivos-avi-a-formato-asf-online-de-forma-gratuita-con-moviemaker/"><u>Cambia Archivos AVI a Formato ASF Online De Forma Gratuita Con MovieMaker</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-online-presence-the-ultimate-guide-to-using-manycam-for-remote-webcams-and-livestreaming-solutions/"><u>Enhance Online Presence: The Ultimate Guide to Using ManyCam for Remote Webcams and Livestreaming Solutions</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/essential-tips-and-tricks-for-capturing-quality-tracks-in-macos-el-capitan/"><u>Essential Tips and Tricks for Capturing Quality Tracks in MacOS El Capitan</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/the-ultimate-tutorial-on-shifting-pictures-securely-to-your-memory-card/"><u>The Ultimate Tutorial on Shifting Pictures Securely to Your Memory Card</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/unveiling-the-distinct-features-of-dvd-r-dl-vs-single-layer-dvds/"><u>Unveiling the Distinct Features of DVD-R DL Vs. Single Layer DVDs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-users-guide-enabling-and-using-video-call-features/"><u>Windows Users Guide: Enabling and Using Video Call Features</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1726029374273-audacity/"><u>オーディオ編集が必要な時、Audacity以外におすすめ!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-chromatic-brilliance-for-video-enthusiasts-for-2024/"><u>[Updated] Chromatic Brilliance for Video Enthusiasts for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-insights-integrating-raspberry-pi-into-old-school-games/"><u>6 Insights: Integrating Raspberry Pi Into Old-School Games</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/breaking-down-vimeo-streaming-giants-secrets-revealed/"><u>Breaking Down Vimeo Streaming Giant's Secrets Revealed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-14-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 14 Pro? | Stellar</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-story-crafting-harness-over-a-hundred-ideas-for-your-unique-narrative/"><u>In 2024, Snapchat Story Crafting Harness over a Hundred Ideas for Your Unique Narrative</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-13-mini-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 13 mini to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intels-next-gen-core-ultra-k-prototype-hitting-5ghz-with-gen-4-nodes-but-falls-short-on-avx-512-support-confirmed-by-cpu-z-software/"><u>Intel's Next-Gen Core Ultra K Prototype: Hitting 5Ghz with Gen 4 Nodes but Falls Short on AVX-512 Support - Confirmed by CPU-Z Software</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/secure-browsing-with-microsoft-edge-top-tips-and-tricks-from-zdnets-latest-guide/"><u>Secure Browsing with Microsoft Edge: Top Tips and Tricks From ZDNet's Latest Guide</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/simplify-your-pc-experience-a-tri-step-guide-to-taming-windows-updates-techadvice/"><u>Simplify Your PC Experience: A Tri-Step Guide to Taming Windows Updates | TechAdvice</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-0xc0000017-your-pc-needs-to-be-repaired/"><u>SOLVED: 0Xc0000017 Your PC Needs To Be Repaired</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/speed-up-your-pc-on-windows-11-by-using-a-secret-tool-to-discard-sluggish-applications-techguide/"><u>Speed Up Your PC on Windows 11 by Using a Secret Tool to Discard Sluggish Applications | TechGuide</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-to-downgrade-from-windows-11-to-windows-10-with-a-twist-gadgetpundit/"><u>Step-by-Step Guide to Downgrade From Windows 11 to Windows 10 with a Twist | GadgetPundit</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977517480-successful-installation-broadcom-gige-network-adapter-driver-downloads-for-windows-11-fixed-issues/"><u>Successful Installation: Broadcom GigE Network Adapter Driver Downloads for Windows 11 - Fixed Issues</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-recommended-accessories-seamless-connectivity-from-4k-to-8k-monitors-using-usb-c-ports-insights-for-windows-and-mac-users-zdnet/"><u>Top Recommended Accessories: Seamless Connectivity From 4K to 8K Monitors Using USB-C Ports - Insights for Windows and Mac Users | ZDNet</u></a></li>
 </ul></div>
 

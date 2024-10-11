@@ -1,7 +1,7 @@
 ---
 title: Mastering Screen Recordings in Microsoft's Latest Operating Systems with Built-In Features | Tech Tips for Windows Users
-date: 2024-09-30T00:36:02.667Z
-updated: 2024-10-05T17:05:41.668Z
+date: 2024-10-10T09:24:41.001Z
+updated: 2024-10-10T22:30:48.409Z
 tags:
   - windows
 categories:
@@ -33,18 +33,18 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -55,18 +55,24 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -74,24 +80,18 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -104,18 +104,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -162,24 +162,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unlock-your-potential-best-free-mac-screen-recorder-software-reviewed/"><u>[New] 2024 Approved Unlock Your Potential Best Free Mac Screen Recorder Software Reviewed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dive-into-the-art-of-asmr-recording-a-comprehensive-overview/"><u>[Updated] 2024 Approved Dive Into the Art of ASMR Recording – A Comprehensive Overview</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-deciphering-past-visual-content-inverse-queries-and-fb-techniques/"><u>[Updated] In 2024, Deciphering Past Visual Content Inverse Queries and FB Techniques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-reimagining-the-role-of-titles-in-after-effects-media/"><u>[Updated] In 2024, Reimagining the Role of Titles in After Effects Media</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-invisible-enthusiast-of-facebook-episodes/"><u>[Updated] Invisible Enthusiast of Facebook Episodes</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/best-mac-audio-capture-apps-as-audio-hijack-pro-substitutes-find-your-ideal-solution-today/"><u>Best Mac Audio Capture Apps as Audio Hijack Pro Substitutes - Find Your Ideal Solution Today!</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/best-mp3-download-software-reviewed-for-mac-users/"><u>Best MP3 Download Software Reviewed for Mac Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/defending-originality-shielding-your-creations-from-ai-replication/"><u>Defending Originality: Shielding Your Creations From AI Replication</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/demystifying-matroska-mkv-an-insight-into-this-popular-video-container/"><u>Demystifying Matroska (MKV): An Insight Into This Popular Video Container</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/editing-excess-strategies-to-clean-up-oversized-tiktok-drafts-for-2024/"><u>Editing Excess Strategies to Clean Up Oversized TikTok Drafts for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/essential-tips-and-tricks-for-capturing-quality-tracks-in-macos-el-capitan/"><u>Essential Tips and Tricks for Capturing Quality Tracks in MacOS El Capitan</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-tips-to-enhance-your-youtube-live-stream-with-zoom/"><u>Essential Tips to Enhance Your YouTube Live Stream with Zoom</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-hd-disruptions-clear-screening-challenges-in-fir-safari-chrome/"><u>In 2024, Navigating HD Disruptions Clear Screening Challenges in Fir, Safari, Chrome</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/photo-memory-locker-at-no-cost-plus-elite-charged-cloud-spheres/"><u>Photo Memory Locker at No Cost, Plus Elite Charged Cloud Spheres</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/simple-guide-seamless-transfers-of-songs-between-iphones/"><u>Simple Guide: Seamless Transfers of Songs Between iPhones</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-accessing-apple-music-streams-via-your-windows-mobile-device/"><u>Step-by-Step Guide: Accessing Apple Music Streams via Your Windows Mobile Device</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/the-ultimate-guide-expertly-rated-file-rescue-apps-for-outdated-hardware-2023-edition/"><u>The Ultimate Guide: Expertly Rated File Rescue Apps for Outdated Hardware, 2023 Edition</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/the-ultimate-tutorial-on-shifting-pictures-securely-to-your-memory-card/"><u>The Ultimate Tutorial on Shifting Pictures Securely to Your Memory Card</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/ultimate-guide-transferring-your-iphone-screen-to-television-seamlessly/"><u>Ultimate Guide: Transferring Your iPhone Screen to Television Seamlessly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-confirming-youtube-ad-revenue-accrual/"><u>[New] 2024 Approved Confirming YouTube Ad Revenue Accrual</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-cease-playback-failures-fix-facebook-videos/"><u>[Updated] 2024 Approved Cease Playback Failures - Fix Facebook Videos</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/h265-hevc/"><u>最高の H.265 HEVC ビデオエディター推薦リスト</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-charge-wirelessly-uncover-these-7-remedies-to-restore-your-iphones-wireless-charging-functionality/"><u>Can't Charge Wirelessly? Uncover These 7 Remedies to Restore Your iPhone's Wireless Charging Functionality</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-historical-wisdom-the-ultimate-student-friendly-channel-list-1-10/"><u>Curating Historical Wisdom The Ultimate Student-Friendly Channel List (#1-10)</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/guide-steps-to-successfully-downloading-content-from-jw-player-platforms/"><u>Guide: Steps to Successfully Downloading Content From JW Player Platforms</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/hassle-free-method-batch-convert-your-au-recordings-to-high-quality-wav-files-instantly/"><u>Hassle-Free Method: Batch Convert Your AU Recordings to High-Quality WAV Files Instantly</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/hevch265vlc/"><u>HEVC(H.265)をVLCメディアプレーヤー上で再生しにくい場合の解決策</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/quick-route-to-your-latest-fb-video-viewings/"><u>Quick Route to Your Latest FB Video Viewings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/seamless-desktop-capture-high-quality-free-windowsmac-software/"><u>Seamless Desktop Capture High-Quality Free Windows/Mac Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-role-of-output-impedance-in-audio-systems/"><u>The Role of Output Impedance in Audio Systems</u></a></li>
 </ul></div>
 

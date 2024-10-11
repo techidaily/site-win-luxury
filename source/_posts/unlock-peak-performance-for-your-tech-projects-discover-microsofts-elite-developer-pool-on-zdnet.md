@@ -1,7 +1,7 @@
 ---
 title: "Unlock Peak Performance for Your Tech Projects: Discover Microsoft's Elite Developer Pool on ZDNET"
-date: 2024-10-01T16:53:05.578Z
-updated: 2024-10-06T00:29:52.601Z
+date: 2024-10-06T00:09:36.976Z
+updated: 2024-10-11T13:45:23.186Z
 tags:
   - microsoft
 categories:
@@ -53,19 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -75,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -97,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -135,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,18 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-androids-top-10-moba-gaming-spectacles/"><u>2024 Approved Android's Top 10 MOBA Gaming Spectacles</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/h265-hevc/"><u>最高の H.265 HEVC ビデオエディター推薦リスト</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-m34-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy M34 5G</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/easy-ways-to-transfer-photos-and-videos-from-an-iphone-to-a-pc/"><u>Easy Ways to Transfer Photos and Videos From an iPhone to a PC</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/guide-steps-to-successfully-downloading-content-from-jw-player-platforms/"><u>Guide: Steps to Successfully Downloading Content From JW Player Platforms</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/hassle-free-method-batch-convert-your-au-recordings-to-high-quality-wav-files-instantly/"><u>Hassle-Free Method: Batch Convert Your AU Recordings to High-Quality WAV Files Instantly</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/hevch265vlc/"><u>HEVC(H.265)をVLCメディアプレーヤー上で再生しにくい場合の解決策</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-tecno-pop-7-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Tecno Pop 7 Pro Devices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-asus-rog-phone-7-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Asus ROG Phone 7 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-selection-of-cost-effective-4k-projection-screens-for-2024/"><u>Ideal Selection of Cost-Effective 4K Projection Screens for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-x100-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo X100 Pro Phone Now with These Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-classic-collection-small-sized-isos-by-chdman-cooking-method/"><u>Streamline Your Classic Collection: Small-Sized ISOs by ChDMan' Cooking Method</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-instasong-rights-guidelines/"><u>[New] InstaSong Rights Guidelines</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-optimize-your-music-experience-the-best-apps-for-turning-spotify-into-youtube/"><u>[Updated] 2024 Approved Optimize Your Music Experience The Best Apps for Turning Spotify Into YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-bend-reality-with-your-own-animated-craftsmanship/"><u>[Updated] Bend Reality with Your Own Animated Craftsmanship</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-key-cutting-strategies-in-modern-cinema/"><u>[Updated] Key Cutting Strategies in Modern Cinema</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-top-15-emerging-tiktok-patterns-for-2024/"><u>[Updated] Top 15 Emerging TikTok Patterns for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-maximizing-zoom-visual-precision-effective-strategies/"><u>In 2024, Maximizing Zoom Visual Precision Effective Strategies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/into-virtual-realms-assessing-current-progress-future-hurdles/"><u>Into Virtual Realms Assessing Current Progress, Future Hurdles</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/microsoft-faces-major-challenges-with-windows-10-only-1-year-left-to-fix-them/"><u>Microsoft Faces Major Challenges with Windows 10: Only 1 Year Left to Fix Them!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/new-controversy-arises-with-microsofts-latest-os-windows-11-does-it-deserve-its-detractors/"><u>New Controversy Arises with Microsoft's Latest OS, Windows 11 – Does It Deserve Its Detractors?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/optimizing-image-precision-win11-fixed/"><u>Optimizing Image Precision: Win11 Fixed</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/secure-browsing-with-microsoft-edge-top-tips-and-tricks-from-zdnets-latest-guide/"><u>Secure Browsing with Microsoft Edge: Top Tips and Tricks From ZDNet's Latest Guide</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/simplify-your-pc-experience-a-tri-step-guide-to-taming-windows-updates-techadvice/"><u>Simplify Your PC Experience: A Tri-Step Guide to Taming Windows Updates | TechAdvice</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/speed-up-your-pc-on-windows-11-by-using-a-secret-tool-to-discard-sluggish-applications-techguide/"><u>Speed Up Your PC on Windows 11 by Using a Secret Tool to Discard Sluggish Applications | TechGuide</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-to-downgrade-from-windows-11-to-windows-10-with-a-twist-gadgetpundit/"><u>Step-by-Step Guide to Downgrade From Windows 11 to Windows 10 with a Twist | GadgetPundit</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-recommended-accessories-seamless-connectivity-from-4k-to-8k-monitors-using-usb-c-ports-insights-for-windows-and-mac-users-zdnet/"><u>Top Recommended Accessories: Seamless Connectivity From 4K to 8K Monitors Using USB-C Ports - Insights for Windows and Mac Users | ZDNet</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/unleash-ultimate-control-mastering-god-mode-in-windows-11-essential-tips-and-reasons/"><u>Unleash Ultimate Control: Mastering God Mode in Windows 11 - Essential Tips & Reasons</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-global-access-a-guide-to-use-chatgpt-anytime-anywhere-with-chatgpt-everywhere/"><u>Unlocking Global Access: A Guide to Use ChatGPT Anytime, Anywhere with ChatGPT Everywhere</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/urgent-update-needed-for-windows-11-microsofts-dilemma-and-the-race-against-time-innovateitzdnet/"><u>Urgent Update Needed for Windows 11: Microsoft's Dilemma and the Race Against Time | InnovateITZDNet</u></a></li>
 </ul></div>
 

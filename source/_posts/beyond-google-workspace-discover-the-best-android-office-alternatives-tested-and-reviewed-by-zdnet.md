@@ -1,7 +1,7 @@
 ---
 title: "Beyond Google Workspace: Discover the Best Android Office Alternatives Tested and Reviewed by ZDNet"
-date: 2024-10-01T18:09:22.759Z
-updated: 2024-10-05T18:40:30.097Z
+date: 2024-10-04T22:41:24.265Z
+updated: 2024-10-11T10:49:35.939Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +97,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +148,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-best-windows-video-editors-top-picks-for-professional-creatives/"><u>[New] Best Windows Video Editors Top Picks for Professional Creatives</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-watch-youtube-green-screen-videos-and-inspire-your-green-screen-ideas/"><u>[Updated] 2024 Approved Watch Youtube Green Screen Videos and Inspire Your Green Screen Ideas</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1-simple-strategies-for-adding-written-content-to-your-pdf-documents-updated-guide/"><u>1. Simple Strategies for Adding Written Content to Your PDF Documents - Updated Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-safe-surveillance-practices-keeping-info-undercover/"><u>2024 Approved Safe Surveillance Practices Keeping Info Undercover</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-art-of-aural-storytelling-on-instagram-reels/"><u>2024 Approved The Art of Aural Storytelling on Instagram Reels</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-14-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 14 without Backup | Stellar</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/live-sounds-made-simple-the-ultimate-guide-to-digital-recording/"><u>Live Sounds Made Simple The Ultimate Guide to Digital Recording</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mov-in-3gp-convertito-online-gratuitamente-tramite-movavi-guida-dettagliata/"><u>MOV in 3Gp Convertito Online Gratuitamente Tramite Movavi - Guida Dettagliata</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movavis-cost-free-tool-to-transform-wav-audio-into-flash-swf-file-online/"><u>Movavi's Cost-Free Tool to Transform WAV Audio Into Flash SWF File Online</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolve-android-parsing-errors-with-these-8-simple-techniques/"><u>Resolve Android Parsing Errors with These 8 Simple Techniques</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/simple-methods-for-uninstalling-programs-from-your-ipad/"><u>Simple Methods for Uninstalling Programs From Your iPad</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/simplify-your-skype-interviews-how-to-perfectly-capture-every-moment/"><u>Simplify Your Skype Interviews: How to Perfectly Capture Every Moment</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-coredll-absent-mistake-on-your-computer/"><u>Step-by-Step Fix for Core.DLL Absent Mistake on Your Computer</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-moving-your-itunes-tunes-to-an-android-device/"><u>Step-by-Step Guide: Moving Your iTunes Tunes to an Android Device</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-retrieving-images-from-a-non-responsive-ios-device/"><u>Step-by-Step Guide: Retrieving Images From a Non-Responsive iOS Device</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/top-5-flexible-video-conversion-tools-compatible-with-windows-11/"><u>Top 5 Flexible Video Conversion Tools Compatible with Windows 11</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/top-alternatives-to-imovie-on-android-devices-best-app-picks-of-2020/"><u>Top Alternatives to iMovie on Android Devices: Best App Picks of 2020</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/top-free-tools-seamless-conversion-of-videos-into-multiple-languages/"><u>Top Free Tools: Seamless Conversion of Videos Into Multiple Languages</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/trouble-free-methods-sync-photos-with-your-iphone-apart-from-using-itunes/"><u>Trouble-Free Methods: Sync Photos with Your iPhone Apart From Using iTunes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-guide-easy-file-movement-to-pcs/"><u>[New] The Ultimate Guide Easy File Movement to PCs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-worldwide-top-earners-in-the-streaming-sphere/"><u>[New] Worldwide Top Earners in the Streaming Sphere</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-craft-engaging-videos-insights-into-youtube-movie-maker/"><u>2024 Approved Craft Engaging Videos Insights Into YouTube Movie Maker</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/bringing-the-classic-look-to-windows-11-restoring-the-start-button-easily-innovatetech/"><u>Bringing the Classic Look to Windows 11: Restoring the Start Button Easily | InnovateTech</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/exploring-the-latest-windows-11-enhancements-and-innovations-tech-insights-from-zdnet/"><u>Exploring the Latest Windows 11 Enhancements and Innovations | Tech Insights From ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-edit-hauls-a-comprehensive-video-guide-for-2024/"><u>How to Edit Hauls A Comprehensive Video Guide for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-tecno-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Tecno</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-expertly-picked-top-10-windows-11-cam-recorders/"><u>In 2024, Expertly Picked Top 10 Windows 11 Cam Recorders</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/microsofts-latest-security-scare-should-we-laugh-or-cry-a-deep-dive-on-zdnet/"><u>Microsoft's Latest Security Scare: Should We Laugh or Cry? - A Deep Dive on ZDNet</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/pre-order-microsofts-affordable-powerhouse-the-newly-released-599-surface-laptop-go-2-exclusive-info-from-zdnet/"><u>Pre-Order Microsoft's Affordable Powerhouse: The Newly Released $599 Surface Laptop Go 2 - Exclusive Info From ZDNet</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/pre-order-now-microsoft-unveils-affordable-surface-laptop-go-2-at-599-latest-news-on-zdnet/"><u>Pre-Order Now: Microsoft Unveils Affordable Surface Laptop Go 2 at $599 - Latest News on ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolve-beats-audio-compatibility-issues-in-hp-laptops-with-this-comprehensive-guide-windows-11-8-and-7/"><u>Resolve Beats Audio Compatibility Issues in HP Laptops with This Comprehensive Guide (Windows 11, 8 & 7)</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/silent-release-loud-complaints-how-microsofts-new-feature-ignited-controversy-techinsight/"><u>Silent Release, Loud Complaints: How Microsoft's New Feature Ignited Controversy | TechInsight</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-gpeditmsc-doesnt-appear-on-home-windows-pcs/"><u>Troubleshooting Steps When gpedit.msc Doesn't Appear on Home Windows PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/why-every-audiophile-should-consider-investing-in-a-quality-dac/"><u>Why Every Audiophile Should Consider Investing in a Quality DAC</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/zdnet-exclusive-tutorial-effortless-color-selection-with-powertoys-color-picker-tool-for-windows-users/"><u>ZDNet Exclusive Tutorial: Effortless Color Selection with PowerToy's Color Picker Tool for Windows Users</u></a></li>
 </ul></div>
 

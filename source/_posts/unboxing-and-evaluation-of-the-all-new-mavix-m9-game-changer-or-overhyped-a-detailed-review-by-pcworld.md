@@ -1,7 +1,7 @@
 ---
 title: "Unboxing and Evaluation of the All-New Mavix M9: Game Changer or Overhyped? - A Detailed Review by PCWorld"
-date: 2024-09-28T16:54:44.766Z
-updated: 2024-10-05T22:01:48.728Z
+date: 2024-10-04T18:43:20.202Z
+updated: 2024-10-11T08:18:06.010Z
 tags:
   - office-furniture
 categories:
@@ -66,6 +66,13 @@ The seat, back, and headrest are designed to be equally well-suited to use at a 
 
 Optional add-ons like the Elemax heating/cooling/massage and FS 360 armrests combine with the default configuration and adjustments to provide a design that's one of the most customizable (both at the time of purchase and once you've got it set up) that I've ever used. This expansive set of variables can be both a blessing and, occasionally, a hindrance, as we'll discuss further on in our review. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Build quality
 
 The M9 uses a mesh-like material Mavix calls Advanced Tensile Recovery (A.T.R.) Fabric on the lumbar and its M-Breeze fabric everywhere else. The ATR fabric allows air to pass through, aiding the Elemax system's heating and cooling. The M-Breeze material offers less airflow, but still breathes better than the standard leatherette materials it resembles.   
@@ -83,10 +90,10 @@ The frame of the unit is a combination of metal (central gas lift cylinder, back
  Lastly, the M9's locking, in-line skate casters work well on everything from hard floors to dense carpeting, removing any need for the upgraded replacement casters I recommend for many other chairs. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Shipping and setup 
@@ -116,13 +123,6 @@ Michael Gariffo/ZDNET
 Speaking of oversights, the second speedbump came from a small hex wrench and a pair of set screws included with the headrest. Again, there was no reference to these in the video or documentation. I attempted to suss out the hardware's purpose but eventually gave up.   
   
 All told, the clear markings on the hardware card still helped me complete the assembly in about a half-hour. I could have finished faster with help, but I flew solo to simulate a worst-case scenario. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Installing the extras 
 
@@ -201,6 +201,13 @@ The headrest uses the M-Breeze fabric over an elastic mesh layer, seen from behi
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Comfort and performance  
 
 The Mavix M9 leans towards the ergonomic side of the spectrum. This means the chair's designed to be more supportive than cushy. Its seat pan, backrest, and headrest were created to help you maintain a proper posture. That doesn't mean it's uncomfortable; it just doesn't feel like sinking into a cloud. This is a good thing for a chair that you're likely to be spending eight or more hours in per day. The ergonomics of the M9 keeps you from slouching into the unhealthy positions those soft, cloud-like chairs can encourage.
@@ -232,10 +239,10 @@ But the active posture and focused state I tend to be in when gaming or working 
 [Buy the Mavix M9 $999 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09MDWBB99%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d4e66d1-29f7-4809-92b1-63f89a63902a%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Bottom line 
@@ -245,13 +252,6 @@ As I mentioned in the opening, there are numerous companies vying for the gaming
 On the other end of the spectrum, companies like Herman Miller and Mavix, both of which took designs originally intended for the office chair market, made a few tweaks to them, and targeted gamers instead. 
 
 The M9 won't revolutionize your workday or gaming sessions, but it will provide a comfortable, ergonomic, well-built seating solution that looks just "gamer-y" enough. If the [$999 price](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMAVIX-M9-Gaming-Chair-Black%2Fdp%2FB09MDWBB99%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1d4e66d1-29f7-4809-92b1-63f89a63902a%7Cdtp&dtb=1) point is affordable to you, I'd absolutely recommend paying the extra $165 for the FS360 arms. With them, I think the Mavix M9 makes an excellent case for being one of the best gaming chairs in the upper mid-range of today's best entries. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider 
 
@@ -297,20 +297,21 @@ A chair from a company better known for its mice and keyboards, the Iskur is exc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-live-stream-to-high-fidelity-choosing-budget-friendly-wav-tools/"><u>[New] 2024 Approved From Live Stream to High Fidelity Choosing Budget-Friendly WAV Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-diy-youtube-thumbnails-on-smartphones-for-2024/"><u>[New] DIY YouTube Thumbnails on Smartphones for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-uncomplicated-techniques-reverse-playback-in-vlc-media-player/"><u>[New] Uncomplicated Techniques Reverse Playback in VLC Media Player</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-no-8-visionary-photomontage-creator-app/"><u>[Updated] 2024 Approved The No. 8 Visionary Photomontage Creator App</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/beginners-guide-mastering-the-art-of-photography-for-successful-poshmark-sales-techniques-and-trends/"><u>Beginner's Guide: Mastering the Art of Photography for Successful Poshmark Sales - Techniques and Trends</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-elevate-engagement-personalized-youtube-thumbnail-guide/"><u>In 2024, Elevate Engagement Personalized YouTube Thumbnail Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-13t-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 13T Pro Bootloader Easily</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/mastering-summoners-war-a-comprehensive-guide-for-successful-gameplay-on-your-computer/"><u>Mastering Summoner's War: A Comprehensive Guide for Successful Gameplay on Your Computer</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/simple-methods-for-uninstalling-programs-from-your-ipad/"><u>Simple Methods for Uninstalling Programs From Your iPad</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-moving-your-itunes-tunes-to-an-android-device/"><u>Step-by-Step Guide: Moving Your iTunes Tunes to an Android Device</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-retrieving-images-from-a-non-responsive-ios-device/"><u>Step-by-Step Guide: Retrieving Images From a Non-Responsive iOS Device</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/top-tips-for-blurring-backgrounds-like-a-pro-in-your-photography-a-comprehensive-guide/"><u>Top Tips for Blurring Backgrounds Like a Pro in Your Photography: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/trouble-free-methods-sync-photos-with-your-iphone-apart-from-using-itunes/"><u>Trouble-Free Methods: Sync Photos with Your iPhone Apart From Using iTunes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-guide-top-5-online-converters-for-gifs-to-videos/"><u>Ultimate Guide Top 5 Online Converters for GIFs to Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/windows-hdr-streamlining-video-processing-for-2024/"><u>Windows HDR Streamlining Video Processing for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-free-youtube-video-editing-apps-for-iphone-and-ipad/"><u>[New] 2024 Approved Best Free YouTube Video Editing Apps for iPhone & iPad</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-beyond-obs-streamer-friendly-broadcast-software/"><u>[Updated] 2024 Approved Beyond OBS Streamer-Friendly Broadcast Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-mastering-insta-lives-guide-to-downloads-and-creative-techniques/"><u>[Updated] In 2024, Mastering Insta Lives Guide to Downloads & Creative Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-reviewing-asuss-4k-spectacle-the-mg28uq-unboxed-for-2024/"><u>[Updated] Reviewing ASUS's 4K Spectacle - The MG28UQ Unboxed for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1-mirillis-your-comprehensive-hub-for-legal-insights-and-law-resources/"><u>1. Mirillis: Your Comprehensive Hub for Legal Insights and Law Resources</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-streamlined-templates-the-essential-ae-text-list/"><u>2024 Approved Streamlined Templates The Essential AE Text List</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/beyond-google-workspace-discover-the-best-android-office-alternatives-tested-and-reviewed-by-zdnet/"><u>Beyond Google Workspace: Discover the Best Android Office Alternatives Tested and Reviewed by ZDNet</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/breathe-new-life-into-your-vintage-computer-top-5-no-cost-fixes-for-a-smooth-transition-to-windows-ebx-tech-insights-from-zdnet/"><u>Breathe New Life Into Your Vintage Computer: Top 5 No-Cost Fixes for a Smooth Transition to Windows Ebx - Tech Insights From ZDNET</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-microsoft-is-making-artificial-intelligence-seem-familiar-particularly-when-solitary-discover-the-strategy-on-zdnet/"><u>How Microsoft Is Making Artificial Intelligence Seem Familiar, Particularly When Solitary - Discover the Strategy on ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-x-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone X</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-controller-enhancing-classic-games/"><u>Retro Controller: Enhancing Classic Games</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/save-on-professional-licenses-with-deals-at-20-get-microsoft-project-and-visio-today/"><u>Save on Professional Licenses with Deals at $20 - Get Microsoft Project & Visio Today!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/seamless-access-using-your-microsoft-amoeba-business-account-for-windows-11-login-learn-how-and-the-benefits/"><u>Seamless Access: Using Your Microsoft Amoeba Business Account for Windows 11 Login - Learn How and the Benefits!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/singapore-elevates-legal-tech-with-microsoft-copilot-integration-a-game-changer-revealed-by-zdnet/"><u>Singapore Elevates Legal Tech with Microsoft Copilot Integration: A Game-Changer Revealed by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tailoring-your-auto-insurance-coverage-to-fit-your-needs-vehicle-value-and-risk-factors/"><u>Tailoring Your Auto Insurance Coverage to Fit Your Needs, Vehicle Value & Risk Factors</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/tipps-and-tricks-wie-man-den-fehler-bei-der-handbrake-dvd-scansfunktion-behebt/"><u>Tipps & Tricks: Wie Man Den Fehler Bei Der HandBrake-DVD-Scansfunktion Behebt</u></a></li>
 </ul></div>
 

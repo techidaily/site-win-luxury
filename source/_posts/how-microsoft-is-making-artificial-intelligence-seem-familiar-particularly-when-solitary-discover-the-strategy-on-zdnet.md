@@ -1,7 +1,7 @@
 ---
 title: How Microsoft Is Making Artificial Intelligence Seem Familiar, Particularly When Solitary - Discover the Strategy on ZDNet
-date: 2024-10-03T22:58:53.157Z
-updated: 2024-10-05T17:25:27.635Z
+date: 2024-10-07T22:26:20.876Z
+updated: 2024-10-10T16:35:13.771Z
 tags:
   - microsoft
 categories:
@@ -114,23 +114,35 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-stop-muted-tracks-in-tweeted-video-content/"><u>[New] In 2024, Stop Muted Tracks in Tweeted Video Content</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-quick-fixes-essential-tips-to-survive-win11/"><u>[Updated] 2024 Approved Quick Fixes Essential Tips to Survive Win11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-digital-stretching-mastering-mobile-horizon-panos-for-2024/"><u>[Updated] Digital Stretching Mastering Mobile Horizon Panos for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-fast-track-choosing-best-pc-game-speed-extensions/"><u>[Updated] Fast Track Choosing Best PC Game Speed Extensions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-behind-the-scenes-crafting-a-screenplay/"><u>2024 Approved Behind the Scenes Crafting a Screenplay</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/essential-tips-and-tricks-for-capturing-quality-tracks-in-macos-el-capitan/"><u>Essential Tips and Tricks for Capturing Quality Tracks in MacOS El Capitan</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-accessing-apple-music-streams-via-your-windows-mobile-device/"><u>Step-by-Step Guide: Accessing Apple Music Streams via Your Windows Mobile Device</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/the-ultimate-guide-expertly-rated-file-rescue-apps-for-outdated-hardware-2023-edition/"><u>The Ultimate Guide: Expertly Rated File Rescue Apps for Outdated Hardware, 2023 Edition</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/the-ultimate-tutorial-on-shifting-pictures-securely-to-your-memory-card/"><u>The Ultimate Tutorial on Shifting Pictures Securely to Your Memory Card</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/ultimate-guide-transferring-your-iphone-screen-to-television-seamlessly/"><u>Ultimate Guide: Transferring Your iPhone Screen to Television Seamlessly</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-top-8-live-selling-platforms-beginners-tool-tip/"><u>Updated Top 8 Live Selling Platforms Beginners Tool Tip</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-cutting-edge-techniques-in-live-streamed-gaming/"><u>[New] In 2024, Cutting-Edge Techniques in Live-Streamed Gaming</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-immediate-measures-to-reactivate-stopped-facebook-live/"><u>[Updated] Immediate Measures to Reactivate Stopped Facebook LIVE</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-high-quality-video-calling-solutions-top-10-best-apps-ranked/"><u>[Updated] In 2024, High-Quality Video Calling Solutions Top 10 Best Apps Ranked</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/150-tech-pants-by-microsoft-what-are-these-unusual-smart-clothes-and-how-do-they-work-zdnet/"><u>$150 Tech Pants by Microsoft – What Are These Unusual Smart Clothes and How Do They Work? | ZDNet</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1-microsoft-shatters-expectations-with-easily-repairable-latest-laptop-models-a-challenge-to-competitors-like-apple-insights-from-ifixit-featured-on-zdnet.m130/"><u>1. Microsoft Shatters Expectations with Easily-Repairable Latest Laptop Models: A Challenge to Competitors Like Apple - Insights From iFixit Featured on ZDNet</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-rapid-video-filming-techniques-for-tiktok-success/"><u>2024 Approved Rapid Video Filming Techniques for TikTok Success</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/copilot-plus-pcs-upcoming-ai-innovations-i-wish-for-on-my-apple-laptop-zdnet-insight/"><u>Copilot + PCs' Upcoming AI Innovations I Wish for on My Apple Laptop - ZDNET Insight</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-asus-rog-phone-7-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Asus ROG Phone 7 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-masterful-moments-a-deep-dive-into-youtube-to-facebook-sharing/"><u>In 2024, Masterful Moments A Deep Dive Into YouTube-to-Facebook Sharing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/is-the-free-windows-10-update-still-available-on-microsofts-website/"><u>Is the Free Windows 10 Update Still Available on Microsoft's Website?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-mp4-playback-issues/"><u>Mending MP4 Playback Issues</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/save-big-on-your-surface-pro-upgrade-with-our-simple-200-diy-trick-techinsights/"><u>Save Big on Your Surface Pro Upgrade with Our Simple $200 DIY Trick | TechInsights</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/secure-your-microsoft-office-2019-quality-tools-for-windows-and-mac-exclusive-deal-under-26-at-zdnet/"><u>Secure Your Microsoft Office 2019: Quality Tools for Windows & Mac - Exclusive Deal Under $26 at ZDNET</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/the-end-of-the-line-for-windows-control-panel-insights-from-microsoft-and-reactions-on-zdnet/"><u>The End of the Line for Windows Control Panel? Insights From Microsoft and Reactions on ZDnet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/uninterrupted-legacy-software-sync-how-microsoft-ensures-continued-back-end-services-for-office-20162019-users-ahead-of-2024-itproportal/"><u>Uninterrupted Legacy Software Sync: How Microsoft Ensures Continued Back-End Services for Office 2016/2019 Users Ahead of 2024 | ITProPortal</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

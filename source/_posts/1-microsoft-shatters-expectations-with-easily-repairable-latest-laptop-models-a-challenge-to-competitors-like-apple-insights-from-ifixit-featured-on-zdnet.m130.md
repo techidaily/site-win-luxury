@@ -1,7 +1,7 @@
 ---
 title: "1. Microsoft Shatters Expectations with Easily-Repairable Latest Laptop Models: A Challenge to Competitors Like Apple - Insights From iFixit Featured on ZDNet"
-date: 2024-10-04T22:24:46.259Z
-updated: 2024-10-05T17:47:37.020Z
+date: 2024-10-06T10:39:40.259Z
+updated: 2024-10-10T16:22:54.476Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,17 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mastering-the-art-of-laptop-video-capturing/"><u>[New] 2024 Approved Mastering the Art of Laptop Video Capturing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-3-voice-capturing-ipad-apps-reviewed/"><u>[New] In 2024, TOP 3 Voice Capturing iPad Apps Reviewed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-specs-hp-envy-27s-4k-capabilities/"><u>2024 Approved Unveiling the Specs HP Envy 27'S 4K Capabilities</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-8-plus-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 8 Plus? How to Fix it?</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/beginners-guide-mastering-the-art-of-photography-for-successful-poshmark-sales-techniques-and-trends/"><u>Beginner's Guide: Mastering the Art of Photography for Successful Poshmark Sales - Techniques and Trends</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/best-mac-audio-capture-apps-as-audio-hijack-pro-substitutes-find-your-ideal-solution-today/"><u>Best Mac Audio Capture Apps as Audio Hijack Pro Substitutes - Find Your Ideal Solution Today!</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/best-mobile-roboknox-substitutes-top-rated-replacement-applications/"><u>Best Mobile RoboKnox Substitutes: Top-Rated Replacement Applications</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/essential-tips-and-tricks-for-capturing-quality-tracks-in-macos-el-capitan/"><u>Essential Tips and Tricks for Capturing Quality Tracks in MacOS El Capitan</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-fix-connectivity-woes-with-your-lg-devices-usb-driver-in-windows-operating-systems/"><u>How to Fix Connectivity Woes with Your LG Device's USB Driver in Windows Operating Systems</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/mastering-summoners-war-a-comprehensive-guide-for-successful-gameplay-on-your-computer/"><u>Mastering Summoner's War: A Comprehensive Guide for Successful Gameplay on Your Computer</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-pulse-finder-your-free-online-music-buddy-for-2024/"><u>The Pulse Finder – Your Free, Online Music Buddy for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/44ov44oq44o844gq44kq44oz44op44kk44oz5b2i5byp5asj5oplusbic0g44og44o844oq44o044kj44gr44ki44kl5yuv55s744gu6ieq55sx57eo6zug/"><u>フリーなオンライン形式変換 - ムーバヴィによる動画の自由編集</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/150-tech-pants-by-microsoft-what-are-these-unusual-smart-clothes-and-how-do-they-work-zdnet/"><u>$150 Tech Pants by Microsoft – What Are These Unusual Smart Clothes and How Do They Work? | ZDNet</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/copilot-plus-pcs-upcoming-ai-innovations-i-wish-for-on-my-apple-laptop-zdnet-insight/"><u>Copilot + PCs' Upcoming AI Innovations I Wish for on My Apple Laptop - ZDNET Insight</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-improve-your-farming-simulator-22-experience-by-boosting-pc-fps-performance/"><u>How To Improve Your Farming Simulator 22 Experience by Boosting PC FPS Performance</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-12-proplus-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme 12 Pro+ 5G online without jailbreak</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-sharpsnap-recorder-for-windows-10/"><u>In 2024, SharpSnap Recorder for Windows 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-for-ios-album-arrangement-and-icloud-cloud-syncing-mastery/"><u>In 2024, The Ultimate Guide for iOS Album Arrangement & iCloud Cloud Syncing Mastery</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-s23-fe-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy S23 FE for Streaming | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-instagram-tips-for-picture-perfect-posts-for-2024/"><u>Mastering Instagram Tips for Picture-Perfect Posts for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reconnecting-bluetooth-disappeared-from-devices-hub/"><u>Reconnecting: Bluetooth Disappeared From Devices Hub</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-selection-of-premium-flac-recording-devices-for-high-quality-sound-capture/"><u>The Ultimate Selection of Premium FLAC Recording Devices for High-Quality Sound Capture</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/uninterrupted-legacy-software-sync-how-microsoft-ensures-continued-back-end-services-for-office-20162019-users-ahead-of-2024-itproportal/"><u>Uninterrupted Legacy Software Sync: How Microsoft Ensures Continued Back-End Services for Office 2016/2019 Users Ahead of 2024 | ITProPortal</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/zdnets-assessment-of-microsoft-surface-go-3-compact-powerhouse-with-limited-endurance-an-in-depth-review/"><u>ZDNet's Assessment of Microsoft Surface Go 3: Compact Powerhouse with Limited Endurance - An In-Depth Review</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/zdnets-in-depth-review-surface-duo-2-with-enhanced-durability-and-wireless-charging-via-pen-cover-accessory/"><u>ZDNet's In-Depth Review: Surface Duo 2 with Enhanced Durability & Wireless Charging via Pen Cover Accessory</u></a></li>
 </ul></div>
 

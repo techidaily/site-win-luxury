@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Unveils In-Depth Evaluation of AndaSeat Kaiser 3 : Expert Reviews & Ratings"
-date: 2024-10-05T00:02:24.881Z
-updated: 2024-10-05T23:21:09.913Z
+date: 2024-10-07T06:50:11.800Z
+updated: 2024-10-10T21:17:51.465Z
 tags:
   - office-furniture
 categories:
@@ -42,10 +42,16 @@ When it comes to comfort and durability, not all gaming chairs are created equal
 * [Alternatives to consider](https://www.zdnet.com/article/how-to-clear-cache-on-iphone-and-why-you-should/#:~:text=Other%20gaming%20chairs%20to%20consider)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -62,13 +68,6 @@ When it comes to comfort and durability, not all gaming chairs are created equal
 | Wheel base diameter  | 28 inches/71 cm             | 28 inches/71 cm             |
 | Back rest height     | 33 inches/84 cm             | 33 inches/84 cm             |
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 ---
@@ -76,13 +75,6 @@ When it comes to comfort and durability, not all gaming chairs are created equal
 Pricing
 
 The AndaSeat Kaiser 3 can be bought from the brand's [official website](https://www.andaseat.com/) for $549\. And while it's not available to purchase outside of the United States just yet, it's safe to assume that it will have a similar price tag in the UK and in Canada, and possibly closer to $700 in Australia. It is a lot of money for a gaming chair, but it's also in the same tier as the [Secretlab Titan Evo](https://oc.brcclx.com/t?lid=26675287&tid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) ($519) and the [Noblechairs HERO](https://www.noblechairs.com/hero-series/gaming-chair-pu-leather) ($459.99), which are some of the most popular "luxury" gaming chairs on the market. And I can honestly say that after a few weeks of use, the AndaSeat Kaiser 3 is worth every penny.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Assembly
 
@@ -97,6 +89,13 @@ The instruction manual was large and easy to read, and it was in several differe
 AndaSeat
 
 The assembly process itself was pretty straightforward once I had verified that all the parts and fasteners were in good shape and actually in the box. It took me about half an hour to put the Kaiser 3 together, and I only ran into a few hiccups. Firstly, the covers for the seat back assembly aren't very distinct from one another, but either one will only fit correctly on their specified side. It took a few minutes of confused faffing about to get everything situated, but it wasn't a huge frustration. And secondly, the thick foam padding can get in the way of properly aligning screw holes. I had a bit of trouble with one of the seat back screw holes lining up with its mate in order to accept the fastener, but a quick ream with a pen fixed the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design and ergonomics
 
@@ -165,10 +164,10 @@ I mentioned before that AndaSeat offers a separate footrest if you want a way to
 It's upholstered in the same, high-quality PVC faux leather that the Kaiser 3 uses, meaning that it will be easy to keep clean and free of things like pet hair and crumbs. At the time of writing, it's up for pre-order for $149.99 and only comes in a black and red color scheme, which will certainly clash with some of the color choices available for the chair itself like Creamy Pink and Robin Egg Blue. If I had the choice, I'd much rather have a footrest that is built into the Kaiser 3 itself like their [Jungle 2 series](https://shareasale.com/r.cfm?b=999&u=4338022&m=99919&afftrack=techidaily&urllink=https%3A%2F%2Fdymocks-australia.pxf.io%2Flxv4xa) and able to be deployed or tucked away as needed because my office is on the small side, and I don't have room to store a separate piece of furniture that may not get used very often.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -180,6 +179,13 @@ Taylor Clemons/ZDNet
 If you're looking for a gaming or office chair that provides top-notch ergonomic support for your hips, spine, neck, and shoulders as well as customization options to show off your personal style or match office decor, you'd be hard-pressed to find a better choice than the AndaSeat Kaiser 3\. With the magnetic armrest covers and replacement parts available through AndaSeat, the Kaiser 3 is easy to repair and customize, while the tabletop accessory can turn the chair into a compact desk. 
 
 The internal lumbar support system and magnetic neck cushion eliminate confusing and uncomfortable straps, letting you quickly and easily get the support you need exactly where you need it. While the $549 price tag is on the steep side, it's a worthy investment for a chair that will last you for years to come. But if you're still not entirely convinced that the Kaiser 3 is the chair for you, I've gathered up a short list of alternatives to consider with similar ergonomics, materials, and designs.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Other gaming chairs to consider
 
@@ -225,20 +231,22 @@ The Respawn 110 is one of the more affordable options for a gaming chair, and it
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-luxury.techidaily.com/1-simple-strategies-for-adding-written-content-to-your-pdf-documents-updated-guide/"><u>1. Simple Strategies for Adding Written Content to Your PDF Documents - Updated Guide</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1-ultimate-guide-effortless-android-and-ios-apps-for-precise-mobile-hair-trimming/"><u>1. Ultimate Guide: Effortless Android and iOS Apps for Precise Mobile Hair Trimming</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-social-media-melody-ownership-laws/"><u>2024 Approved Social Media Melody Ownership Laws</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/from-dull-to-dynamic-top-11-techniques-for-improved-colors/"><u>From Dull to Dynamic Top 11 Techniques for Improved Colors</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-lava-agni-2-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Lava Agni 2 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/innovative-features-unveiled-in-latest-apowermirror-release/"><u>Innovative Features Unveiled in Latest ApowerMirror Release</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/killer-e2500-gbe-network-adapter-drivers-free-download/"><u>Killer E2500 GbE Network Adapter Drivers: Free Download</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/simplify-your-skype-interviews-how-to-perfectly-capture-every-moment/"><u>Simplify Your Skype Interviews: How to Perfectly Capture Every Moment</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-honor-70-lite-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Honor 70 Lite 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/top-5-flexible-video-conversion-tools-compatible-with-windows-11/"><u>Top 5 Flexible Video Conversion Tools Compatible with Windows 11</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/top-alternatives-to-imovie-on-android-devices-best-app-picks-of-2020/"><u>Top Alternatives to iMovie on Android Devices: Best App Picks of 2020</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/top-free-tools-seamless-conversion-of-videos-into-multiple-languages/"><u>Top Free Tools: Seamless Conversion of Videos Into Multiple Languages</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/adobe-advice-brighten-up-faded-iphone-videos-using-four-critical-techniques-for-2024/"><u>[Adobe Advice] Brighten Up Faded iPhone Videos Using Four Critical Techniques for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-social-media-sphere-speaking-up-to-fans/"><u>[New] In 2024, The Social Media Sphere Speaking Up to Fans</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-link-up-titles-video-upload-to-twittertumblr/"><u>[Updated] 2024 Approved Link-Up Titles Video Upload to Twitter/Tumblr</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-9-virtual-mic-recorders-to-enhance-remote-sessions-23-for-2024/"><u>[Updated] Best 9 Virtual Mic Recorders to Enhance Remote Sessions ('23) for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-cutting-the-excess-a-guide-to-shortening-youtube-videos/"><u>[Updated] Cutting the Excess A Guide to Shortening YouTube Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-step-by-step-selection-of-tiktok-screenshots/"><u>[Updated] In 2024, Step-by-Step Selection of TikTok Screenshots</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/affordable-microsoft-office-2019-secure-your-pcmac-license-today-for-just-25-top-deals-on-zdnet/"><u>Affordable Microsoft Office 2019: Secure Your PC/Mac License Today for Just $25 – Top Deals on ZDNet!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/bringing-the-classic-look-to-windows-11-restoring-the-start-button-easily-innovatetech/"><u>Bringing the Classic Look to Windows 11: Restoring the Start Button Easily | InnovateTech</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/exploring-the-latest-windows-11-enhancements-and-innovations-tech-insights-from-zdnet/"><u>Exploring the Latest Windows 11 Enhancements and Innovations | Tech Insights From ZDNet</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Come up With the Best Pokemon Team On Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-windows-8-avi-editor-fast-and-reliable-video-editing-software-updated-2023/"><u>New Windows 8 AVI Editor Fast and Reliable Video Editing Software - Updated 2023</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/taking-cloud-gaming-centerstage-how-microsoft-and-samsung-could-be-game-changers/"><u>Taking Cloud Gaming Centerstage: How Microsoft & Samsung Could Be Game Changers</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/unlock-peak-performance-for-your-tech-projects-discover-microsofts-elite-developer-pool-on-zdnet/"><u>Unlock Peak Performance for Your Tech Projects: Discover Microsoft's Elite Developer Pool on ZDNET</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/urgent-alert-windows-11-versions-21h2-and-22h2-hit-end-of-life-upgrade-immediately-to-secure-your-system/"><u>Urgent Alert: Windows 11 Versions 21H2 & 22H2 Hit End-of-Life - Upgrade Immediately to Secure Your System!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/urgent-update-microsofts-major-challenge-with-windows-11-just-12-months-left/"><u>Urgent Update: Microsoft's Major Challenge with Windows 11 - Just 12 Months Left!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/vrecorder-how-to-download-and-install-for-2024/"><u>VRecorder - How to Download and Install for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/zdnet-exclusive-tutorial-effortless-color-selection-with-powertoys-color-picker-tool-for-windows-users/"><u>ZDNet Exclusive Tutorial: Effortless Color Selection with PowerToy's Color Picker Tool for Windows Users</u></a></li>
 </ul></div>
 

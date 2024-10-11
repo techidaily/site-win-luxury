@@ -1,7 +1,7 @@
 ---
 title: "Silent Release, Loud Complaints: How Microsoft's New Feature Ignited Controversy | TechInsight"
-date: 2024-10-03T17:01:51.873Z
-updated: 2024-10-06T00:23:25.702Z
+date: 2024-10-07T06:31:42.875Z
+updated: 2024-10-10T16:30:40.276Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -91,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,21 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-step-by-step-guide-to-wirecast-facebook-livestreams/"><u>[New] 2024 Approved Step-by-Step Guide to Wirecast Facebook Livestreams</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-becoming-professionally-active-registering-a-business-on-ig-for-2024/"><u>[New] Becoming Professionally Active Registering a Business on IG for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-intuitive-methods-to-log-your-google-voice-conversations/"><u>[New] In 2024, Intuitive Methods to Log Your Google Voice Conversations</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-pro-zoom-functionality-tips-for-chromebook-devices/"><u>[Updated] Pro Zoom Functionality Tips for Chromebook Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-ordinary-to-epic-iphones-best-landscape-tricks/"><u>2024 Approved From Ordinary to Epic IPhone's Best Landscape Tricks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-electronics-with-toms-hardware-insights/"><u>Exploring the World of Electronics with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installation-guide-and-free-downloads-of-brother-hl-2280dw-drivers-for-various-windows-versions/"><u>Installation Guide & Free Downloads of Brother HL-2280DW Drivers for Various Windows Versions</u></a></li>
-<li><a href="https://games-able.techidaily.com/reach-beyond-realms-backup-and-redownload-worlds/"><u>Reach Beyond Realms: Backup and Redownload Worlds</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/save-on-professional-licenses-with-deals-at-20-get-microsoft-project-and-visio-today/"><u>Save on Professional Licenses with Deals at $20 - Get Microsoft Project & Visio Today!</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/singapore-elevates-legal-tech-with-microsoft-copilot-integration-a-game-changer-revealed-by-zdnet/"><u>Singapore Elevates Legal Tech with Microsoft Copilot Integration: A Game-Changer Revealed by ZDNet</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/taking-cloud-gaming-centerstage-how-microsoft-and-samsung-could-be-game-changers/"><u>Taking Cloud Gaming Centerstage: How Microsoft & Samsung Could Be Game Changers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/timelapse-magic-utilizing-your-canon-gear/"><u>Timelapse Magic Utilizing Your Canon Gear</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/unlock-peak-performance-for-your-tech-projects-discover-microsofts-elite-developer-pool-on-zdnet/"><u>Unlock Peak Performance for Your Tech Projects: Discover Microsoft's Elite Developer Pool on ZDNET</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/urgent-alert-windows-11-versions-21h2-and-22h2-hit-end-of-life-upgrade-immediately-to-secure-your-system/"><u>Urgent Alert: Windows 11 Versions 21H2 & 22H2 Hit End-of-Life - Upgrade Immediately to Secure Your System!</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/urgent-update-microsofts-major-challenge-with-windows-11-just-12-months-left/"><u>Urgent Update: Microsoft's Major Challenge with Windows 11 - Just 12 Months Left!</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/zdnet-exclusive-tutorial-effortless-color-selection-with-powertoys-color-picker-tool-for-windows-users/"><u>ZDNet Exclusive Tutorial: Effortless Color Selection with PowerToy's Color Picker Tool for Windows Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-transform-your-content-strategy-with-tubebuddy/"><u>[New] In 2024, Transform Your Content Strategy with TubeBuddy</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1-ultimate-youtube-video-downloader-and-converter-supporting-macwindows-users/"><u>1. Ultimate YouTube Video Downloader & Converter: Supporting Mac/Windows Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-essential-list-of-cost-free-versatile-video-players/"><u>2024 Approved Essential List of Cost-Free, Versatile Video Players</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-premier-streaming-platforms-reviewed-and-rated/"><u>2024 Approved Premier Streaming Platforms Reviewed & Rated</u></a></li>
+<li><a href="https://driver-install.techidaily.com/downloadable-canon-printer-support-tools-for-win11/"><u>Downloadable Canon Printer Support Tools for Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-artificial-intelligence-endeavors-the-pioneering-project-gemini/"><u>Google's Artificial Intelligence Endeavors – The Pioneering Project Gemini</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-listening-windows-episode-releases-for-2024/"><u>Prime Listening Windows Episode Releases for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/refreshing-individual-webpages-without-overhauling-your-entire-project-with-flipbuilder-tools/"><u>Refreshing Individual Webpages Without Overhauling Your Entire Project with FlipBuilder Tools</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/resolving-the-grey-screen-error-while-editing-pages-on-flipprogram-expert-solutions/"><u>Resolving the Grey Screen Error While Editing Pages on FlipProgram - Expert Solutions</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/speed-up-your-reading-mastering-quick-flip-techniques-with-flipbuilder/"><u>Speed Up Your Reading: Mastering Quick Flip Techniques with FlipBuilder</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-as-an-independent-youtube-entrepreneur-dodging-the-ad-dilemrante/"><u>Thriving as an Independent YouTube Entrepreneur Dodging the Ad Dilemrante</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-rated-photo-design-software-can-you-trust-flipbuilder/"><u>Top Rated Photo Design Software: Can You Trust FlipBuilder?</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/troubleshooting-broken-hyperlinks-in-your-page-turner-ebooks-after-flipbuilder-conversion-tutorial/"><u>Troubleshooting Broken Hyperlinks in Your Page-Turner Ebooks After FlipBuilder Conversion Tutorial</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/uncovering-targeted-keywords-on-your-website-through-flipbook-analysis-techniques/"><u>Uncovering Targeted Keywords on Your Website Through FlipBook Analysis Techniques</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-blur-faces-or-objects-in-videos-best-apps-for-ios-and-android/"><u>Updated 2024 Approved Blur Faces or Objects in Videos Best Apps for iOS and Android</u></a></li>
 </ul></div>
 

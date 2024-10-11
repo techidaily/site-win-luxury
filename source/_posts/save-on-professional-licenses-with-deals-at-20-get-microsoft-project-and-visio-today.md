@@ -1,7 +1,7 @@
 ---
 title: Save on Professional Licenses with Deals at $20 - Get Microsoft Project & Visio Today!
-date: 2024-10-03T23:53:28.950Z
-updated: 2024-10-05T19:36:42.460Z
+date: 2024-10-06T12:32:15.803Z
+updated: 2024-10-10T20:12:27.927Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,17 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-decoding-your-path-to-prominence-on-youtube/"><u>[New] 2024 Approved Decoding Your Path to Prominence on YouTube</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-top-5-tools-to-transform-your-instant-feeds-into-videos/"><u>[Updated] 2024 Approved Top 5 Tools to Transform Your Instant Feeds Into Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-advanced-methods-for-swift-file-exchange-apples-ecosystem-for-2024/"><u>[Updated] Advanced Methods for Swift File Exchange Apple's Ecosystem for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/3gpwmv/"><u>「迅速な3GPビデオからWMVへの全件変換ガイド」</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1-free-fixes-for-corrupted-movies-restore-mov-file-quality/"><u>1. Free Fixes for Corrupted Movies: Restore .MOV File Quality</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/5-best-no-cost-avchd-media-players-enjoy-hd-videos-without-spending-a-penny/"><u>5 Best No Cost AVCHD Media Players - Enjoy HD Videos Without Spending a Penny!</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/best-mac-audio-capture-apps-as-audio-hijack-pro-substitutes-find-your-ideal-solution-today/"><u>Best Mac Audio Capture Apps as Audio Hijack Pro Substitutes - Find Your Ideal Solution Today!</u></a></li>
-<li><a href="https://windows11.techidaily.com/effective-steps-to-stop-and-fix-iomap64-bsod-on-windows-pcs/"><u>Effective Steps to Stop and Fix IOMap64 BSoD on Windows PCs</u></a></li>
-<li><a href="https://facebook.techidaily.com/fine-tuning-who-sees-your-on-demand-activity/"><u>Fine-Tuning Who Sees Your On-Demand Activity</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-gt-5-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme GT 5 Pro Phone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-audible-magic-cropping-and-edits-in-canva-videos/"><u>In 2024, Crafting Audible Magic Cropping and Edits in Canva Videos</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1726028561252-windows-and-mac/"><u>パーソナルレコーダー選びは大切！Windows & Mac用おすすめソフトウェアリスト!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-construct-memetic-mirth/"><u>[New] 2024 Approved Construct Memetic Mirth</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-starting-vlogging-right-the-top-equipmentsoftware/"><u>[New] 2024 Approved Starting Vlogging Right The Top Equipment/Software</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/connecting-your-vpn-on-windows-10-a-step-by-step-guide-insights-from-zdnet/"><u>Connecting Your VPN on Windows 10: A Step-by-Step Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/diving-into-the-depths-of-facebooks-secret-tracking/"><u>Diving Into the Depths of Facebook's Secret Tracking</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-the-newest-smplayer-64-bit-version-for-windows-10-at-no-cost/"><u>Download the Newest SMPlayer 64-Bit Version for Windows 10 at No Cost</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/experts-pick-for-premier-noise-reduction-window-treatments-of-2024-exclusive-guide-by-zdnet/"><u>Experts' Pick for Premier Noise Reduction Window Treatments of 2024 | Exclusive Guide by ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-achieving-perfect-reproduction-tips-for-exceptional-sound-capture/"><u>In 2024, Achieving Perfect Reproduction Tips for Exceptional Sound Capture</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-of-the-best-budget-friendly-cooler-the-topmate-c302-experience/"><u>Review of the Best Budget-Friendly Cooler: The TopMate C302 Experience</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/revive-your-old-pc-with-these-5-cost-free-tips-before-upgrading-to-windows-11-tech-insights/"><u>Revive Your Old PC with These 5 Cost-Free Tips Before Upgrading to Windows 11 | Tech Insights</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/unboxing-and-evaluation-of-the-all-new-mavix-m9-game-changer-or-overhyped-a-detailed-review-by-pcworld/"><u>Unboxing and Evaluation of the All-New Mavix M9: Game Changer or Overhyped? - A Detailed Review by PCWorld</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/upcoming-payment-plans-for-microsoft-windows-10-updates-what-users-should-expect/"><u>Upcoming Payment Plans for Microsoft Windows 10 Updates - What Users Should Expect</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-what-is-the-best-program-to-use-to-make-a-highlight-video-in-this-article-i-will-share-some-of-the-best-highlight-video-makers-for-both-desk/"><u>Updated In 2024, What Is the Best Program to Use to Make a Highlight Video? In This Article, I Will Share some of the Best Highlight Video Makers for Both Desktop Computers and Mobile Phones</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/urgent-issue-looms-for-microsofts-windows-11-launch-only-a-year-remains-to-resolve-problems-insights-from-zdnet/"><u>Urgent Issue Looms for Microsoft's Windows 11 Launch; Only a Year Remains to Resolve Problems – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/value-proposition-investing-in-elite-ai-craftsmanship/"><u>Value Proposition: Investing in Elite AI Craftsmanship?</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/zdnet-unveils-in-depth-evaluation-of-andaseat-kaiser-3-expert-reviews-and-ratings/"><u>ZDNet Unveils In-Depth Evaluation of AndaSeat Kaiser 3 : Expert Reviews & Ratings</u></a></li>
 </ul></div>
 

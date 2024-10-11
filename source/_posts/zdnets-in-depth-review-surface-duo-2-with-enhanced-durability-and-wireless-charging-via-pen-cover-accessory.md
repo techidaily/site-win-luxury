@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Review: Surface Duo 2 with Enhanced Durability & Wireless Charging via Pen Cover Accessory"
-date: 2024-09-29T00:02:28.356Z
-updated: 2024-10-05T22:05:59.385Z
+date: 2024-10-05T10:05:58.026Z
+updated: 2024-10-10T18:16:48.461Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,13 +62,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -137,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -149,9 +135,29 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,21 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-behind-the-scenes-windows-pc-essentials-for-flawless-live-tv-screen-capture/"><u>[Updated] 2024 Approved Behind the Scenes Windows PC Essentials for Flawless Live TV Screen Capture</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-a78-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo A78 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-motorola-edge-40-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Motorola Edge 40</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/connecting-your-vpn-on-windows-10-a-step-by-step-guide-insights-from-zdnet/"><u>Connecting Your VPN on Windows 10: A Step-by-Step Guide - Insights From ZDNet</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/discover-microsofts-secret-explore-hidden-windows-features-with-the-new-leaked-insider-prototype/"><u>Discover Microsoft's Secret: Explore Hidden Windows Features with the New Leaked Insider Prototype</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/effortless-file-exchange-utilizing-google-quick-share-to-connect-windows-and-android-devices-efficiently-insights-by-zdnet/"><u>Effortless File Exchange: Utilizing Google Quick Share to Connect Windows and Android Devices Efficiently | Insights by ZDNET</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/free-end-of-road-microsoft-halts-windows-10-upgrade-offers/"><u>Free End of Road: Microsoft Halts Windows 10 Upgrade Offers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/getting-into-film-editing-made-easy/"><u>Getting Into Film Editing Made Easy</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-dot-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dot file document electronically</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-tier-eighth-edition-of-image-blender-tool/"><u>In 2024, Top Tier Eighth Edition of Image Blender Tool</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovate-and-personalize-with-gpt-transforming-chatgpt-into-a-custom-solution/"><u>Innovate and Personalize with GPT: Transforming ChatGPT Into a Custom Solution</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/introducing-the-speedy-new-chrome-update-enhanced-performance-on-windows-with-an-important-note-exclusive-info-from-zdnet/"><u>Introducing the Speedy New Chrome Update: Enhanced Performance on Windows with an Important Note - Exclusive Info From ZDNet</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a59-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A59 5GFRP Lock</u></a></li>
-<li><a href="https://facebook.techidaily.com/stepwise-strategy-expedite-your-online-purchase-reimbursement-via-fb/"><u>Stepwise Strategy: Expedite Your Online Purchase Reimbursement via FB</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/unboxing-and-evaluation-of-the-all-new-mavix-m9-game-changer-or-overhyped-a-detailed-review-by-pcworld/"><u>Unboxing and Evaluation of the All-New Mavix M9: Game Changer or Overhyped? - A Detailed Review by PCWorld</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/zdnet-unveils-in-depth-evaluation-of-andaseat-kaiser-3-expert-reviews-and-ratings/"><u>ZDNet Unveils In-Depth Evaluation of AndaSeat Kaiser 3 : Expert Reviews & Ratings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-best-hash-tracking-apps-on-major-platforms-like-fb-tweet-and-insta-for-2024/"><u>[Updated] The Best Hash Tracking Apps on Major Platforms Like FB, Tweet & Insta for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtube-studios-comprehensive-guide-to-video-post-production/"><u>[Updated] YouTube Studio's Comprehensive Guide to Video Post Production</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1-mirillis-your-comprehensive-hub-for-legal-insights-and-law-resources/"><u>1. Mirillis: Your Comprehensive Hub for Legal Insights and Law Resources</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/bulk-transfer-techniques-converting-and-saving-your-favorite-trainmaster-series-in-various-video-formats/"><u>Bulk Transfer Techniques: Converting and Saving Your Favorite Trainmaster Series in Various Video Formats</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/discover-the-top-6-must-try-free-programs-for-windows-10-phone-free-downloads-inside/"><u>Discover the Top 6 Must-Try Free Programs for Windows 10 / Phone: Free Downloads Inside!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/expert-guide-on-downloading-your-favorite-tracks-from-qq-music-in-various-formats-like-mp3-wav-and-more/"><u>Expert Guide on Downloading Your Favorite Tracks From QQ Music in Various Formats Like MP3, WAV & More!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/exploring-the-rules-and-regulations-in-mirilliss-service-contract/"><u>Exploring the Rules & Regulations in Mirillis's Service Contract</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-hyperx-cloud-mic-malfunctions-for-optimal-audio-quality/"><u>How to Resolve HyperX Cloud Mic Malfunctions for Optimal Audio Quality</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-ultimate-guide-to-metaverse-laughter/"><u>In 2024, The Ultimate Guide to Metaverse Laughter</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/make-a-splash-on-social-media-adding-animated-text-to-instagram-stories/"><u>Make a Splash on Social Media Adding Animated Text to Instagram Stories</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-gratistudio-fur-die-umwandlung-von-aiff-ins-format-flac-mit-movavi/"><u>Online-Gratistudio Für Die Umwandlung Von AIFF Ins Format FLAC Mit Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/optimize-your-system-with-the-newest-driver-update-from-msis-x470-gaming-plus-kit/"><u>Optimize Your System with the Newest Driver Update From MSI's X470 Gaming Plus Kit</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-developer-cant-be-verified-on-your-mac-a-step-by-step-guide/"><u>Resolving 'Developer Can't Be Verified' On Your Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/seamless-access-using-your-microsoft-amoeba-business-account-for-windows-11-login-learn-how-and-the-benefits/"><u>Seamless Access: Using Your Microsoft Amoeba Business Account for Windows 11 Login - Learn How and the Benefits!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-securely-acquiring-hbo-go-video-content-for-offline-viewing/"><u>Step-by-Step Guide: Securely Acquiring HBO GO Video Content for Offline Viewing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/stream-or-save-top-anime-and-cartoons-effortlessly-using-animehavens-reliable-download-tool/"><u>Stream or Save Top Anime and Cartoons Effortlessly Using AnimeHaven's Reliable Download Tool!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/ultimate-gamers-toolkit-download-advanced-screenshotter-for-seamless-streaming-setup/"><u>Ultimate Gamer's Toolkit: Download Advanced Screenshotter for Seamless Streaming Setup!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/unlocking-media-potential-with-mirillis-your-ultimate-resource-hub/"><u>Unlocking Media Potential with Mirillis – Your Ultimate Resource Hub</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-10-free-video-orientation-changers-to-fix-your-footage/"><u>Updated In 2024, 10 Free Video Orientation Changers to Fix Your Footage</u></a></li>
 </ul></div>
 
