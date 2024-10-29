@@ -1,7 +1,7 @@
 ---
 title: Comment Résoudre Le Problème De Clarté Sur Votre Appareil Photo
-date: 2024-10-09T06:10:00.979Z
-updated: 2024-10-11T01:42:04.894Z
+date: 2024-10-23T22:21:21.260Z
+updated: 2024-10-29T06:43:08.684Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8adbc3e1002af53ac1dd07e595b9201d8f833bc6b6d5a625a2b610c81d2e7f3d.jpg
@@ -61,9 +61,23 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -82,10 +96,10 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
@@ -97,10 +111,10 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
@@ -120,10 +134,10 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -143,22 +157,15 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -188,13 +195,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -212,22 +212,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-personalize-your-youtube-watch-experience-with-alerts-and-notes/"><u>[New] 2024 Approved Personalize Your Youtube Watch Experience with Alerts & Notes</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ailored-for-tech-savvy-audiences-unveil-the-youtuber-who-resonates-with-you-through-six-quizzes-for-2024/"><u>[New] Tailored for Tech-Savvy Audiences Unveil the YouTuber Who Resonates with You Through Six Quizzes for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unlocking-gameplay-success-with-ps3-screen-recording/"><u>[New] Unlocking Gameplay Success with PS3 Screen Recording</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-insights-for-asmr-aficionados/"><u>[Updated] 2024 Approved Essential Insights for ASMR Aficionados</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-immortalize-memories-prime-online-tools-for-photo-framing/"><u>[Updated] Immortalize Memories Prime Online Tools for Photo Framing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/3gpwmv/"><u>「迅速な3GPビデオからWMVへの全件変換ガイド」</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1-free-fixes-for-corrupted-movies-restore-mov-file-quality/"><u>1. Free Fixes for Corrupted Movies: Restore .MOV File Quality</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/best-mac-audio-capture-apps-as-audio-hijack-pro-substitutes-find-your-ideal-solution-today/"><u>Best Mac Audio Capture Apps as Audio Hijack Pro Substitutes - Find Your Ideal Solution Today!</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-s24-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/elaborate-assessment-of-simplified-hdr-processing-for-2024/"><u>Elaborate Assessment of Simplified HDR Processing for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/essential-tips-and-tricks-for-capturing-quality-tracks-in-macos-el-capitan/"><u>Essential Tips and Tricks for Capturing Quality Tracks in MacOS El Capitan</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-k70-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi K70</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-nokia-g22-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Nokia G22 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/the-ultimate-guide-expertly-rated-file-rescue-apps-for-outdated-hardware-2023-edition/"><u>The Ultimate Guide: Expertly Rated File Rescue Apps for Outdated Hardware, 2023 Edition</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/the-ultimate-tutorial-on-shifting-pictures-securely-to-your-memory-card/"><u>The Ultimate Tutorial on Shifting Pictures Securely to Your Memory Card</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/ultimate-guide-transferring-your-iphone-screen-to-television-seamlessly/"><u>Ultimate Guide: Transferring Your iPhone Screen to Television Seamlessly</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1726028561252-windows-and-mac/"><u>パーソナルレコーダー選びは大切！Windows & Mac用おすすめソフトウェアリスト!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-list-freely-accessible-editing-software/"><u>[New] Ultimate List Freely Accessible Editing Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-from-standard-pixels-to-dynamic-range-extremes-a-transformation-journey/"><u>[Updated] In 2024, From Standard Pixels to Dynamic Range Extremes A Transformation Journey</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-nightmares-unleashed-8-must-play-zombie-games-explored/"><u>[Updated] In 2024, Nightmares Unleashed 8 Must-Play Zombie Games Explored</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/404-page-not-found-how-to-quickly-resolve-errors-on-your-website/"><u>404 Page Not Found: How to Quickly Resolve Errors on Your Website</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/windows-11mirrorfolder/"><u>搭配Windows 11的MirrorFolder鏡庫管理工具，提高效率並保持一致性</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/avoid-repetition-controlling-duplicates-for-text-editing-in-emeditor/"><u>Avoid Repetition: Controlling Duplicates for Text Editing in EmEditor</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-recent-system-glitches-expert-tips-for-fixing-sounds/"><u>Dealing with Recent System Glitches: Expert Tips for Fixing Sounds</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/discover-the-safest-free-apps-for-extracting-itunes-backups-from-your-iphone-choose-the-best-3-options/"><u>Discover the Safest Free Apps for Extracting iTunes Backups From Your iPhone - Choose the Best 3 Options</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/efficient-vm-migration-strategies-using-raw-devices-exploring-three-key-methods/"><u>Efficient VM Migration Strategies Using RAW Devices: Exploring Three Key Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/from-concept-to-platform-crafting-engaging-fb-content-for-2024/"><u>From Concept to Platform Crafting Engaging FB Content for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/handy-portable-power-rescuers-for-automobiles-2024/"><u>Handy Portable Power Rescuers for Automobiles, 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-to-undo-file-deletion-on-your-windows-11-computer-top-5-proven-techniques-for-data-recovery/"><u>How to Undo File Deletion on Your Windows 11 Computer: Top 5 Proven Techniques for Data Recovery</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-poco-c55-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/overcoming-missed-frames-in-real-time-streaming/"><u>Overcoming Missed Frames in Real-Time Streaming</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/was-tun-wenn-die-migrationsprozess-fur-ihre-externe-festplatte-fehlschlagt/"><u>Was Tun, Wenn Die Migrationsprozess Für Ihre Externe Festplatte Fehlschlägt?</u></a></li>
+<li><a href="https://win-web3.techidaily.com/alksa-alastorya-4-braaam-crucial-ssd-alhasm-ishrafk-oaamlyat-alakhtyar/"><u>القصة الأسطورية 4 براعم Crucial SSD الحاسم: إشرافك وعمليات الاختيار</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/windows-10windows-817/"><u>シームレスな移行: Windows 10をWindows 8.1/7に効率的にダウングレード</u></a></li>
 </ul></div>
 
