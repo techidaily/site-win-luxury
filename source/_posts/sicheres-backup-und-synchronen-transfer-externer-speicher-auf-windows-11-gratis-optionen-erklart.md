@@ -1,7 +1,7 @@
 ---
 title: "Sicheres Backup Und Synchronen Transfer: Externer Speicher Auf Windows 11 – Gratis-Optionen Erklärt"
-date: 2024-11-11T16:38:12.880Z
-updated: 2024-11-12T17:43:33.443Z
+date: 2024-11-15T18:47:00.765Z
+updated: 2024-11-23T00:30:14.127Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/44d44af4303c7de8c2d81023af1bd7a1796056772dd848c61266c864592a23af.jpg
@@ -27,6 +27,10 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -65,6 +69,10 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
@@ -88,10 +96,7 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
@@ -113,10 +118,7 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
@@ -197,13 +199,6 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -227,10 +222,7 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusione
@@ -245,6 +237,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -255,13 +251,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -270,20 +259,11 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -300,18 +280,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-innovating-your-sims-4-experience-through-recording/"><u>[Updated] 2024 Approved Innovating Your Sims 4 Experience Through Recording</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-money-with-8-youtube-aspects/"><u>[Updated] Mastering Money with 8 YouTube Aspects</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/5-effiziente-schritte-um-ihre-daten-von-android-zu-ihrem-neuen-iphone-zu-transferieren/"><u>5 Effiziente Schritte, Um Ihre Daten Von Android Zu Ihrem Neuen iPhone Zu Transferieren</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-pro-max-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Pro Max Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1728501053695-windows-7/"><u>如何在Windows 7中使用优秀软件自由克隆硬盘，避免重装的麻烦</u></a></li>
-<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/comprehensive-tutorial-on-crafting-and-applying-a-recovery-disk-for-windows-11-systems/"><u>Comprehensive Tutorial on Crafting & Applying a Recovery Disk for Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-setup-of-brother-hl-l2380dw-printer-windows-compatible-drivers-and-download-resources/"><u>Effortless Setup of Brother HL-L2380DW Printer: Windows Compatible Drivers & Download Resources</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-to-move-pictures-from-your-computer-to-an-ipad-seamlessly-no-need-for-itunes/"><u>How to Move Pictures From Your Computer to an iPad Seamlessly : No Need for iTunes!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fix-guide-how-to-prevent-deathloop-from-continuously-crashing-on-pc-systems/"><u>Quick Fix Guide: How to Prevent Deathloop From Continuously Crashing on PC Systems</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/ssd-vs-hdd-fur-die-datensicherung-welches-externe-laufwerk-eignet-sich-besser/"><u>SSD vs HDD Für Die Datensicherung: Welches Externe Laufwerk Eignet Sich Besser?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-and-download-epson-et-3760-print-driver-for-windows-a-comprehensive-tutorial/"><u>Update & Download Epson ET-3760 Print Driver for Windows: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-profile-pictorialism-designing-your-exaggerated-visage/"><u>[New] Profile Pictorialism Designing Your Exaggerated Visage</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-step-by-step-guide-iphone-picture-perfection/"><u>[Updated] Step-by-Step Guide IPhone Picture Perfection</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/7-systems/"><u>7 Systems</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/autocad/"><u>簡単ガイド: AutoCADファイルの削除または消失後の復元技術</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/6usbiphone/"><u>這6種簡單步驟教你如何用USB直接轉移iPhone相片</u></a></li>
+<li><a href="https://program-issues.techidaily.com/achieve-smooth-gameplay-in-mw2-for-pc-tips-to-fix-frame-rate-issues-lags-and-stuttering-on-windows-systems/"><u>Achieve Smooth Gameplay in MW2 for PC – Tips to Fix Frame Rate Issues, Lags, and Stuttering on Windows Systems</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-and-durable-omoton-t1-tablet-stand-comprehensive-review/"><u>Affordable and Durable Omoton T1 Tablet Stand - Comprehensive Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-best-2022-microsoft-enterprise-solutions-on-ios-rankings-and-in-depth-analysis-cnet/"><u>Discover the Best 2022 Microsoft Enterprise Solutions on iOS: Rankings & In-Depth Analysis | CNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-honor-magic-5-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Honor Magic 5 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailored-tips-for-maximizing-vlc-playback-potential/"><u>In 2024, Tailored Tips for Maximizing VLC Playback Potential</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/mastering-privacy-controls-protect-your-pictures-in-the-deleted-items-folder-on-iphone-ios-16-and-ios-ummary-17/"><u>Mastering Privacy Controls: Protect Your Pictures in the 'Deleted Items' Folder on iPhone (iOS 16 & iOS Ummary 17)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/potential-privacy-concerns-is-using-chatgpt-risky/"><u>Potential Privacy Concerns: Is Using ChatGPT Risky?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/prevent-social-discomfort-block-options-for-2024/"><u>Prevent Social Discomfort Block Options for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/reparatur-von-windows-11-efi-partitionen-schritt-fur-schritt-anleitung-mit-myrecover/"><u>Reparatur Von Windows 11-EFI Partitionen: Schritt-Für-Schritt-Anleitung Mit MyRecover</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/restaurieren-sie-ihr-system-mit-uefi-schritt-fur-schritt-anleitung-unter-verwendung-von-bios-technologie/"><u>Restaurieren Sie Ihr System Mit UEFI: Schritt-Für-Schritt Anleitung Unter Verwendung Von BIOS-Technologie</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/synchronisierung-eines-lokalen-ordners-mit-microsoft-onedrive-zwei-effektive-strategien/"><u>Synchronisierung Eines Lokalen Ordners Mit Microsoft OneDrive - Zwei Effektive Strategien</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/volumenbeschrankungen-beiseite-gesetzt-maximale-datensicherung-von-uber-2-tb-auf-windows-server/"><u>Volumenbeschränkungen Beiseite Gesetzt: Maximale Datensicherung Von Über 2 TB Auf Windows Server</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1728491471165-wd/"><u>WDドライブの完全なバックアップ:優れたクローニングソフトウェア</u></a></li>
 </ul></div>
 
