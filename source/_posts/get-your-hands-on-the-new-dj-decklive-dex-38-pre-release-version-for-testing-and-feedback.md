@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the New DJ DeckLive DEX 3.8 - Pre-Release Version for Testing and Feedback!
-date: 2024-11-25T16:44:13.329Z
-updated: 2024-12-01T04:03:00.033Z
+date: 2024-12-03T09:20:28.197Z
+updated: 2024-12-08T21:12:34.718Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NEW, CHANGED OR FIXED IN DEX 3.8 (RELEASE CANDIDATE)
@@ -72,7 +72,7 @@ For controller scripts (mappings) we have added the following:
 _Have questions about our **top DJ mixing software** and any of the new features including with version 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,24 +94,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-coverimage.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fading-audio-tips-for-better-mixes-in-ableton/"><u>2024 Approved Fading Audio Tips for Better Mixes in Ableton</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1728508569293-aomei-backupper/"><u>便攜式AOMEI Backupper：簡單緊密的電腦隨身備份解決方案</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/windows-10c4/"><u>将Windows 10中的程序从c:驱动器转移到其他驱动器：4种无需担忧的技巧</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016895149-battlefield-4-sound-not-working-heres-how-to-restore-audio/"><u>Battlefield 4 Sound Not Working? Here's How to Restore Audio</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-free-watermark-free-video-combining-tools/"><u>Best FREE Watermark-Free Video Combining Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-oppo-reno-10-proplus-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Oppo Reno 10 Pro+ 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-motorola-g54-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Motorola G54 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-system-compatibility-for-intel-graphics-support/"><u>Fixing System Compatibility for Intel Graphics Support</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-x50i-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor X50i Phone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-navigating-the-landscape-of-fb-med-ad-optimization/"><u>In 2024, Navigating the Landscape of FB Med Ad Optimization</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecno-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Tecno Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/la-herramienta-mas-eficaz-para-copiar-una-unidad-usb-en-una-ssd-con-windows/"><u>La Herramienta Más Eficaz Para Copiar Una Unidad USB en Una SSD Con Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-crypto-trends-without-chatgpt-uncover-5-essential-factors-you-should-consider-instead/"><u>Navigating Crypto Trends Without ChatGPT: Uncover 5 Essential Factors You Should Consider Instead</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/panne-de-sauvegarde-du-systeme-windows-server-201-weiterleitung-kathedrale-von-ripatransone/"><u>Panne De Sauvegarde Du Système Windows Server 201 #WEITERLEITUNG Kathedrale Von Ripatransone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/restablezca-su-cuenta-eliminada-en-windows-1011-facilmente-con-estas-tres-tecnicas-probadas/"><u>Restablezca Su Cuenta Eliminada en Windows 10/11 Fácilmente Con Estas Tres Técnicas Probadas</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/reversing-mistakes-a-comprehensive-tutorial-to-recover-lost-data-from-win-server-2012-r2/"><u>Reversing Mistakes: A Comprehensive Tutorial to Recover Lost Data From Win Server 2012 (R2)</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/top-free-software-para-crear-una-copia-de-seguridad-de-su-m2-ssd/"><u>Top Free Software Para Crear Una Copia De Seguridad De Su M.2 SSD</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1728486359447-windowsaomei-backupper/"><u>Windows用バックアップツール「AOMEI Backupper」 - ショートカットを作成して保存する</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1728483863289-5/"><u>エクセルデータがなくても大丈夫!? 保存損失後の探索手順ベスト5</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-streamlining-video-conferencing-combining-skype-and-zoom-effortlessly/"><u>[Updated] In 2024, Streamlining Video Conferencing Combining Skype & Zoom Effortlessly</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1-setting-up-new-hardware-installation-and-removal-guide-by-yl-software/"><u>1. Setting Up New Hardware: Installation & Removal Guide by YL Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/baldurs-gate-ultimate-guide-resolve-your-frustrating-lags/"><u>Baldur's Gate: Ultimate Guide - Resolve Your Frustrating Lags!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beginner-friendly-tutorial-for-integrating-microsoft-copilot-into-your-mac-experience/"><u>Beginner-Friendly Tutorial for Integrating Microsoft Copilot Into Your Mac Experience</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/deciphering-crypto-key-differences-between-online-and-physical-currencies-by-yl-software-experts/"><u>Deciphering Crypto: Key Differences Between Online and Physical Currencies by YL Software Experts</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/enhancing-computer-performance-by-efficiently-managing-system-resources-insights-from-yl-computing/"><u>Enhancing Computer Performance by Efficiently Managing System Resources - Insights From YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/finding-a-specific-file-extension-in-windows-a-guide-by-yl-software/"><u>Finding a Specific File Extension in Windows: A Guide by YL Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-exploring-various-ways-to-earn-on-youtube/"><u>In 2024, Exploring Various Ways to Earn on YouTube</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/professional-hd-1080p-image-collection-for-your-screen-ultra-clear-graphics-yl-computing-solutions/"><u>Professional HD 1080P Image Collection for Your Screen | Ultra-Clear Graphics – YL Computing Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/xsplit-sourcebook-exclusive-split-and-review-content/"><u>XSplit Sourcebook Exclusive Split & Review Content</u></a></li>
 </ul></div>
 

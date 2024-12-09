@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX Version 3.4 Release Candidate Available for Immediate Download
-date: 2024-11-26T19:42:39.812Z
-updated: 2024-11-30T16:35:10.556Z
+date: 2024-12-02T17:42:30.353Z
+updated: 2024-12-09T03:02:35.521Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ DEX 3 continues to innovate and improve with every free update launched, proving
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT’S NEW, CHANGED OR FIXED IN DEX 3.4 RC
@@ -73,7 +73,7 @@ _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your E
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -95,17 +95,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34rc-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-top-rated-computers-and-peripherals-at-toms-electronics-reviews/"><u>Discover Top-Rated Computers and Peripherals at Tom's Electronics Reviews</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-m34-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy M34 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-precision-disabling-mouse-acceleration-on-a-mac-os/"><u>Mastering Precision: Disabling Mouse Acceleration on a Mac OS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-usb-connectivity-essential-fixes-for-windows-11-users/"><u>Mastering USB Connectivity: Essential Fixes for Windows 11 Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/picture-perfection-choosing-the-best-camera-positions-on-iphone/"><u>Picture Perfection Choosing the Best Camera Positions on iPhone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/schritt-fur-schritt-anleitung-zum-offnen-von-windows-10-wiederherstellungsmodus-fur-sysrepair/"><u>Schritt-Für-Schritt Anleitung Zum Öffnen Von Windows 10 Wiederherstellungsmodus Für SysRepair</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/topmost-optimal-live-data-protection-solutions-for-microsoft-windows-11/"><u>Topmost Optimal Live Data Protection Solutions for Microsoft Windows 11</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/tout-sur-la-protection-de-windows-10-64-bit-avec-notre-solution-gratuite-de-sauvegarde-logicielle/"><u>Tout Sur La Protection De Windows 10 (64-Bit) Avec Notre Solution Gratuite De Sauvegarde Logicielle</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1728500522302-win115/"><u>Win11で「場所が使えない」エラー発生時の解決手順：最新の対応法トップ5</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1728483797566-windows-10/"><u>Windows 10 刻存辦法故障修正</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-save-money-and-time-creating-engaging-youtube-intros-without-paying/"><u>[Updated] In 2024, Save Money & Time Creating Engaging YouTube Intros Without Paying</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-camera-kings-battle-ultimate-sj6-vs-xiaomis-yi-kickstart-dream/"><u>2024 Approved Camera Kings Battle Ultimate SJ6 Vs. Xiaomi’s Yi Kickstart Dream</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-15-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 15 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/chromebook-troubles-in-classrooms-recurring-bedbug-invasions-highlighted-on-zdnet-real-life-tech-hazards/"><u>Chromebook Troubles in Classrooms: Recurring Bedbug Invasions Highlighted on ZDNet | Real-Life Tech Hazards</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dealing-with-mfc-42-dll-file-not-found-heres-your-guide-to-quick-recovery/"><u>Dealing with MFC 42 DLL File Not Found? Here's Your Guide to Quick Recovery!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/global-restrictions-on-digital-assets-a-look-into-countries-banning-cryptocurrencies-yl-computing-yl-software/"><u>Global Restrictions on Digital Assets: A Look Into Countries Banning Cryptocurrencies – YL Computing | YL Software</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/recognizing-the-signs-you-should-refresh-your-device-drivers-with-guidance-from-yl-software/"><u>Recognizing the Signs You Should Refresh Your Device Drivers with Guidance From YL Software</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/reviving-lost-data-a-comprehensive-guide-to-restoring-permanently-deleted-files-on-your-pc-by-yl-computing/"><u>Reviving Lost Data: A Comprehensive Guide to Restoring Permanently Deleted Files on Your PC - By YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/yl-software-strategies-for-enhanced-system-optimization-and-speed-boosting-tips/"><u>YL Software Strategies for Enhanced System Optimization and Speed Boosting Tips</u></a></li>
 </ul></div>
 

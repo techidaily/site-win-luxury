@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Update 3.6.1.1: Free DJ Software for Dexon 3/Dexon 3R/Dexon"
-date: 2024-11-24T21:27:33.764Z
-updated: 2024-11-30T21:00:35.050Z
+date: 2024-12-05T17:14:56.091Z
+updated: 2024-12-09T01:50:02.333Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed And Fixed In 3.6.1.1
@@ -59,7 +59,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 [Get DEX 3.6.1.1 LE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,18 +81,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/07/downloaddex3611-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>[Updated] 2024 Approved From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-from-video-views-to-vault-closure-income-insights-for-youtubers/"><u>2024 Approved From Video Views to Vault Closure Income Insights for Youtubers</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1728480600064-aomei-backupper/"><u>AOMEI Backupper專業技術支持的辦法：全面解析</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/beste-moglichkeiten-um-flac-musikdateien-auf-ihrem-iphone-zu-ubertragen-und-abzuspielen/"><u>Beste Möglichkeiten, Um FLAC Musikdateien Auf Ihrem iPhone Zu Übertragen Und Abzuspielen</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/comment-numeriser-avec-succes-vos-donnees-sur-un-hdd-externe-a-laide-dun-cable-ethernet-methode-la-plus-facile-a-adoption/"><u>Comment Numériser Avec Succès Vos Données Sur Un HDD Externe À L'aide D'un Câble Ethernet : Méthode La Plus Facile À Adoption</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/die-besten-portierbaren-tools-zum-umzug-von-samsung-daten-expertenanleitung-und-vergleiche/"><u>Die Besten Portierbaren Tools Zum Umzug Von Samsung Daten: Expertenanleitung Und Vergleiche</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/double-nas-capability-synology-tra-due-router-with-integrated-network-sharing-servers/"><u>Double NAS Capability Synology Tra Due Router with Integrated Network Sharing Servers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/goovision-9000-ultimate-os-snapshotter/"><u>GooVision 9000 Ultimate OS Snapshotter</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-honor-x50i-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/securing-chats-on-facebooks-platform/"><u>Securing Chats on Facebooks Platform</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-tutorial-installing-windows-11-on-usb-3-methods-revealed/"><u>Step-by-Step Tutorial: Installing Windows 11 on USB - 3 Methods Revealed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-infinix-zero-30-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Infinix Zero 30 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/usps-joins-the-blockchain-bandwagon-with-official-non-fungible-tokens/"><u>USPS Joins the Blockchain Bandwagon with Official Non-Fungible Tokens</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-growth-secrets-masterful-narration-techniques/"><u>[New] YouTube Growth Secrets Masterful Narration Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-building-brands-through-memes-for-2024/"><u>[Updated] Building Brands Through Memes for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-dive-into-the-depth-of-4k-content-your-ultimate-guide-for-youtube-submission/"><u>[Updated] Dive Into the Depth of 4K Content Your Ultimate Guide for YouTube Submission</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-durecorder-uncovered-features-and-analysis-for-2024/"><u>[Updated] DuRecorder Uncovered Features and Analysis for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-language-barriers-with-these-top-20-video-translators/"><u>Breaking Language Barriers with These Top 20 Video Translators</u></a></li>
+<li><a href="https://win-best.techidaily.com/como-instalar-windows-7-en-un-disco-de-estado-solido-nvme-tres-metodos-efectivos/"><u>Cómo Instalar Windows 7 en Un Disco De Estado Sólido NVMe: Tres Métodos Efectivos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/delicate-decrease-techniques-for-fl-studio-audio-levels/"><u>Delicate Decrease Techniques for FL Studio Audio Levels</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/diagnosing-issues-key-indicators-of-a-malfunctioning-motherboard-expertise-by-yl-software/"><u>Diagnosing Issues: Key Indicators of a Malfunctioning Motherboard - Expertise by YL Software</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/download-ferrari-458-hd-images-and-desktop-backgrounds-by-yl-computing/"><u>Download Ferrari 458 HD Images & Desktop Backgrounds by YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/exploring-the-world-of-altcoins-what-other-cryptocurrencies-are-out-there-yl-computings-deep-dive/"><u>Exploring the World of Altcoins: What Other Cryptocurrencies Are Out There? – YL Computing's Deep Dive</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/get-your-hands-on-the-new-dj-decklive-dex-38-pre-release-version-for-testing-and-feedback/"><u>Get Your Hands on the New DJ DeckLive DEX 3.8 - Pre-Release Version for Testing and Feedback!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unplug-and-laugh-select-the-best-15-funny-youtube-sources/"><u>In 2024, Unplug and Laugh Select the Best 15 Funny YouTube Sources</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-handling-steam-game-installation-disk-writing-problems/"><u>Master the Art of Handling Steam Game Installation Disk Writing Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/predictions-on-artificinas-inteligentes-date-of-gpt-5/"><u>Predictions on Artificinas Inteligentes: Date of GPT-5?</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/resolving-boot-up-issues-expert-advice-from-yl-software-experts/"><u>Resolving Boot-Up Issues: Expert Advice From YL Software Experts</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/troubleshooting-the-blue-screen-of-death-expert-tips-from-yl-computing/"><u>Troubleshooting the Blue Screen of Death: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/understanding-the-root-of-laptop-overheating-a-comprehensive-guide-powered-by-yl-technology/"><u>Understanding the Root of Laptop Overheating: A Comprehensive Guide - Powered by YL Technology</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/verifying-ram-performance-a-comprehensive-guide-by-yl-computing/"><u>Verifying RAM Performance: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/why-does-my-pc-take-forever-to-start-up-expert-insights-on-long-boot-times/"><u>Why Does My PC Take Forever to Start Up? Expert Insights on Long Boot Times</u></a></li>
 </ul></div>
 

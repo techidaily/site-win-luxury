@@ -1,7 +1,7 @@
 ---
 title: "Mastering the PCDJ Deckee 3: A Comprehensive Guide to Using Its Unique Loops & Effects Grid"
-date: 2024-11-25T22:19:30.924Z
-updated: 2024-11-30T20:06:21.143Z
+date: 2024-12-07T21:16:03.828Z
+updated: 2024-12-08T23:54:01.125Z
 tags:
   - product
 categories:
@@ -25,13 +25,13 @@ In this short video we showcase the new effects grid that is a focal point of th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **VIDEO DEMO OF THE NEW EFFECTS AND LOOP GRID MODULE IN PCDJ DEX 3**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -53,22 +53,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/07/dex3gridcoverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-solutions-to-clear-up-fuzzy-videos-for-mobile-users/"><u>[New] 2024 Approved Solutions to Clear Up Fuzzy Videos for Mobile Users</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlocking-archived-stories-from-facebook-a-digital-handbook/"><u>[New] 2024 Approved Unlocking Archived Stories From Facebook A Digital Handbook</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-video-presentations-with-top-30-free-intra-makers/"><u>[Updated] In 2024, Elevate Your Video Presentations with Top 30 Free Intra Makers</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/windows-11dvd/"><u>最新ガイド：Windows 11でDVDドライブを再認識する方法 - トラブルシューティング完了</u></a></li>
-<li><a href="https://discover-help.techidaily.com/accidentally-trashed-your-downloads-easy-ways-to-recover-your-downloads-folder-in-windows-operating-systems/"><u>Accidentally Trashed Your Downloads? Easy Ways to Recover Your Downloads Folder in Windows Operating Systems</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/comprehensive-step-by-step-tutorial-how-to-perform-a-full-reset-of-your-hard-drive-in-windows-10-beginner-and-expert-edition/"><u>Comprehensive Step-by-Step Tutorial: How to Perform a Full Reset of Your Hard Drive in Windows 10 - Beginner and Expert Edition</u></a></li>
-<li><a href="https://facebook.techidaily.com/deciphering-concealed-expressions-in-messenger-correspondence/"><u>Deciphering Concealed Expressions in Messenger Correspondence</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/effective-solutions-for-shrinking-bulky-windows-11-and-10-system-files/"><u>Effective Solutions for Shrinking Bulky Windows 11 and 10 System Files</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/impossible-de-formater-la-cle-usbhd-exterieure-sur-windows-comment-y-remedier/"><u>Impossible De Formater La Clé USB/HD Extérieure Sur Windows : Comment Y Remédier ?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone XR Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nd-android-youtube-autoplay-tricks/"><u>IOS & Android YouTube AutoPlay Tricks</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/mastering-no-cost-data-retrieval-the-comprehensive-guide-to-reclaiming-your-missing-2gb-files/"><u>Mastering No-Cost Data Retrieval: The Comprehensive Guide to Reclaiming Your Missing 2GB Files</u></a></li>
-<li><a href="https://games-able.techidaily.com/power-conservation-tactics-to-keep-gaming-longer-on-xbox/"><u>Power Conservation Tactics to Keep Gaming Longer on Xbox</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/protected-windows-10-system-snapshot-with-usb-key-security-measures/"><u>Protected Windows 10 System Snapshot with USB Key Security Measures</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/techniques-de-recouvrement-des-carte-sdxc-les-5-facons-les-plus-performantes/"><u>Techniques De Recouvrement Des Carte SDXC : Les 5 Façons Les Plus Performantes</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/ultimate-tutorial-installation-and-usage-of-vmware-connector-for-remote-management/"><u>Ultimate Tutorial: Installation & Usage of VMware Connector for Remote Management</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-develop-meme-art-in-adobe-suite/"><u>[New] Develop Meme Art in Adobe Suite</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-comprerant-and-reviewed-the-ultimate-list-of-ios-video-edits/"><u>2024 Approved Compreran't & Reviewed The Ultimate List of iOS Video Edits</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-honor-90-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Honor 90 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/e-written-guide-on-incorporating-markup-features-in-youtube-for-2024/"><u>Compre Written Guide on Incorporating Markup Features in YouTube for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/create-and-manage-registry-keys-like-a-pro-expert-tips-from-the-team-at-yl-computing/"><u>Create and Manage Registry Keys Like a Pro - Expert Tips From the Team at YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-can-i-accelerate-my-pcs-performance-without-investing-in-new-equipment-tips-from-yl-computing/"><u>How Can I Accelerate My PC's Performance Without Investing in New Equipment? - Tips From YL Computing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-s23-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy S23 Phone Screen?</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-to-address-odd-noises-coming-from-my-graphics-card-fan-expert-tips-from-yl-software/"><u>How to Address Odd Noises Coming From My Graphics Card Fan: Expert Tips From YL Software</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/master-your-pc-with-ease-unlocking-control-panel-adjustments-on-windows-yl-software-insights/"><u>Master Your PC with Ease: Unlocking Control Panel Adjustments on Windows - YL Software Insights</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/mastering-your-mixes-with-denons-mc6000-mk-ii-updated-controller-guide-and-mapping-for-djs/"><u>Mastering Your Mixes with Denon's MC6000 Mk II - Updated Controller Guide and Mapping for DJs</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-issues-with-elder-scrolls-online-failing-to-load/"><u>Overcoming Issues with Elder Scrolls Online Failing to Load</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/printer-jamming-issues-decoded-prevention-techniques-with-expert-advice-from-yl-software/"><u>Printer Jamming Issues Decoded: Prevention Techniques with Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/recognizing-symptoms-of-a-deteriorating-psu-insights-from-yl-computing-and-yl-software/"><u>Recognizing Symptoms of a Deteriorating PSU: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-booting-up-your-pc-with-windows-safe-mode-tips-from-yl-computing/"><u>Step-by-Step Guide: Booting Up Your PC with Windows Safe Mode - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/top-video-compression-tools-for-windows-11-optimize-your-media/"><u>Top Video Compression Tools for Windows 11: Optimize Your Media</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshoot-and-solve-the-stop-0x00000e9d-issue-effectively/"><u>Troubleshoot and Solve the Stop 0X00000e9d Issue Effectively</u></a></li>
 </ul></div>
 
