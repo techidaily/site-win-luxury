@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the New DJ DeckLive DEX 3.8 - Pre-Release Version for Testing and Feedback!
-date: 2024-12-03T09:20:28.197Z
-updated: 2024-12-08T21:12:34.718Z
+date: 2024-12-08T00:29:19.409Z
+updated: 2024-12-14T22:11:18.720Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NEW, CHANGED OR FIXED IN DEX 3.8 (RELEASE CANDIDATE)
@@ -72,7 +72,7 @@ For controller scripts (mappings) we have added the following:
 _Have questions about our **top DJ mixing software** and any of the new features including with version 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,16 +94,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-coverimage.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-streamlining-video-conferencing-combining-skype-and-zoom-effortlessly/"><u>[Updated] In 2024, Streamlining Video Conferencing Combining Skype & Zoom Effortlessly</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1-setting-up-new-hardware-installation-and-removal-guide-by-yl-software/"><u>1. Setting Up New Hardware: Installation & Removal Guide by YL Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/baldurs-gate-ultimate-guide-resolve-your-frustrating-lags/"><u>Baldur's Gate: Ultimate Guide - Resolve Your Frustrating Lags!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beginner-friendly-tutorial-for-integrating-microsoft-copilot-into-your-mac-experience/"><u>Beginner-Friendly Tutorial for Integrating Microsoft Copilot Into Your Mac Experience</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/deciphering-crypto-key-differences-between-online-and-physical-currencies-by-yl-software-experts/"><u>Deciphering Crypto: Key Differences Between Online and Physical Currencies by YL Software Experts</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/enhancing-computer-performance-by-efficiently-managing-system-resources-insights-from-yl-computing/"><u>Enhancing Computer Performance by Efficiently Managing System Resources - Insights From YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/finding-a-specific-file-extension-in-windows-a-guide-by-yl-software/"><u>Finding a Specific File Extension in Windows: A Guide by YL Software</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-exploring-various-ways-to-earn-on-youtube/"><u>In 2024, Exploring Various Ways to Earn on YouTube</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/professional-hd-1080p-image-collection-for-your-screen-ultra-clear-graphics-yl-computing-solutions/"><u>Professional HD 1080P Image Collection for Your Screen | Ultra-Clear Graphics – YL Computing Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/xsplit-sourcebook-exclusive-split-and-review-content/"><u>XSplit Sourcebook Exclusive Split & Review Content</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-expert-techniques-for-acquiring-pristine-images-for-2024/"><u>[New] Expert Techniques for Acquiring Pristine Images for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-expert-secrets-for-effective-ipad-sound-capture/"><u>[Updated] In 2024, Expert Secrets for Effective iPad Sound Capture</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-analysis-of-yuneecs-typhoon-h-drone-technology/"><u>[Updated] In-Depth Analysis of Yuneec's Typhoon H Drone Technology</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/configure-your-pcs-network-settings-via-control-panel-easily-expert-advice-from-yl-computing-team/"><u>Configure Your PC's Network Settings Via Control Panel Easily - Expert Advice From YL Computing Team</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-android-vids-top-10-players/"><u>Elevate Your Android Vids Top 10 Players</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/ensuring-seamless-integration-of-new-graphics-cards-on-your-system-tips-from-yl-software-expertise/"><u>Ensuring Seamless Integration of New Graphics Cards on Your System - Tips From YL Software Expertise</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gigabyte-totals-for-extended-video-playback-for-2024/"><u>Gigabyte Totals for Extended Video Playback for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/identifying-the-cause-behind-your-laptops-disturbing-noise-expert-insights-by-yl-computing/"><u>Identifying the Cause Behind Your Laptop's Disturbing Noise: Expert Insights by YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/simple-steps-to-make-your-own-editable-pdfs-adobe-free-solutions/"><u>Simple Steps to Make Your Own Editable PDFs - Adobe-Free Solutions</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/troubleshooting-lost-drives-in-windows-systems-with-insights-from-yl-software-experts/"><u>Troubleshooting Lost Drives in Windows Systems with Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/troubleshooting-tips-how-to-fix-your-scanner-when-it-wont-turn-on-guidance-from-yl-computing/"><u>Troubleshooting Tips: How to Fix Your Scanner When It Won't Turn On - Guidance From YL Computing</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/why-does-my-discord-keep-crashing-when-i-go-live-learn-the-fix-here/"><u>Why Does My Discord Keep Crashing When I Go Live? Learn the Fix Here</u></a></li>
 </ul></div>
 

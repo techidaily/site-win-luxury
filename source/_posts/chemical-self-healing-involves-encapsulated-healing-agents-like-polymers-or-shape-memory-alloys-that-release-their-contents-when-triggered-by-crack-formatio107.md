@@ -1,7 +1,7 @@
 ---
 title: Chemical Self-Healing Involves Encapsulated Healing Agents Like Polymers or Shape Memory Alloys that Release Their Contents when Triggered by Crack Formation.
-date: 2024-12-01T22:28:55.220Z
-updated: 2024-12-09T03:07:43.953Z
+date: 2024-12-10T21:08:35.377Z
+updated: 2024-12-14T16:21:42.351Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ The RED Mobile 3 skin features vertical wave-forms in the middle mixer section, 
 _**\*Unzip the RED Mobile 3 Skin to: Documents (Docs) -> PCDJ-DEX3 -> Skins. You can then access the skin from the select user interface drop down menu in DEX 3’s options.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,20 +50,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/02/downloadredmobile3skin-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-getting-it-just-right-the-art-of-social-media-video-dimensions/"><u>[Updated] In 2024, Getting It Just Right The Art of Social Media Video Dimensions</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/british-spoken-tongue-vs-american/"><u>British Spoken Tongue vs American</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Poco X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-visual-appeal-opt-for-expansive-cabinet-panels/"><u>Enhance Visual Appeal: Opt for Expansive Cabinet Panels</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/enhance-your-visual-experience-by-cooling-down-and-upgrading-gpu-performance-insights-by-yl-solutions/"><u>Enhance Your Visual Experience by Cooling Down and Upgrading GPU Performance - Insights by YL Solutions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-hands-on-the-latest-zebra-gk420d-printer-drivers-fast/"><u>Get Your Hands on the Latest Zebra GK420D Printer Drivers Fast</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-8-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 8 After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/optimizing-your-pcs-configuration-boost-its-speed-with-simple-tweaks-guided-by-yl-computing/"><u>Optimizing Your PC's Configuration: Boost Its Speed with Simple Tweaks – Guided by YL Computing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/perfecting-game-capture-techniques-and-tricks/"><u>Perfecting Game Capture Techniques & Tricks</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/resolving-detection-problems-with-new-hardware-on-windows-tips-by-yl-software-experts/"><u>Resolving Detection Problems with New Hardware on Windows - Tips by YL Software Experts</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/troubleshooting-and-repairing-your-video-card-made-easy-by-yl-computing/"><u>Troubleshooting and Repairing Your Video Card Made Easy by YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/troubleshooting-computer-malfunctions-understanding-hardware-failures-that-cause-crashes-yl-software-insights/"><u>Troubleshooting Computer Malfunctions: Understanding Hardware Failures that Cause Crashes, YL Software Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-faults-in-windows-defender-and-system-file-checker-operations/"><u>Troubleshooting Faults in Windows Defender & System File Checker Operations</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/windows-defenders-automatic-check-up-timetable-insights-and-explanations-by-yl-computing/"><u>Windows Defender's Automatic Check-Up Timetable - Insights and Explanations by YL Computing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-advances-in-photography-with-lut-technology/"><u>[New] 2024 Approved Advances in Photography with LUT Technology</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-enhance-productions-no-cost-sounds-available/"><u>[New] 2024 Approved Enhance Productions No-Cost Sounds Available!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/creating-a-secure-crypto-exchange-with-yl-software-a-comprehensive-tutorial-by-yl-computing/"><u>Creating a Secure Crypto Exchange with YL Software - A Comprehensive Tutorial by YL Computing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/data-recovery-tips-for-damaged-android-screens-a-comprehensive-approach-to-preserving-your-files/"><u>Data Recovery Tips for Damaged Android Screens: A Comprehensive Approach to Preserving Your Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208528342-elevate-your-systems-efficiency-quick-fix-for-excessive-cpu-usage-by-shell-infrastructures/"><u>Elevate Your System's Efficiency – Quick Fix for Excessive CPU Usage by Shell Infrastructures</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/high-definition-cappuccino-desktop-scenes-premium-wallpaper-gallery-by-yl-computing/"><u>High-Definition Cappuccino Desktop Scenes - Premium Wallpaper Gallery by YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/identifying-key-hardware-issues-behind-blue-screen-errors-insights-from-yl-computing/"><u>Identifying Key Hardware Issues Behind Blue Screen Errors - Insights From YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/impact-of-pc-power-supply-on-system-performance-insights-from-yl-computing/"><u>Impact of PC Power Supply on System Performance - Insights From YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-15-pro-max-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your iPhone 15 Pro Max Apple ID on MacBook</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-restore-your-corsair-hs50-mics-functionality-with-ease/"><u>Troubleshoot and Restore Your Corsair HS50 Mic's Functionality with Ease</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/understanding-the-reasons-behind-sluggish-pc-performance-a-deep-dive-by-yl-computing/"><u>Understanding the Reasons Behind Sluggish PC Performance: A Deep Dive by YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Update 3.6.1.1: Free DJ Software for Dexon 3/Dexon 3R/Dexon"
-date: 2024-12-05T17:14:56.091Z
-updated: 2024-12-09T01:50:02.333Z
+date: 2024-12-10T07:32:24.167Z
+updated: 2024-12-15T04:03:02.444Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed And Fixed In 3.6.1.1
@@ -59,7 +59,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 [Get DEX 3.6.1.1 LE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,24 +81,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/07/downloaddex3611-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-growth-secrets-masterful-narration-techniques/"><u>[New] YouTube Growth Secrets Masterful Narration Techniques</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-building-brands-through-memes-for-2024/"><u>[Updated] Building Brands Through Memes for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-dive-into-the-depth-of-4k-content-your-ultimate-guide-for-youtube-submission/"><u>[Updated] Dive Into the Depth of 4K Content Your Ultimate Guide for YouTube Submission</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-durecorder-uncovered-features-and-analysis-for-2024/"><u>[Updated] DuRecorder Uncovered Features and Analysis for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/breaking-language-barriers-with-these-top-20-video-translators/"><u>Breaking Language Barriers with These Top 20 Video Translators</u></a></li>
-<li><a href="https://win-best.techidaily.com/como-instalar-windows-7-en-un-disco-de-estado-solido-nvme-tres-metodos-efectivos/"><u>Cómo Instalar Windows 7 en Un Disco De Estado Sólido NVMe: Tres Métodos Efectivos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/delicate-decrease-techniques-for-fl-studio-audio-levels/"><u>Delicate Decrease Techniques for FL Studio Audio Levels</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/diagnosing-issues-key-indicators-of-a-malfunctioning-motherboard-expertise-by-yl-software/"><u>Diagnosing Issues: Key Indicators of a Malfunctioning Motherboard - Expertise by YL Software</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/download-ferrari-458-hd-images-and-desktop-backgrounds-by-yl-computing/"><u>Download Ferrari 458 HD Images & Desktop Backgrounds by YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/exploring-the-world-of-altcoins-what-other-cryptocurrencies-are-out-there-yl-computings-deep-dive/"><u>Exploring the World of Altcoins: What Other Cryptocurrencies Are Out There? – YL Computing's Deep Dive</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/get-your-hands-on-the-new-dj-decklive-dex-38-pre-release-version-for-testing-and-feedback/"><u>Get Your Hands on the New DJ DeckLive DEX 3.8 - Pre-Release Version for Testing and Feedback!</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-unplug-and-laugh-select-the-best-15-funny-youtube-sources/"><u>In 2024, Unplug and Laugh Select the Best 15 Funny YouTube Sources</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-the-art-of-handling-steam-game-installation-disk-writing-problems/"><u>Master the Art of Handling Steam Game Installation Disk Writing Problems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/predictions-on-artificinas-inteligentes-date-of-gpt-5/"><u>Predictions on Artificinas Inteligentes: Date of GPT-5?</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/resolving-boot-up-issues-expert-advice-from-yl-software-experts/"><u>Resolving Boot-Up Issues: Expert Advice From YL Software Experts</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/troubleshooting-the-blue-screen-of-death-expert-tips-from-yl-computing/"><u>Troubleshooting the Blue Screen of Death: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/understanding-the-root-of-laptop-overheating-a-comprehensive-guide-powered-by-yl-technology/"><u>Understanding the Root of Laptop Overheating: A Comprehensive Guide - Powered by YL Technology</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/verifying-ram-performance-a-comprehensive-guide-by-yl-computing/"><u>Verifying RAM Performance: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/why-does-my-pc-take-forever-to-start-up-expert-insights-on-long-boot-times/"><u>Why Does My PC Take Forever to Start Up? Expert Insights on Long Boot Times</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-amazonprimes-winning-tweets-of-the-year-2023/"><u>[New] 2024 Approved AmazonPrime's Winning Tweets of the Year 2023</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-ultimate-guide-to-avoiding-vr-nausea/"><u>[New] In 2024, The Ultimate Guide to Avoiding VR Nausea</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-path-to-youtube-prosperity-unlocking-monetization-with-500plus-views-for-2024/"><u>[Updated] Path to YouTube Prosperity Unlocking Monetization with 500+ Views for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-deciphering-facebooks-forgotten-features-a-cross-platform-manual/"><u>2024 Approved Deciphering Facebook's Forgotten Features A Cross-Platform Manual</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-punpictures-pro-jestjokes-network/"><u>2024 Approved PunPictures Pro JestJokes Network</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/best-hard-drives-for-optimal-memory-speed-recommendations-from-yl-computing/"><u>Best Hard Drives for Optimal Memory Speed: Recommendations From YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/create-and-manage-registry-keys-like-a-pro-expert-tips-from-the-team-at-yl-computing/"><u>Create and Manage Registry Keys Like a Pro - Expert Tips From the Team at YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/does-a-faulty-component-impact-your-pcs-performance-exploring-hardware-issues-with-yl-computing/"><u>Does a Faulty Component Impact Your PC's Performance? Exploring Hardware Issues with YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/easy-customization-of-windows-eb-settings-tailoring-user-profiles-with-yl-computings-comprehensive-walkthrough/"><u>Easy Customization of Windows Eb Settings: Tailoring User Profiles with YL Computing's Comprehensive Walkthrough</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-localisation-tips-easily-update-to-a-different-region-or-language/"><u>Iphone Localisation Tips: Easily Update to a Different Region or Language</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/reset-your-print-settings-effectively-with-yl-softwares-comprehensive-instructions/"><u>Reset Your Print Settings Effectively with YL Software's Comprehensive Instructions</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/solve-network-detect-issues-with-your-wireless-card-comprehensive-guide-from-yl-software/"><u>Solve Network Detect Issues with Your Wireless Card – Comprehensive Guide From YL Software</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-drone-editors-playbook-a-comprehensive-guide-for-2024/"><u>The Drone Editor's Playbook A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ltimate-hair-and-makeup-guide-on-youtubes-top-influencers-for-2024/"><u>The Ultimate Hair & Makeup Guide on YouTube's Top Influencers for 2024</u></a></li>
 </ul></div>
 

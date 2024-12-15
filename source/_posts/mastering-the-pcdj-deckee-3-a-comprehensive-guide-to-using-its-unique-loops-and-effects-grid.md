@@ -1,7 +1,7 @@
 ---
 title: "Mastering the PCDJ Deckee 3: A Comprehensive Guide to Using Its Unique Loops & Effects Grid"
-date: 2024-12-07T21:16:03.828Z
-updated: 2024-12-08T23:54:01.125Z
+date: 2024-12-13T09:41:35.133Z
+updated: 2024-12-14T18:08:20.836Z
 tags:
   - product
 categories:
@@ -25,13 +25,13 @@ In this short video we showcase the new effects grid that is a focal point of th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **VIDEO DEMO OF THE NEW EFFECTS AND LOOP GRID MODULE IN PCDJ DEX 3**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -53,22 +53,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/07/dex3gridcoverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-develop-meme-art-in-adobe-suite/"><u>[New] Develop Meme Art in Adobe Suite</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-comprerant-and-reviewed-the-ultimate-list-of-ios-video-edits/"><u>2024 Approved Compreran't & Reviewed The Ultimate List of iOS Video Edits</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-honor-90-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Honor 90 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/e-written-guide-on-incorporating-markup-features-in-youtube-for-2024/"><u>Compre Written Guide on Incorporating Markup Features in YouTube for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/create-and-manage-registry-keys-like-a-pro-expert-tips-from-the-team-at-yl-computing/"><u>Create and Manage Registry Keys Like a Pro - Expert Tips From the Team at YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-can-i-accelerate-my-pcs-performance-without-investing-in-new-equipment-tips-from-yl-computing/"><u>How Can I Accelerate My PC's Performance Without Investing in New Equipment? - Tips From YL Computing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-s23-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy S23 Phone Screen?</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-to-address-odd-noises-coming-from-my-graphics-card-fan-expert-tips-from-yl-software/"><u>How to Address Odd Noises Coming From My Graphics Card Fan: Expert Tips From YL Software</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/master-your-pc-with-ease-unlocking-control-panel-adjustments-on-windows-yl-software-insights/"><u>Master Your PC with Ease: Unlocking Control Panel Adjustments on Windows - YL Software Insights</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/mastering-your-mixes-with-denons-mc6000-mk-ii-updated-controller-guide-and-mapping-for-djs/"><u>Mastering Your Mixes with Denon's MC6000 Mk II - Updated Controller Guide and Mapping for DJs</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-issues-with-elder-scrolls-online-failing-to-load/"><u>Overcoming Issues with Elder Scrolls Online Failing to Load</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/printer-jamming-issues-decoded-prevention-techniques-with-expert-advice-from-yl-software/"><u>Printer Jamming Issues Decoded: Prevention Techniques with Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/recognizing-symptoms-of-a-deteriorating-psu-insights-from-yl-computing-and-yl-software/"><u>Recognizing Symptoms of a Deteriorating PSU: Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-booting-up-your-pc-with-windows-safe-mode-tips-from-yl-computing/"><u>Step-by-Step Guide: Booting Up Your PC with Windows Safe Mode - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/top-video-compression-tools-for-windows-11-optimize-your-media/"><u>Top Video Compression Tools for Windows 11: Optimize Your Media</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshoot-and-solve-the-stop-0x00000e9d-issue-effectively/"><u>Troubleshoot and Solve the Stop 0X00000e9d Issue Effectively</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-fresh-talent-and-stunts-in-skating-highlights/"><u>[New] In 2024, Fresh Talent and Stunts in Skating Highlights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-live-on-air-how-to-broadcast-on-youtube-and-twitch-using-obs-for-2024/"><u>[New] Live on Air How to Broadcast on YouTube & Twitch Using OBS for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-apple-podcast-submission-process/"><u>[New] Navigating Apple Podcast Submission Process</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-savvy-photographers-guide-to-pristine-cloud-space-cost-free-and-paid-choices/"><u>[Updated] Savvy Photographers' Guide to Pristine Cloud Space Cost-Free & Paid Choices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-wheres-the-community-twitch-and-youtube-side-by-side/"><u>[Updated] Where's the Community? Twitch & YouTube Side by Side</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/boost-your-pcs-efficiency-expert-tips-from-yl-computing-and-software-solutions/"><u>Boost Your PC's Efficiency: Expert Tips From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/customizing-your-start-menu-on-windows-11-a-step-by-step-guide-tips-from-yl-computing/"><u>Customizing Your Start Menu on Windows 11: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-update-your-lenovo-ideapad-100-drivers-with-ease-on-windows-10/"><u>Find & Update Your Lenovo IdeaPad 100 Drivers with Ease on Windows 10</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/get-your-exclusive-pre-october-15-dex-3-license-unlock-200-free-music-video-downloads-with-pcdj-offer/"><u>Get Your Exclusive Pre-October 15 DEX #3 License: Unlock 200 Free Music Video Downloads with PCDJ Offer!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/high-quality-art-deco-wallpaper-designs-hd-bg-pics-and-photography-by-yl-computing/"><u>High-Quality Art Deco Wallpaper Designs: HD Bg Pics & Photography by YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-to-fix-when-your-pcs-network-adapter-displays-limited-or-no-internet-access-yl-tech-support-tips/"><u>How to Fix When Your PC's Network Adapter Displays Limited or No Internet Access - YL Tech Support Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-csv-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .csv by digital signature</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-audio-exploration-the-comprehensible-review-of-pazera/"><u>In 2024, Audio Exploration The Comprehensible Review of Pazera</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-itel-s23plus-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-tools-for-identifying-and-troubleshooting-hardware-issues-a-comprehensive-guide-by-yl-computing/"><u>Top Tools for Identifying and Troubleshooting Hardware Issues: A Comprehensive Guide by YL Computing</u></a></li>
 </ul></div>
 

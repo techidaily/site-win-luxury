@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX Version 3.4 Release Candidate Available for Immediate Download
-date: 2024-12-02T17:42:30.353Z
-updated: 2024-12-09T03:02:35.521Z
+date: 2024-12-10T01:41:45.046Z
+updated: 2024-12-15T06:54:38.769Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ DEX 3 continues to innovate and improve with every free update launched, proving
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT’S NEW, CHANGED OR FIXED IN DEX 3.4 RC
@@ -73,7 +73,7 @@ _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your E
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -95,14 +95,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34rc-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-save-money-and-time-creating-engaging-youtube-intros-without-paying/"><u>[Updated] In 2024, Save Money & Time Creating Engaging YouTube Intros Without Paying</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-camera-kings-battle-ultimate-sj6-vs-xiaomis-yi-kickstart-dream/"><u>2024 Approved Camera Kings Battle Ultimate SJ6 Vs. Xiaomi’s Yi Kickstart Dream</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-15-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 15 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/chromebook-troubles-in-classrooms-recurring-bedbug-invasions-highlighted-on-zdnet-real-life-tech-hazards/"><u>Chromebook Troubles in Classrooms: Recurring Bedbug Invasions Highlighted on ZDNet | Real-Life Tech Hazards</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dealing-with-mfc-42-dll-file-not-found-heres-your-guide-to-quick-recovery/"><u>Dealing with MFC 42 DLL File Not Found? Here's Your Guide to Quick Recovery!</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/global-restrictions-on-digital-assets-a-look-into-countries-banning-cryptocurrencies-yl-computing-yl-software/"><u>Global Restrictions on Digital Assets: A Look Into Countries Banning Cryptocurrencies – YL Computing | YL Software</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/recognizing-the-signs-you-should-refresh-your-device-drivers-with-guidance-from-yl-software/"><u>Recognizing the Signs You Should Refresh Your Device Drivers with Guidance From YL Software</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/reviving-lost-data-a-comprehensive-guide-to-restoring-permanently-deleted-files-on-your-pc-by-yl-computing/"><u>Reviving Lost Data: A Comprehensive Guide to Restoring Permanently Deleted Files on Your PC - By YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/yl-software-strategies-for-enhanced-system-optimization-and-speed-boosting-tips/"><u>YL Software Strategies for Enhanced System Optimization and Speed Boosting Tips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-silent-youtube-browsing-for-iphones-and-androids/"><u>[New] 2024 Approved Silent YouTube Browsing for iPhones and Androids</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-turning-twitter-video-into-engaging-customizable-gifs/"><u>[New] Turning Twitter Video Into Engaging Customizable GIFs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tuneful-texts-musical-infusion-on-whatsapp/"><u>[Updated] Tuneful Texts Musical Infusion on WhatsApp</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-turning-social-media-sounds-into-functional-phone-alarms-for-2024/"><u>[Updated] Turning Social Media Sounds Into Functional Phone Alarms for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/assessing-gpu-strength-for-intensive-applications-tips-and-tricks-by-yl-software-experts/"><u>Assessing GPU Strength for Intensive Applications: Tips & Tricks by YL Software Experts</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/deadly-graphic-artwork-collection-premium-backdrop-pics-and-digital-canvases-by-yl-computing/"><u>Deadly Graphic Artwork Collection: Premium Backdrop Pics & Digital Canvases by YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-do-you-troubleshoot-gpu-issues-a-comprehamatic-guide-by-yl-software/"><u>How Do You Troubleshoot GPU Issues? A Comprehamatic Guide by YL Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-accelerated-scanning-process-for-windows/"><u>In 2024, Accelerated Scanning Process for Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instantaneous-fb-video-updates-leading-extensions-and-app-analysis-for-2024/"><u>Instantaneous FB Video Updates - Leading Extensions & App Analysis for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/reinstalling-graphics-compatibility/"><u>Reinstalling Graphics Compatibility</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-pcdj-pro-user-spotlight-explore-the-best-in-pcdj-dj-software/"><u>Top PCDJ Pro User Spotlight: Explore the Best in PCDJ DJ Software</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/troubleshooting-tips-resolving-non-responsive-windows-applications-with-expert-advice-from-yl-computing/"><u>Troubleshooting Tips: Resolving Non-Responsive Windows Applications with Expert Advice From YL Computing</u></a></li>
 </ul></div>
 
