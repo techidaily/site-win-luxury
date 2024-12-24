@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Update 3.6.1.1: Free DJ Software for Dexon 3/Dexon 3R/Dexon"
-date: 2024-12-10T07:32:24.167Z
-updated: 2024-12-15T04:03:02.444Z
+date: 2024-12-19T01:30:23.954Z
+updated: 2024-12-23T18:23:36.652Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed And Fixed In 3.6.1.1
@@ -59,7 +59,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 [Get DEX 3.6.1.1 LE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,20 +81,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/07/downloaddex3611-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-amazonprimes-winning-tweets-of-the-year-2023/"><u>[New] 2024 Approved AmazonPrime's Winning Tweets of the Year 2023</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-ultimate-guide-to-avoiding-vr-nausea/"><u>[New] In 2024, The Ultimate Guide to Avoiding VR Nausea</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-path-to-youtube-prosperity-unlocking-monetization-with-500plus-views-for-2024/"><u>[Updated] Path to YouTube Prosperity Unlocking Monetization with 500+ Views for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-deciphering-facebooks-forgotten-features-a-cross-platform-manual/"><u>2024 Approved Deciphering Facebook's Forgotten Features A Cross-Platform Manual</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-punpictures-pro-jestjokes-network/"><u>2024 Approved PunPictures Pro JestJokes Network</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/best-hard-drives-for-optimal-memory-speed-recommendations-from-yl-computing/"><u>Best Hard Drives for Optimal Memory Speed: Recommendations From YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/create-and-manage-registry-keys-like-a-pro-expert-tips-from-the-team-at-yl-computing/"><u>Create and Manage Registry Keys Like a Pro - Expert Tips From the Team at YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/does-a-faulty-component-impact-your-pcs-performance-exploring-hardware-issues-with-yl-computing/"><u>Does a Faulty Component Impact Your PC's Performance? Exploring Hardware Issues with YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/easy-customization-of-windows-eb-settings-tailoring-user-profiles-with-yl-computings-comprehensive-walkthrough/"><u>Easy Customization of Windows Eb Settings: Tailoring User Profiles with YL Computing's Comprehensive Walkthrough</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-localisation-tips-easily-update-to-a-different-region-or-language/"><u>Iphone Localisation Tips: Easily Update to a Different Region or Language</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/reset-your-print-settings-effectively-with-yl-softwares-comprehensive-instructions/"><u>Reset Your Print Settings Effectively with YL Software's Comprehensive Instructions</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/solve-network-detect-issues-with-your-wireless-card-comprehensive-guide-from-yl-software/"><u>Solve Network Detect Issues with Your Wireless Card – Comprehensive Guide From YL Software</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-drone-editors-playbook-a-comprehensive-guide-for-2024/"><u>The Drone Editor's Playbook A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-hair-and-makeup-guide-on-youtubes-top-influencers-for-2024/"><u>The Ultimate Hair & Makeup Guide on YouTube's Top Influencers for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-achieve-visual-harmony-optimal-sizing-for-instagram-videos/"><u>[Updated] Achieve Visual Harmony Optimal Sizing for Instagram Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-best-choice-high-definition-screen-capturing-apps/"><u>2024 Approved The Best Choice High-Definition Screen Capturing Apps</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/changing-file-extensions-on-a-pc-with-windows-a-comprehensive-guide-by-yl-computing/"><u>Changing File Extensions on a PC with Windows - A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/demystifying-blockchain-technology-and-decentralized-ledgers-by-yl-software-experts/"><u>Demystifying Blockchain Technology and Decentralized Ledgers by YL Software Experts</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/detecting-and-solving-your-devices-hardware-glitches-a-comprehvew-by-yl-computing/"><u>Detecting & Solving Your Device's Hardware Glitches - A Comprehvew by YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-failed-usb-recognition-port-reset-in-your-windows-10-system/"><u>Diagnosing & Repairing Failed USB Recognition (Port Reset) in Your Windows 10 System</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/diagnosing-startup-issues-on-your-computer-tips-from-yl-software-experts/"><u>Diagnosing Startup Issues on Your Computer - Tips From YL Software Experts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-list-of-video-editing-software-for-mac/"><u>In 2024, The Ultimate List of Video Editing Software for Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/instant-mirth-mastery-your-shortcut-to-ifunny-memes-for-2024/"><u>Instant Mirth Mastery Your Shortcut to iFunny Memes for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/m1-masterpiece-flawless-video-edits-just-a-click-away/"><u>M1 Masterpiece Flawless Video Edits, Just a Click Away</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-amv-wmv-movavi/"><u>Online AMV 및 WMV 파일을 무료 구조 내에서 쉽게 변환해 보세요 - Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguarding-against-deceptive-chatgpt-sites-prevention-and-response-strategies/"><u>Safeguarding Against Deceptive ChatGPT Sites: Prevention & Response Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/vintage-visuals-redefined-employing-retroarchs-modern-shaders/"><u>Vintage Visuals Redefined: Employing RetroArch’s Modern Shaders</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/yl-software-security-options-a-users-manual-for-modification-and-customization/"><u>YL Software Security Options - A User's Manual for Modification and Customization</u></a></li>
 </ul></div>
 
