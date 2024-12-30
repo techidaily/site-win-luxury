@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX Version 3.4 Release Candidate Available for Immediate Download
-date: 2024-12-22T08:54:24.813Z
-updated: 2024-12-23T16:32:36.971Z
+date: 2024-12-23T17:22:01.612Z
+updated: 2024-12-29T19:51:10.142Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ DEX 3 continues to innovate and improve with every free update launched, proving
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT’S NEW, CHANGED OR FIXED IN DEX 3.4 RC
@@ -73,7 +73,7 @@ _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your E
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -95,18 +95,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34rc-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enhance-your-content-strategy-discover-the-power-of-social-blade-and-youtube-data-for-2024/"><u>[New] Enhance Your Content Strategy - Discover the Power of Social Blade and YouTube Data for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-ice-prowess-unleashed-2022-olympics-sprinting-spectacles/"><u>[New] Ice Prowess Unleashed 2022 Olympics Sprinting Spectacles</u></a></li>
-<li><a href="https://win-superb.techidaily.com/iphone-1516-4/"><u>如何將電腦中的音樂移動到 iPhone 15/16: 4簡單方法解鎖技術</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-t2-pro-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo T2 Pro 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Through Google Earth?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/las-mejores-aplicaciones-de-inteligencia-artificial-para-mejorar-calidad-en-videos-ranking-top-6/"><u>Las Mejores Aplicaciones De Inteligencia Artificial Para Mejorar Calidad en Videos: Ranking Top 6</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/prioritizing-safety-in-it-key-security-advice-for-modern-computers-by-yl-software-team/"><u>Prioritizing Safety in IT: Key Security Advice for Modern Computers by YL Software Team</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/step-by-step-guide-retrieving-your-lost-whatsapp-messages-on-an-iphone/"><u>Step-by-Step Guide: Retrieving Your Lost WhatsApp Messages on an iPhone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/streamline-your-dj-expertise-growth-using-smart-techniques-on-pcdj-platforms/"><u>Streamline Your DJ Expertise Growth Using Smart Techniques on PCDJ Platforms</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/track-your-bitcoin-wallet-status-with-ease-expert-tips-from-yl-computings-bitcoin-balance-checker-software/"><u>Track Your Bitcoin Wallet Status with Ease: Expert Tips From YL Computing's Bitcoin Balance Checker Software</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/understanding-graphics-card-malfunctions-identifying-common-triggers-insights-from-yl-computing/"><u>Understanding Graphics Card Malfunctions: Identifying Common Triggers - Insights From YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/understanding-the-elements-a-deep-dive-into-windows-registry-components-expert-tips-by-yl-computing/"><u>Understanding the Elements: A Deep Dive Into Windows Registry Components - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aster-your-youtube-content-with-superior-webm-converters/"><u>[New] Master Your YouTube Content with Superior WebM Converters</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-inspiring-14-animated-text-concepts/"><u>[Updated] 2024 Approved Inspiring 14 Animated Text Concepts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-avoiding-the-blank-thumbnail-scenario-in-shorts-for-2024/"><u>[Updated] Avoiding the Blank Thumbnail Scenario in Shorts for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-11-insider-tips-for-outstanding-hue-alignment/"><u>[Updated] In 2024, 11 Insider Tips for Outstanding Hue Alignment</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1-setting-up-new-hardware-installation-and-removal-guide-by-yl-software/"><u>1. Setting Up New Hardware: Installation & Removal Guide by YL Software</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/clearing-paper-jams-easily-expert-tips-from-yl-computers-comprehensive-guide/"><u>Clearing Paper Jams Easily: Expert Tips From YL Computers' Comprehensive Guide</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/effective-strategies-to-avoid-computer-overheating-expert-tips-from-yl-computing/"><u>Effective Strategies to Avoid Computer Overheating: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/effortless-srt-to-txt-change-up-made-simple-and-swift/"><u>Effortless SRT to TXT Change-Up Made Simple and Swift</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/enhancing-computer-performance-by-efficiently-managing-system-resources-insights-from-yl-computing/"><u>Enhancing Computer Performance by Efficiently Managing System Resources - Insights From YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/finding-a-specific-file-extension-in-windows-a-guide-by-yl-software/"><u>Finding a Specific File Extension in Windows: A Guide by YL Software</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-tecno-pova-5-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Tecno Pova 5 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-download-process-and-save-youtube-hosted-tweet-videos-as-mp3s/"><u>In 2024, How to Download, Process, and Save YouTube-Hosted Tweet Videos as MP3s</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-mastering-elegant-mosaic-imagery-fusions/"><u>In 2024, Mastering Elegant Mosaic Imagery Fusions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-art-of-visual-storytelling-top-10-ideas-for-instagram-ad-success/"><u>In 2024, The Art of Visual Storytelling Top 10 Ideas for Instagram Ad Success</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/professional-hd-1080p-image-collection-for-your-screen-ultra-clear-graphics-yl-computing-solutions/"><u>Professional HD 1080P Image Collection for Your Screen | Ultra-Clear Graphics – YL Computing Solutions</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/ram-diagnostic-steps-identifying-and-fixing-memory-mistakes-a-guide-by-yl-computing/"><u>RAM Diagnostic Steps: Identifying and Fixing Memory Mistakes - A Guide by YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/steps-to-addremove-printers-via-windows-control-panel-tips-from-yl-computing/"><u>Steps to Add/Remove Printers via Windows Control Panel - Tips From YL Computing</u></a></li>
 </ul></div>
 

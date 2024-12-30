@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the New DJ DeckLive DEX 3.8 - Pre-Release Version for Testing and Feedback!
-date: 2024-12-20T08:23:53.649Z
-updated: 2024-12-23T23:35:40.623Z
+date: 2024-12-24T17:17:16.571Z
+updated: 2024-12-29T21:33:13.978Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NEW, CHANGED OR FIXED IN DEX 3.8 (RELEASE CANDIDATE)
@@ -72,7 +72,7 @@ For controller scripts (mappings) we have added the following:
 _Have questions about our **top DJ mixing software** and any of the new features including with version 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,21 +94,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-coverimage.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-essential-guide-8-excellent-priceless-3d-video-experience/"><u>[Updated] Essential Guide 8 Excellent, Priceless 3D Video Experience</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/can-your-gpu-meet-the-demands-of-desired-apps-expert-insights-from-yl-computing/"><u>Can Your GPU Meet the Demands of Desired Apps? Expert Insights From YL Computing</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/expert-walkthrough-navigating-the-winx-advanced-video-converter-for-mac-a-comprehensive-tutorial-and-usage-manual/"><u>Expert Walkthrough: Navigating the WinX Advanced Video Converter for Mac – A Comprehensive Tutorial and Usage Manual</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/exploring-japanese-artistry-adding-anime-filters-on-snaps-for-2024/"><u>Exploring Japanese Artistry Adding Anime Filters on Snaps for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/german-classrooms-revolutionized-by-mondlys-online-success/"><u>German Classrooms Revolutionized by Mondly's Online Success</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/global-restrictions-on-digital-assets-a-look-into-countries-banning-cryptocurrencies-yl-computing-yl-software/"><u>Global Restrictions on Digital Assets: A Look Into Countries Banning Cryptocurrencies – YL Computing | YL Software</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/o-delete-youtube-comments-effortlessly-for-2024/"><u>How to Delete YouTube Comments Effortlessly for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/mastering-system-security-how-to-turn-on-or-off-secure-boot-in-windows-10-with-yl-computing-expertise/"><u>Mastering System Security: How to Turn On or Off Secure Boot in Windows 10 with YL Computing Expertise</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movaviwmvmkv/"><u>Movaviの専用フリーウェブベースでのWMVからMKVへのコンバートツール</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/nothing-phone-3-news-and-expected-price-release-date-specs-and-more-rumors/"><u>Nothing Phone 3: News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/recognizing-early-warning-indicators-of-cpu-malfunction-insights-from-yl-computing/"><u>Recognizing Early Warning Indicators of CPU Malfunction - Insights From YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/recognizing-the-signs-you-should-refresh-your-device-drivers-with-guidance-from-yl-software/"><u>Recognizing the Signs You Should Refresh Your Device Drivers with Guidance From YL Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-for-unresponsive-applications-on-samsung-smart-tvs/"><u>Step-by-Step Solution for Unresponsive Applications on Samsung Smart TVs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-insight-into-dji-inspire-2/"><u>The Ultimate Insight Into DJI Inspire 2</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/transform-your-event-space-with-cutting-edge-karaoke-magic-introducing-the-revolutionary-km-1-by-pcdj/"><u>Transform Your Event Space with Cutting-Edge Karaoke Magic: Introducing the Revolutionary KM-1 by PCDJ</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/uncover-the-secrets-of-finding-files-with-ease-in-windows-tips-from-yl-software-experts/"><u>Uncover the Secrets of Finding Files with Ease in Windows, Tips From YL Software Experts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-unveiling-top-10-camcorders-in-depth-reviews/"><u>[New] 2024 Approved Unveiling Top 10 Camcorders In-Depth Reviews</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/onvert-any-youtube-tracking-ios-solutions-in-6-free-tools-for-2024/"><u>[New] Convert Any YouTube Tracking IOS Solutions in 6 Free Tools for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-navigating-the-peak-content-igtvs-leaders/"><u>[Updated] 2024 Approved Navigating the Peak Content IGTV's Leaders</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elevate-visual-experience-with-apple-music-inclusion/"><u>[Updated] In 2024, Elevate Visual Experience with Apple Music Inclusion</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-flip-side-of-perspectives-crafting-engaging-images-with-angled-spins-on-instagram-sites/"><u>[Updated] The Flip-Side of Perspectives Crafting Engaging Images with Angled Spins on Instagram Sites</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1732517090249-yl/"><u>武则天统治期间实施了哪些非本意政策？ - 深入分析：YL计算机解码</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024winx-dvd/"><u>制限のない永久利用が可能!2024年版WinX DVDコピープロフリーダウンロードと有効キーの取得方法</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/boost-your-computer-speed-top-hardware-modifications-suggested-by-yl-software-experts/"><u>Boost Your Computer Speed: Top Hardware Modifications Suggested by YL Software Experts</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/can-i-track-my-cryptocurrency-wallet-without-installing-apps-unveiling-solutions-by-yl-software/"><u>Can I Track My Cryptocurrency Wallet without Installing Apps? Unveiling Solutions by YL Software</u></a></li>
+<li><a href="https://discover-data.techidaily.com/expand-your-ios-projects-with-top-9-template-packs-by-creative-tim-available-now/"><u>Expand Your iOS Projects with Top 9 Template Packs by Creative Tim Available Now!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-tecno-spark-go-2023-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Tecno Spark Go (2023) to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-adding-realism-to-portraits-applying-motion-blur-in-picsart/"><u>In 2024, Adding Realism to Portraits Applying Motion Blur in Picsart</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-clearing-your-web-browsing-data-with-ease-tech-insights-by-yl/"><u>Step-by-Step Guide: Clearing Your Web Browsing Data with Ease - Tech Insights by YL</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/troubleshoot-your-printers-spooler-error-with-expert-tips-from-yl-software-experts/"><u>Troubleshoot Your Printer's Spooler Error with Expert Tips From YL Software Experts</u></a></li>
 </ul></div>
 
