@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the New DJ DeckLive DEX 3.8 - Pre-Release Version for Testing and Feedback!
-date: 2024-12-24T17:17:16.571Z
-updated: 2024-12-29T21:33:13.978Z
+date: 2025-01-04T05:30:57.479Z
+updated: 2025-01-09T05:39:42.193Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NEW, CHANGED OR FIXED IN DEX 3.8 (RELEASE CANDIDATE)
@@ -72,7 +72,7 @@ For controller scripts (mappings) we have added the following:
 _Have questions about our **top DJ mixing software** and any of the new features including with version 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,19 +94,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-coverimage.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-unveiling-top-10-camcorders-in-depth-reviews/"><u>[New] 2024 Approved Unveiling Top 10 Camcorders In-Depth Reviews</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/onvert-any-youtube-tracking-ios-solutions-in-6-free-tools-for-2024/"><u>[New] Convert Any YouTube Tracking IOS Solutions in 6 Free Tools for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-navigating-the-peak-content-igtvs-leaders/"><u>[Updated] 2024 Approved Navigating the Peak Content IGTV's Leaders</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elevate-visual-experience-with-apple-music-inclusion/"><u>[Updated] In 2024, Elevate Visual Experience with Apple Music Inclusion</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-flip-side-of-perspectives-crafting-engaging-images-with-angled-spins-on-instagram-sites/"><u>[Updated] The Flip-Side of Perspectives Crafting Engaging Images with Angled Spins on Instagram Sites</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1732517090249-yl/"><u>武则天统治期间实施了哪些非本意政策？ - 深入分析：YL计算机解码</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024winx-dvd/"><u>制限のない永久利用が可能!2024年版WinX DVDコピープロフリーダウンロードと有効キーの取得方法</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/boost-your-computer-speed-top-hardware-modifications-suggested-by-yl-software-experts/"><u>Boost Your Computer Speed: Top Hardware Modifications Suggested by YL Software Experts</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/can-i-track-my-cryptocurrency-wallet-without-installing-apps-unveiling-solutions-by-yl-software/"><u>Can I Track My Cryptocurrency Wallet without Installing Apps? Unveiling Solutions by YL Software</u></a></li>
-<li><a href="https://discover-data.techidaily.com/expand-your-ios-projects-with-top-9-template-packs-by-creative-tim-available-now/"><u>Expand Your iOS Projects with Top 9 Template Packs by Creative Tim Available Now!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-tecno-spark-go-2023-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Tecno Spark Go (2023) to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-adding-realism-to-portraits-applying-motion-blur-in-picsart/"><u>In 2024, Adding Realism to Portraits Applying Motion Blur in Picsart</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-clearing-your-web-browsing-data-with-ease-tech-insights-by-yl/"><u>Step-by-Step Guide: Clearing Your Web Browsing Data with Ease - Tech Insights by YL</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/troubleshoot-your-printers-spooler-error-with-expert-tips-from-yl-software-experts/"><u>Troubleshoot Your Printer's Spooler Error with Expert Tips From YL Software Experts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-sound-system-advances-announced/"><u>[New] Sound System Advances Announced</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/beste-festplatten-loschprogramme-fur-windows-top-picks-fur-windows-11-10-8-and-die-macht-der-klangfarben-in-strawinskys-le-sacre-du-printemps/"><u>Beste Festplatten-Löschprogramme Für Windows: Top Picks Für Windows 11, 10, 8 & # Die Macht Der Klangfarben in Strawinskys Le Sacre Du Printemps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-minecraft-gameplay-a-family-friendly-creative-world/"><u>Comprehensive Guide: Minecraft Gameplay - A Family-Friendly Creative World</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-a-personalized-experience-with-ms-store-themes/"><u>Crafting a Personalized Experience with MS Store Themes</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-sound-with-these-asmr-apps-for-2024/"><u>Elevate Sound with These ASMR Apps for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/evolution-of-microsoft-surface-overcoming-early-challenges-and-redefining-personal-computing/"><u>Evolution of Microsoft Surface: Overcoming Early Challenges and Redefining Personal Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-honor-80-pro-straight-screen-edition-is-unlocked-by-drfone-android/"><u>How To Check if Your Honor 80 Pro Straight Screen Edition Is Unlocked</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-8-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 8 GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-x90s-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo X90S FRP Bypass</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-in-stardee-world-expert-tips-and-tricks/"><u>Overcoming Launch Errors in Stardee World - Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/problembehebung-fur-iphone-anwendungen-die-sich-nach-datentransferaufgaben-nicht-offnen/"><u>Problembehebung Für iPhone-Anwendungen, Die Sich Nach Datentransferaufgaben Nicht Öffnen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-s18e-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo S18e Screen | Dr.fone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/resolution-des-problemes-de-diffusion-incorrecte-de-lespace-de-stockage-sur-un-ssd-dans-windows-10/"><u>Résolution Des Problèmes De Diffusion Incorrecte De L'Espace De Stockage Sur Un SSD Dans Windows 10</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/simple-and-secure-methods-moving-images-from-digital-camera-to-ipad/"><u>Simple and Secure Methods: Moving Images From Digital Camera to iPad</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-restoring-accidentally-erased-indian-documents/"><u>Step-by-Step Guide: Restoring Accidentally Erased Indian Documents</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-3-soluzioni-efficace-contro-gli-errori-di-archiviazione-insuficiente-vss/"><u>TOP 3 Soluzioni Efficace Contro Gli Errori Di Archiviazione Insuficiente - VSS</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/transferring-your-entire-windows-ebootableimage-from-one-machine-to-another/"><u>Transferring Your Entire Windows Ebootable_image From One Machine to Another</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/windows-pc-recovery-guide-how-to-restore-system-files-and-save-backups/"><u>Windows PC Recovery Guide - How to Restore System Files and Save Backups</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1728482078508-windows-107/"><u>ドライブ間の同期: Windows 10/7で実践的なガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX Version 3.4 Release Candidate Available for Immediate Download
-date: 2024-12-23T17:22:01.612Z
-updated: 2024-12-29T19:51:10.142Z
+date: 2025-01-03T19:49:28.216Z
+updated: 2025-01-08T22:03:18.806Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ DEX 3 continues to innovate and improve with every free update launched, proving
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT’S NEW, CHANGED OR FIXED IN DEX 3.4 RC
@@ -73,7 +73,7 @@ _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your E
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -95,22 +95,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34rc-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/aster-your-youtube-content-with-superior-webm-converters/"><u>[New] Master Your YouTube Content with Superior WebM Converters</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-inspiring-14-animated-text-concepts/"><u>[Updated] 2024 Approved Inspiring 14 Animated Text Concepts</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-avoiding-the-blank-thumbnail-scenario-in-shorts-for-2024/"><u>[Updated] Avoiding the Blank Thumbnail Scenario in Shorts for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-11-insider-tips-for-outstanding-hue-alignment/"><u>[Updated] In 2024, 11 Insider Tips for Outstanding Hue Alignment</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1-setting-up-new-hardware-installation-and-removal-guide-by-yl-software/"><u>1. Setting Up New Hardware: Installation & Removal Guide by YL Software</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/clearing-paper-jams-easily-expert-tips-from-yl-computers-comprehensive-guide/"><u>Clearing Paper Jams Easily: Expert Tips From YL Computers' Comprehensive Guide</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/effective-strategies-to-avoid-computer-overheating-expert-tips-from-yl-computing/"><u>Effective Strategies to Avoid Computer Overheating: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/effortless-srt-to-txt-change-up-made-simple-and-swift/"><u>Effortless SRT to TXT Change-Up Made Simple and Swift</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/enhancing-computer-performance-by-efficiently-managing-system-resources-insights-from-yl-computing/"><u>Enhancing Computer Performance by Efficiently Managing System Resources - Insights From YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/finding-a-specific-file-extension-in-windows-a-guide-by-yl-software/"><u>Finding a Specific File Extension in Windows: A Guide by YL Software</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-tecno-pova-5-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Tecno Pova 5 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-download-process-and-save-youtube-hosted-tweet-videos-as-mp3s/"><u>In 2024, How to Download, Process, and Save YouTube-Hosted Tweet Videos as MP3s</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-mastering-elegant-mosaic-imagery-fusions/"><u>In 2024, Mastering Elegant Mosaic Imagery Fusions</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-art-of-visual-storytelling-top-10-ideas-for-instagram-ad-success/"><u>In 2024, The Art of Visual Storytelling Top 10 Ideas for Instagram Ad Success</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/professional-hd-1080p-image-collection-for-your-screen-ultra-clear-graphics-yl-computing-solutions/"><u>Professional HD 1080P Image Collection for Your Screen | Ultra-Clear Graphics – YL Computing Solutions</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/ram-diagnostic-steps-identifying-and-fixing-memory-mistakes-a-guide-by-yl-computing/"><u>RAM Diagnostic Steps: Identifying and Fixing Memory Mistakes - A Guide by YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/steps-to-addremove-printers-via-windows-control-panel-tips-from-yl-computing/"><u>Steps to Add/Remove Printers via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-pro-tips-top-11-inexpensive-youtube-naming-tools/"><u>[New] In 2024, Pro Tips Top 11 Inexpensive YouTube Naming Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-saturation-perfection-tool/"><u>[New] Saturation Perfection Tool</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-discovering-top-5-fluids-in-virtual-playgrounds/"><u>[Updated] 2024 Approved Discovering Top 5 Fluids in Virtual Playgrounds</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1-expand-your-singing-repertoire-with-party-tyme-karaoke-over-7000-fresh-tracks-now-available-for-premium-members/"><u>1. Expand Your Singing Repertoire with Party Tyme Karaoke: Over 7,000 Fresh Tracks Now Available for Premium Members!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/adjusting-your-privacy-controls-a-step-by-step-guide-with-yl-computing-solutions/"><u>Adjusting Your Privacy Controls: A Step-by-Step Guide with YL Computing Solutions</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/boost-your-pcs-speed-effective-ways-to-clear-up-storage-and-enhance-system-efficiency-tips-from-yl-computing/"><u>Boost Your PC's Speed: Effective Ways to Clear Up Storage and Enhance System Efficiency - Tips From YL Computing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/game-capture-made-simple-top-free-tools-listing-for-2024/"><u>Game Capture Made Simple Top Free Tools Listing for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/modify-your-pcs-mouse-configuration-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Modify Your PC's Mouse Configuration on Windows: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-remove-tiktok-watermarks-in-seconds-best-online-methods-for-2024/"><u>New Remove TikTok Watermarks in Seconds Best Online Methods for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/optimal-updates-frequency-when-to-refresh-your-pcs-software-expert-advice-from-yl-computing/"><u>Optimal Updates Frequency: When to Refresh Your PC's Software - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-mlb-the-show-21-server-errors-with-these-expert-tips-and-solutions/"><u>Overcome MLB The Show 21 Server Errors with These Expert Tips and Solutions</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/prioritizing-safety-in-it-key-security-advice-for-modern-computers-by-yl-software-team/"><u>Prioritizing Safety in IT: Key Security Advice for Modern Computers by YL Software Team</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-your-inbox-an-experts-guide-to-adding-domains-to-the-macos-mail-safe-list/"><u>Secure Your Inbox: An Expert's Guide to Adding Domains to the MacOS Mail Safe List</u></a></li>
+<li><a href="https://win-webster.techidaily.com/top-rated-ios-data-restoration-programs-compatible-with-windows-11-a-comprehensive-guide/"><u>Top-Rated iOS Data Restoration Programs Compatible with Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-behind-the-silence-identifying-why-car-speakers-arent-working/"><u>What's Behind the Silence? Identifying Why Car Speakers Aren't Working</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/yl-graphics-studio-premium-4k-resolution-wallpaper-collections-for-mac-and-pc-users/"><u>YL Graphics Studio: Premium 4K Resolution Wallpaper Collections for Mac & PC Users</u></a></li>
 </ul></div>
 

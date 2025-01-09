@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Update 3.6.1.1: Free DJ Software for Dexon 3/Dexon 3R/Dexon"
-date: 2024-12-26T20:32:16.403Z
-updated: 2024-12-30T02:12:43.754Z
+date: 2025-01-01T18:15:27.202Z
+updated: 2025-01-08T20:16:42.451Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed And Fixed In 3.6.1.1
@@ -59,7 +59,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 [Get DEX 3.6.1.1 LE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,16 +81,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/07/downloaddex3611-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-demystifying-the-math-of-youtube-ratio-perfection/"><u>[New] 2024 Approved Demystifying the Math of YouTube Ratio Perfection</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/altering-system-languages-in-windows-a-comprehensive-tutorial-from-yl-software-experts/"><u>Altering System Languages in Windows: A Comprehensive Tutorial From YL Software Experts</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/deadly-graphic-artwork-collection-premium-backdrop-pics-and-digital-canvases-by-yl-computing/"><u>Deadly Graphic Artwork Collection: Premium Backdrop Pics & Digital Canvases by YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/dodge-challenger-hd-wallpaper-pack-stunning-car-backgrounds-and-auto-themes-high-res-imagery-by-yl-computing/"><u>Dodge Challenger HD Wallpaper Pack: Stunning Car Backgrounds & Auto Themes - High-Res Imagery by YL Computing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/easy-to-use-free-instagram-to-mp4-converters-for-all-oss-for-2024/"><u>Easy-to-Use Free Instagram to MP4 Converters for All OSs for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-14-pro-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 14 Pro Properly</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-oppo-find-x7-ultra-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Oppo Find X7 Ultra.</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/resolving-blurry-image-problems-a-step-by-step-guide-to-fix-scanner-clarity-tips-from-yl-computing/"><u>Resolving Blurry Image Problems: A Step-by-Step Guide to Fix Scanner Clarity - Tips From YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/the-ultimate-guide-using-yls-crypto-address-balance-checker-before-sending-coins-tips-by-yl-software/"><u>The Ultimate Guide: Using YL's Crypto Address Balance Checker Before Sending Coins - Tips by YL Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/transforming-a-simple-story-into-an-epic-visual-narrative/"><u>Transforming a Simple Story Into an Epic Visual Narrative</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-15-must-watch-anime-web-channels-for-uplifting-days/"><u>[New] 2024 Approved 15 Must-Watch Anime Web Channels for Uplifting Days</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-capture-the-world-with-these-leading-4k-cams/"><u>[New] 2024 Approved Capture the World with These Leading 4K Cams</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-guide-to-profit-sharing-for-creators-of-video-clips/"><u>[New] In 2024, A Guide to Profit Sharing for Creators of Video Clips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-streamlined-techniques-to-record-screen-dialogue-for-2024/"><u>[New] Streamlined Techniques to Record Screen Dialogue for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-hunt-for-heated-online-hearings/"><u>[Updated] In 2024, Hunt for Heated Online Hearings</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unlock-10-passport-images-at-no-cost-desktopweb/"><u>[Updated] Unlock 10 Passport Images at No Cost – Desktop/Web</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-explained-a-streaming-media-service-for-2024/"><u>[Updated] Vimeo Explained A Streaming Media Service for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/404-page-not-found-how-to-quickly-resolve-errors-on-your-website/"><u>404 Page Not Found: How to Quickly Resolve Errors on Your Website</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/avoid-repetition-controlling-duplicates-for-text-editing-in-emeditor/"><u>Avoid Repetition: Controlling Duplicates for Text Editing in EmEditor</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/come-eseguire-con-successo-la-copia-di-backup-dal-tuo-pc-windows-11-a-una-qnap-nas-istruzioni-dettagliate-passo-passo/"><u>Come Eseguire Con Successo La Copia Di Backup Dal Tuo PC Windows 11 a Una QNAP NAS: Istruzioni Dettagliate Passo-Passo</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/datenwiederherstellung-von-rohfestplatten-schritt-fur-schritt-anleitung/"><u>Datenwiederherstellung Von Rohfestplatten: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-in-high-stakes-action-browsings-top-10-fps-games/"><u>Engage in High-Stakes Action: Browsing's Top 10 FPS Games</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/gunstigere-moglichkeiten-eine-festplatte-unter-windows-1011-ohne-kosten-zu-loschen/"><u>Günstigere Möglichkeiten, Eine Festplatte Unter Windows 10/11 Ohne Kosten Zu Löschen</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-to-undo-drive-formatting-on-your-hard-disk-in-windows-windows-11-10-8-or-recover-data-after-accidental-drive-format-in-windows-operating-systems/"><u>How to Undo Drive Formatting on Your Hard Disk in Windows (Windows 11, 10, 8 or #Recover Data After Accidental Drive Format in Windows Operating Systems</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/innovations-in-android-call-technology-the-best-replacements-for-facetime-outside-of-ios-for-2024/"><u>Innovations in Android Call Technology The Best Replacements for FaceTime Outside of iOS for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-cool-keep-playing-essential-thermal-accessories/"><u>Stay Cool, Keep Playing: Essential Thermal Accessories</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/wiederholung-verlorener-informationen-funf-gratis-losungen-zum-abrufen-von-entfernten-dateien-auf-der-festplatte/"><u>Wiederholung Verlorener Informationen: Fünf Gratis Lösungen Zum Abrufen Von Entfernten Dateien Auf Der Festplatte</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/windows-serveraomei-backupper-servercyber-backup/"><u>Windows Server最佳選擇：AOMEI Backupper Server和Cyber Backup的一體化解決方案</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/windows-10windows-817/"><u>シームレスな移行: Windows 10をWindows 8.1/7に効率的にダウングレード</u></a></li>
 </ul></div>
 
