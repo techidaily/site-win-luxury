@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX Version 3.4 Release Candidate Available for Immediate Download
-date: 2025-01-03T19:49:28.216Z
-updated: 2025-01-08T22:03:18.806Z
+date: 2025-01-12T20:20:00.221Z
+updated: 2025-01-15T04:12:59.378Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ DEX 3 continues to innovate and improve with every free update launched, proving
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT’S NEW, CHANGED OR FIXED IN DEX 3.4 RC
@@ -73,7 +73,7 @@ _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your E
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -95,21 +95,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34rc-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-pro-tips-top-11-inexpensive-youtube-naming-tools/"><u>[New] In 2024, Pro Tips Top 11 Inexpensive YouTube Naming Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-saturation-perfection-tool/"><u>[New] Saturation Perfection Tool</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-discovering-top-5-fluids-in-virtual-playgrounds/"><u>[Updated] 2024 Approved Discovering Top 5 Fluids in Virtual Playgrounds</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1-expand-your-singing-repertoire-with-party-tyme-karaoke-over-7000-fresh-tracks-now-available-for-premium-members/"><u>1. Expand Your Singing Repertoire with Party Tyme Karaoke: Over 7,000 Fresh Tracks Now Available for Premium Members!</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/adjusting-your-privacy-controls-a-step-by-step-guide-with-yl-computing-solutions/"><u>Adjusting Your Privacy Controls: A Step-by-Step Guide with YL Computing Solutions</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/boost-your-pcs-speed-effective-ways-to-clear-up-storage-and-enhance-system-efficiency-tips-from-yl-computing/"><u>Boost Your PC's Speed: Effective Ways to Clear Up Storage and Enhance System Efficiency - Tips From YL Computing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/game-capture-made-simple-top-free-tools-listing-for-2024/"><u>Game Capture Made Simple Top Free Tools Listing for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/modify-your-pcs-mouse-configuration-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Modify Your PC's Mouse Configuration on Windows: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-remove-tiktok-watermarks-in-seconds-best-online-methods-for-2024/"><u>New Remove TikTok Watermarks in Seconds Best Online Methods for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/optimal-updates-frequency-when-to-refresh-your-pcs-software-expert-advice-from-yl-computing/"><u>Optimal Updates Frequency: When to Refresh Your PC's Software - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-mlb-the-show-21-server-errors-with-these-expert-tips-and-solutions/"><u>Overcome MLB The Show 21 Server Errors with These Expert Tips and Solutions</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/prioritizing-safety-in-it-key-security-advice-for-modern-computers-by-yl-software-team/"><u>Prioritizing Safety in IT: Key Security Advice for Modern Computers by YL Software Team</u></a></li>
-<li><a href="https://techtrends.techidaily.com/secure-your-inbox-an-experts-guide-to-adding-domains-to-the-macos-mail-safe-list/"><u>Secure Your Inbox: An Expert's Guide to Adding Domains to the MacOS Mail Safe List</u></a></li>
-<li><a href="https://win-webster.techidaily.com/top-rated-ios-data-restoration-programs-compatible-with-windows-11-a-comprehensive-guide/"><u>Top-Rated iOS Data Restoration Programs Compatible with Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-behind-the-silence-identifying-why-car-speakers-arent-working/"><u>What's Behind the Silence? Identifying Why Car Speakers Aren't Working</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/yl-graphics-studio-premium-4k-resolution-wallpaper-collections-for-mac-and-pc-users/"><u>YL Graphics Studio: Premium 4K Resolution Wallpaper Collections for Mac & PC Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-leading-heavy-duty-uavs-for-maximum-carry-capacity/"><u>[Updated] Leading Heavy-Duty UAVs for Maximum Carry Capacity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-pinpointing-perfect-pexels-photographs/"><u>[Updated] The Art of Pinpointing Perfect Pexels Photographs</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/comment-proteger-votre-disque-ecrit-par-windows-11-beneficiez-de-ces-6-methodes-simples-pour-une-securite-accrue/"><u>Comment Protéger Votre Disque Écrit Par Windows 11 ? Bénéficiez De Ces 6 Méthodes Simples Pour Une Sécurité Accrue</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/create-mp4-video-from-gif-without-cost-with-movavis-easy-web-tool/"><u>Create MP4 Video From GIF Without Cost With Movavi's Easy Web Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-error-3-nvidia-opengl-on-windows-oses/"><u>Fixing Error 3: NVIDIA OpenGL on Windows OSes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-your-intel-optane-driver-up-to-date-made-simple-a-how-to-guide-for-windows-users/"><u>Getting Your Intel Optane Driver Up-to-Date Made Simple - A How-To Guide for Windows Users</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/guia-paso-a-paso-para-recuperar-datos-de-un-iphone-sin-respaldo/"><u>Guía Paso a Paso Para Recuperar Datos De Un iPhone Sin Respaldo</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-to-restore-missing-and-erased-mapping-files-in-windows-11/"><u>How to Restore Missing and Erased Mapping Files in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-shooting-canons-time-lapse-techniques/"><u>In 2024, Streamline Your Shooting Canon's Time-Lapse Techniques</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/reversing-mistakes-a-comprehensive-tutorial-to-recover-lost-data-from-win-server-2012-r2/"><u>Reversing Mistakes: A Comprehensive Tutorial to Recover Lost Data From Win Server 2012 (R2)</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/solution-troubleshooting-missing-windows-1011-recovery-environment-detection-issues/"><u>Solution: Troubleshooting Missing Windows 10/11 Recovery Environment Detection Issues</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/solving-the-issue-of-auto-deletion-of-downloaded-files-in-windows-11-top-4-methods/"><u>Solving the Issue of Auto-Deletion of Downloaded Files in Windows 11 - Top 4 Methods</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-compilation-of-15-most-engaging-youtube-themes/"><u>The Ultimate Compilation of 15 Most Engaging YouTube Themes</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/troubleshoot-no-text-alerts-on-your-iphone-comprehensive-instructions/"><u>Troubleshoot No Text Alerts on Your iPhone - Comprehensive Instructions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-netsvcs-understanding-svchostexe-and-solving-its-excessive-network-consumption/"><u>Troubleshooting NETSVCS: Understanding svchost.exe & Solving Its Excessive Network Consumption</u></a></li>
 </ul></div>
 
