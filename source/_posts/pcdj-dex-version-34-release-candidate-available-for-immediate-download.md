@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX Version 3.4 Release Candidate Available for Immediate Download
-date: 2025-01-12T20:20:00.221Z
-updated: 2025-01-15T04:12:59.378Z
+date: 2025-01-15T06:24:25.635Z
+updated: 2025-01-21T05:49:27.753Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ DEX 3 continues to innovate and improve with every free update launched, proving
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT’S NEW, CHANGED OR FIXED IN DEX 3.4 RC
@@ -73,7 +73,7 @@ _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your E
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -95,20 +95,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34rc-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-leading-heavy-duty-uavs-for-maximum-carry-capacity/"><u>[Updated] Leading Heavy-Duty UAVs for Maximum Carry Capacity</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-pinpointing-perfect-pexels-photographs/"><u>[Updated] The Art of Pinpointing Perfect Pexels Photographs</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/comment-proteger-votre-disque-ecrit-par-windows-11-beneficiez-de-ces-6-methodes-simples-pour-une-securite-accrue/"><u>Comment Protéger Votre Disque Écrit Par Windows 11 ? Bénéficiez De Ces 6 Méthodes Simples Pour Une Sécurité Accrue</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/create-mp4-video-from-gif-without-cost-with-movavis-easy-web-tool/"><u>Create MP4 Video From GIF Without Cost With Movavi's Easy Web Tool</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-error-3-nvidia-opengl-on-windows-oses/"><u>Fixing Error 3: NVIDIA OpenGL on Windows OSes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/getting-your-intel-optane-driver-up-to-date-made-simple-a-how-to-guide-for-windows-users/"><u>Getting Your Intel Optane Driver Up-to-Date Made Simple - A How-To Guide for Windows Users</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/guia-paso-a-paso-para-recuperar-datos-de-un-iphone-sin-respaldo/"><u>Guía Paso a Paso Para Recuperar Datos De Un iPhone Sin Respaldo</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-to-restore-missing-and-erased-mapping-files-in-windows-11/"><u>How to Restore Missing and Erased Mapping Files in Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-shooting-canons-time-lapse-techniques/"><u>In 2024, Streamline Your Shooting Canon's Time-Lapse Techniques</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/reversing-mistakes-a-comprehensive-tutorial-to-recover-lost-data-from-win-server-2012-r2/"><u>Reversing Mistakes: A Comprehensive Tutorial to Recover Lost Data From Win Server 2012 (R2)</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/solution-troubleshooting-missing-windows-1011-recovery-environment-detection-issues/"><u>Solution: Troubleshooting Missing Windows 10/11 Recovery Environment Detection Issues</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/solving-the-issue-of-auto-deletion-of-downloaded-files-in-windows-11-top-4-methods/"><u>Solving the Issue of Auto-Deletion of Downloaded Files in Windows 11 - Top 4 Methods</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ltimate-compilation-of-15-most-engaging-youtube-themes/"><u>The Ultimate Compilation of 15 Most Engaging YouTube Themes</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/troubleshoot-no-text-alerts-on-your-iphone-comprehensive-instructions/"><u>Troubleshoot No Text Alerts on Your iPhone - Comprehensive Instructions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-netsvcs-understanding-svchostexe-and-solving-its-excessive-network-consumption/"><u>Troubleshooting NETSVCS: Understanding svchost.exe & Solving Its Excessive Network Consumption</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-select-alternative-save-area-for-mac-pics/"><u>[Updated] In 2024, Select Alternative Save Area for Mac Pics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strategies-for-standing-out-with-the-perfect-yt-brand-dimensions/"><u>[Updated] Strategies for Standing Out with the Perfect YT Brand Dimensions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-route-to-richer-tiktok-bios-a-guide-to-linktree-integration/"><u>2024 Approved The Route to Richer TikTok Bios A Guide to Linktree Integration</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1728469940625-aomei-backupper/"><u>成功複製文件：如何有效使用 AOMEI Backupper系統</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/windows-11-mbr/"><u>迅速導入 Windows 11: MBR區塊上的設定方法</u></a></li>
+<li><a href="https://facebook.techidaily.com/building-effective-social-network-groups-through-policies/"><u>Building Effective Social Network Groups Through Policies</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/complete-guide-restoring-accidentally-erased-files-on-windows-111087/"><u>Complete Guide: Restoring Accidentally Erased Files on Windows 11/10/8/7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-new-hp-officejet-pro-e8610-printer-drivers-installed-on-your-pc-running-windows-1087xp-or-vista-today/"><u>Get the New HP OfficeJet Pro E8610 Printer Drivers Installed on Your PC Running Windows 10/8/7/XP or Vista Today!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-to-fix-the-issue-of-not-being-able-to-access-iphone-pictures-on-windows-11-10-or-older-versions/"><u>How to Fix the Issue of Not Being Able to Access iPhone Pictures on Windows 11, 10 or Older Versions</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-tecno-spark-20-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Spark 20 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/ideal-tools-for-secure-vimeo-downloads/"><u>Ideal Tools for Secure Vimeo Downloads</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/reviving-windows-1011-desktop-icons-a-step-by-step-guide/"><u>Reviving Windows 10/11 Desktop Icons: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-restoring-lost-volumes-on-your-pc-using-windows-10-features/"><u>Step-by-Step Guide: Restoring Lost Volumes on Your PC Using Windows 10 Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-prime-day-video-game-discounts-what-to-buy-before-october-2024-insights/"><u>Top Prime Day Video Game Discounts: What to Buy Before October 2024 - Insights</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1728493604347-windows-117/"><u>Windows 11の初期化失敗に対する解決策7つ</u></a></li>
 </ul></div>
 

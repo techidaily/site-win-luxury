@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Update 3.6.1.1: Free DJ Software for Dexon 3/Dexon 3R/Dexon"
-date: 2025-01-08T21:26:34.219Z
-updated: 2025-01-15T00:23:28.732Z
+date: 2025-01-15T04:45:39.500Z
+updated: 2025-01-21T00:40:00.817Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed And Fixed In 3.6.1.1
@@ -59,7 +59,7 @@ We highly suggest existing users **update their existing DEX 3 version to 3.6.1.
 [Get DEX 3.6.1.1 LE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,22 +81,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/07/downloaddex3611-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-comprehensive-review-of-facetunes-latest-updates-for-2024/"><u>[Updated] Comprehensive Review of Facetune's Latest Updates for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creative-command-center-studio-for-youtubers/"><u>[Updated] In 2024, Creative Command Center Studio for YouTubers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-secrets-to-crafting-enthralling-edu-videos-for-the-digital-age/"><u>2024 Approved Secrets to Crafting Enthralling Edu-Videos for the Digital Age</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-the-ultimate-guide-to-intovas-action-realm/"><u>2024 Approved The Ultimate Guide to Intova's Action Realm</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/server-2016-ssd-hdd/"><u>将 Server 2016 硬碟数据转换并压缩存储在 SSD 或更大容量 HDD上的方法</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/clone-ssd-para-hd-no-windows-11-com-secure-boot-explicado/"><u>Clone SSD Para HD No Windows 11 Com Secure Boot Explicado</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/efficient-emailing-made-easy-free-tools-for-creating-elaborate-letters-and-summarizing-your-digital-communications-using-chatgpt/"><u>Efficient Emailing Made Easy: Free Tools for Creating Elaborate Letters and Summarizing Your Digital Communications Using ChatGPT</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/grosster-fehler-bei-der-richtplandatenbankerstellung-schwierigkeiten-aufkommen-beim-aufbau-eines-windows-verzeichnisses/"><u>Größter Fehler Bei Der Richtplandatenbankerstellung – Schwierigkeiten Aufkommen Beim Aufbau Eines Windows-Verzeichnisses</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-honor-90-gt-phone-by-drfone-android/"><u>How to Reset a Locked Honor 90 GT Phone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/mastering-windows-server-protection-creating-and-managing-diverse-backup-schedules/"><u>Mastering Windows Server Protection: Creating and Managing Diverse Backup Schedules</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/methoden-zum-abrufen-von-daten-aus-externen-laufwerken-eine-umfassende-anleitung/"><u>Methoden Zum Abrufen Von Daten Aus Externen Laufwerken: Eine Umfassende Anleitung</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/pixel/"><u>Pixel</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1728469516585-ssdwindows-10/"><u>SSDを効率よくWindows 10システムで起動するためのヒントとコツ</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ltimate-guide-to-youtube-keywords-for-peak-performance/"><u>The Ultimate Guide to YouTube Keywords for Peak Performance</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/top-strategies-to-fix-active-partition-missing-error-on-windows-11/"><u>Top Strategies to Fix 'Active Partition Missing' Error on Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-t2-pro-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo T2 Pro 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/evolutionize-your-online-video-content-expert-tips-on-youtube-live-with-wirecast-for-2024/"><u>[New] Revolutionize Your Online Video Content Expert Tips on Youtube Live with WireCast for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/5-key-strategies-for-aspiring-dev-talent-attraction-insights-from-zdnet/"><u>5 Key Strategies for Aspiring Dev Talent Attraction - Insights From ZDNet</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/download-the-latest-pcdj-dex3-v310n-update-upgrade-to-pro-or-re-get-your-new-release-today/"><u>Download the Latest PCDJ DEX3 v3.10.n Update - Upgrade to PRO or RE! Get Your New Release Today!</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/fixing-disk-boot-errors-a-step-by-step-guide-techsolutions/"><u>Fixing Disk Boot Errors: A Step-by-Step Guide - TechSolutions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/integrated-triumph-of-nvidia-and-windows-os/"><u>Integrated Triumph of Nvidia & Windows OS</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/mastering-user-experience-adjusting-display-and-personalization-features-via-yl-computings-control-panel-settings/"><u>Mastering User Experience: Adjusting Display & Personalization Features via YL Computing's Control Panel Settings</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/izing-earnings-in-beauty-vlogs-for-2024/"><u>Maximizing Earnings in Beauty Vlogs for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/metaverse-vs-multiverse-whats-the-difference-for-2024/"><u>Metaverse vs Multiverse What's the Difference for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/professional-mac-hd-video-converter-seamlessly-switch-audio-and-video-to-any-format-including-avchd-m2ts-mkv-flv/"><u>Professional Mac HD Video Converter - Seamlessly Switch Audio and Video to Any Format Including AVCHD, M2TS, MKV, FLV</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-oppo-reno-11-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Oppo Reno 11 5G</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/resolving-windows-registry-problems-a-comprehensive-tutorial-from-yl-software-experts/"><u>Resolving Windows Registry Problems: A Comprehensive Tutorial From YL Software Experts</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/selecting-the-ideal-cryptocurrency-a-comprehensive-guide-by-yl-computing/"><u>Selecting the Ideal Cryptocurrency: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/step-by-step-tutorial-on-accessing-windows-firewall-settings-through-the-control-panel-expertise-from-yl-software-solutions/"><u>Step-by-Step Tutorial on Accessing Windows Firewall Settings Through the Control Panel – Expertise From YL Software Solutions</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/stunning-football-chicagoland-bears-graphics-and-digital-prints-yl-computing-your-trusted-source-in-image-solutions/"><u>Stunning Football Chicagoland Bears Graphics & Digital Prints - YL Computing: Your Trusted Source in Image Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-artisans-guide-to-aesthetic-photographic-adjustments-for-2024/"><u>The Artisan's Guide to Aesthetic Photographic Adjustments for 2024</u></a></li>
 </ul></div>
 
