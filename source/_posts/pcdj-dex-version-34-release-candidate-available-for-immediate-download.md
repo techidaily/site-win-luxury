@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX Version 3.4 Release Candidate Available for Immediate Download
-date: 2025-01-19T17:05:06.919Z
-updated: 2025-01-26T18:43:10.678Z
+date: 2025-02-06T20:38:08.594Z
+updated: 2025-02-08T19:39:46.059Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ DEX 3 continues to innovate and improve with every free update launched, proving
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT’S NEW, CHANGED OR FIXED IN DEX 3.4 RC
@@ -73,7 +73,7 @@ _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your E
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -95,21 +95,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34rc-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-capture-and-share-immedienas-unprecedented-journey-with-dslr-and-facebook-live/"><u>[New] 2024 Approved Capture and Share Immedienas Unprecedented Journey with DSLR & Facebook LIVE</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-swiftly-flip-your-iphone-video-clips/"><u>[Updated] In 2024, Swiftly Flip Your iPhone Video Clips</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-resurrecting-lost-confidential-snapshots-for-2024/"><u>[Updated] Resurrecting Lost, Confidential Snapshots for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1-ultimate-guide-efficient-file-deletion-techniques-on-windows-insights-from-yl-computing/"><u>1. Ultimate Guide: Efficient File Deletion Techniques on Windows - Insights From YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-note-30-vip-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix Note 30 VIP</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/eliminating-persistent-graphics-card-driver-issues-with-expert-advice-from-yl-software/"><u>Eliminating Persistent Graphics Card Driver Issues with Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/high-definition-post-apocalyptic-desktops-and-walls-inspirational-imagery-by-yl-computing/"><u>High-Definition Post-Apocalyptic Desktops & Walls - Inspirational Imagery by YL Computing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-innovative-ways-to-document-your-digital-collaboration-sessions/"><u>In 2024, Innovative Ways to Document Your Digital Collaboration Sessions</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/integrating-windows-defender-with-external-av-solutions-for-optimal-security/"><u>Integrating Windows Defender with External AV Solutions for Optimal Security</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/mastering-the-pcdj-deckee-3-a-comprehensive-guide-to-using-its-unique-loops-and-effects-grid/"><u>Mastering the PCDJ Deckee 3: A Comprehensive Guide to Using Its Unique Loops & Effects Grid</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/maximizing-disk-space-efficiency-with-expert-tips-from-yl-software-solutions/"><u>Maximizing Disk Space Efficiency with Expert Tips From YL Software Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/picscanners-face-blurring-made-easy-for-everyone/"><u>PicScanner's Face-Blurring Made Easy for Everyone</u></a></li>
-<li><a href="https://win-online.techidaily.com/resmi-terpaduh-rincian-detail-nya-prosedur-mendingin-sd-sandisk-sd-card/"><u>Resmi Terpaduh: Rincian Detail-Nya Prosedur Mendingin SD SanDisk (SD Card)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1956479-9780812998399-the-light-between-us/"><u>The Light Between Us | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-choosing-the-fastest-ssds-in-202eight-insights-from-pcmag/"><u>Ultimate Guide: Choosing the Fastest SSDs in 202Eight - Insights From PCMag</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/yl-software-expertise-how-to-easily-refresh-your-computers-drivers-using-the-windows-control-panel/"><u>YL Software Expertise: How to Easily Refresh Your Computer's Drivers Using the Windows Control Panel</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gamers-top-picks-1-ranked-4k-laptops/"><u>[Updated] Gamers' Top Picks #1 Ranked 4K Laptops</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-proven-techniques-for-obs-broadcasting-on-fb-for-2024/"><u>[Updated] Proven Techniques for OBS Broadcasting on FB for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/experts-pick-for-premier-noise-reduction-window-treatments-of-2024-exclusive-guide-by-zdnet/"><u>Experts' Pick for Premier Noise Reduction Window Treatments of 2024 | Exclusive Guide by ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-v29-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo V29 Prowith/without a PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-effortlessly-upload-mp3-tracks-onto-youtube-without-spending-a-penny/"><u>How to Effortlessly Upload MP3 Tracks Onto YouTube Without Spending a Penny</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/photozen-framing-xd-picture-perfect-at-a-premium/"><u>PhotoZen Framing XD: Picture-Perfect at a Premium</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/revive-your-old-pc-with-these-5-cost-free-tips-before-upgrading-to-windows-11-tech-insights/"><u>Revive Your Old PC with These 5 Cost-Free Tips Before Upgrading to Windows 11 | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-gaming-the-impact-of-switching-to-a-curved-ultrawide-display/"><u>Revolutionizing Gaming: The Impact of Switching to a Curved Ultrawide Display</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/secure-your-microsoft-office-2019-quality-tools-for-windows-and-mac-exclusive-deal-under-26-at-zdnet/"><u>Secure Your Microsoft Office 2019: Quality Tools for Windows & Mac - Exclusive Deal Under $26 at ZDNET</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/snowdrift-scribes-celebrating-beijings-olympic-spotlight/"><u>Snowdrift Scribes Celebrating Beijing's Olympic Spotlight</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/the-end-of-the-line-for-windows-control-panel-insights-from-microsoft-and-reactions-on-zdnet/"><u>The End of the Line for Windows Control Panel? Insights From Microsoft and Reactions on ZDnet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-narzo-60-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme Narzo 60 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/upcoming-payment-plans-for-microsoft-windows-10-updates-what-users-should-expect/"><u>Upcoming Payment Plans for Microsoft Windows 10 Updates - What Users Should Expect</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/urgent-issue-looms-for-microsofts-windows-11-launch-only-a-year-remains-to-resolve-problems-insights-from-zdnet/"><u>Urgent Issue Looms for Microsoft's Windows 11 Launch; Only a Year Remains to Resolve Problems – Insights From ZDNet</u></a></li>
 </ul></div>
 

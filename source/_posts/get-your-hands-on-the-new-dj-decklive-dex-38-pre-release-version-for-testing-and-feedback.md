@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the New DJ DeckLive DEX 3.8 - Pre-Release Version for Testing and Feedback!
-date: 2025-01-15T21:59:39.944Z
-updated: 2025-01-20T22:06:23.102Z
+date: 2025-02-06T17:51:59.000Z
+updated: 2025-02-08T18:28:13.250Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NEW, CHANGED OR FIXED IN DEX 3.8 (RELEASE CANDIDATE)
@@ -72,7 +72,7 @@ For controller scripts (mappings) we have added the following:
 _Have questions about our **top DJ mixing software** and any of the new features including with version 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,15 +94,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-coverimage.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-smart-techniques-for-large-video-movement-between-iphones-and-macs/"><u>[Updated] In 2024, Smart Techniques for Large Video Movement Between iPhones & Macs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-speech-recording-top-apps-for-your-ipad-for-2024/"><u>[Updated] Mastering Speech Recording Top Apps for Your iPad for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/can-your-gpu-meet-the-demands-of-desired-apps-expert-insights-from-yl-computing/"><u>Can Your GPU Meet the Demands of Desired Apps? Expert Insights From YL Computing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/lenovo-legion-slim-5-amd-edition-comprehensive-review-of-the-ultimate-mid-range-gamers-laptop/"><u>Lenovo Legion Slim 5 : AMD Edition - Comprehensive Review of the Ultimate Mid-Range Gamer's Laptop</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/maximizing-effectiveness-essential-setup-tweaks-in-yl-software-for-superior-functionality/"><u>Maximizing Effectiveness: Essential Setup Tweaks in YL Software for Superior Functionality</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/recognizing-early-warning-indicators-of-cpu-malfunction-insights-from-yl-computing/"><u>Recognizing Early Warning Indicators of CPU Malfunction - Insights From YL Computing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/step-by-step-guide-saving-images-from-your-microsoft-word-presentations/"><u>Step-by-Step Guide: Saving Images From Your Microsoft Word Presentations</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-returning-windows-11-to-original-search-layout/"><u>Step-by-Step: Returning Windows 11 to Original Search Layout</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-list-best-video-editing-apps-for-vloggers-ios-and-android/"><u>The Ultimate List Best Video Editing Apps for Vloggers (iOS & Android)</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/troubleshooting-a-non-functional-scanner-expert-tips-and-solutions-yl-computing/"><u>Troubleshooting a Non-Functional Scanner: Expert Tips & Solutions - YL Computing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-x-recorder-your-companion-for-high-quality-pc-recording/"><u>[New] 2024 Approved X-Recorder Your Companion for High-Quality PC Recording</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-androids-ultimate-questland-unveiling-the-best-15-simulations/"><u>[New] In 2024, Android's Ultimate Questland Unveiling the Best 15 Simulations</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-pioneering-sustainability-transforming-metropolitan-environments/"><u>[Updated] In 2024, Pioneering Sustainability Transforming Metropolitan Environments</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-unveiling-our-exclusive-package-of-free-youtube-adornments/"><u>2024 Approved Unveiling Our Exclusive Package of Free YouTube Adornments!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/enhance-creativity-on-chrome-os-top-10-digital-pencil-stores/"><u>Enhance Creativity on Chrome OS Top 10 Digital Pencil Stores</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/fehlerbehebung-fur-windows-migrationshilfe-losungsansatze-fur-haufig-auftretende-probleme/"><u>Fehlerbehebung Für Windows-Migrationshilfe: Lösungsansätze Für Häufig Auftretende Probleme</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/klons-de-hardvaste-platte-van-windows-server-2012-r2-2-goede-methoden/"><u>Klons De Hardvaste Platte Van Windows Server 2012 R2 - 2 Goede Methoden</u></a></li>
+<li><a href="https://win-web3.techidaily.com/reviving-the-classic-image-viewer-for-windows-11-users-step-by-step-tutorial/"><u>Reviving the Classic Image Viewer for Windows 11 Users: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/schritt-fur-schritt-leitfaden-zur-einrichtung-und-verwendung-von-hyper-vs-erweiterter-sitzung-in-microsoft-windows/"><u>Schritt-Für-Schritt-Leitfaden Zur Einrichtung Und Verwendung Von Hyper-V's Erweiterter Sitzung in Microsoft Windows</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/wiederherstellung-der-hauptpartition-die-versehentlich-geloscht-wurde-auf-windows-11/"><u>Wiederherstellung Der Hauptpartition, Die Versehentlich Gelöscht Wurde, Auf Windows 11</u></a></li>
 </ul></div>
 
