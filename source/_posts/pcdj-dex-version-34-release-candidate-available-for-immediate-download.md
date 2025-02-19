@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX Version 3.4 Release Candidate Available for Immediate Download
-date: 2025-02-06T20:38:08.594Z
-updated: 2025-02-08T19:39:46.059Z
+date: 2025-02-16T06:43:21.961Z
+updated: 2025-02-18T18:31:33.653Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ DEX 3 continues to innovate and improve with every free update launched, proving
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT’S NEW, CHANGED OR FIXED IN DEX 3.4 RC
@@ -73,7 +73,7 @@ _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your E
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -95,19 +95,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34rc-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-gamers-top-picks-1-ranked-4k-laptops/"><u>[Updated] Gamers' Top Picks #1 Ranked 4K Laptops</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-proven-techniques-for-obs-broadcasting-on-fb-for-2024/"><u>[Updated] Proven Techniques for OBS Broadcasting on FB for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/experts-pick-for-premier-noise-reduction-window-treatments-of-2024-exclusive-guide-by-zdnet/"><u>Experts' Pick for Premier Noise Reduction Window Treatments of 2024 | Exclusive Guide by ZDNet</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-v29-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo V29 Prowith/without a PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-effortlessly-upload-mp3-tracks-onto-youtube-without-spending-a-penny/"><u>How to Effortlessly Upload MP3 Tracks Onto YouTube Without Spending a Penny</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/photozen-framing-xd-picture-perfect-at-a-premium/"><u>PhotoZen Framing XD: Picture-Perfect at a Premium</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/revive-your-old-pc-with-these-5-cost-free-tips-before-upgrading-to-windows-11-tech-insights/"><u>Revive Your Old PC with These 5 Cost-Free Tips Before Upgrading to Windows 11 | Tech Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-gaming-the-impact-of-switching-to-a-curved-ultrawide-display/"><u>Revolutionizing Gaming: The Impact of Switching to a Curved Ultrawide Display</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/secure-your-microsoft-office-2019-quality-tools-for-windows-and-mac-exclusive-deal-under-26-at-zdnet/"><u>Secure Your Microsoft Office 2019: Quality Tools for Windows & Mac - Exclusive Deal Under $26 at ZDNET</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/snowdrift-scribes-celebrating-beijings-olympic-spotlight/"><u>Snowdrift Scribes Celebrating Beijing's Olympic Spotlight</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/the-end-of-the-line-for-windows-control-panel-insights-from-microsoft-and-reactions-on-zdnet/"><u>The End of the Line for Windows Control Panel? Insights From Microsoft and Reactions on ZDnet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-narzo-60-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme Narzo 60 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/upcoming-payment-plans-for-microsoft-windows-10-updates-what-users-should-expect/"><u>Upcoming Payment Plans for Microsoft Windows 10 Updates - What Users Should Expect</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/urgent-issue-looms-for-microsofts-windows-11-launch-only-a-year-remains-to-resolve-problems-insights-from-zdnet/"><u>Urgent Issue Looms for Microsoft's Windows 11 Launch; Only a Year Remains to Resolve Problems – Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-essential-elements-for-implementing-channel-banners-in-games/"><u>[New] 2024 Approved Essential Elements for Implementing Channel Banners in Games</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-premium-audio-alerts-excellent-sites-compilation/"><u>[New] 2024 Approved Premium Audio Alerts Excellent Sites Compilation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-media-sensation-spotlights/"><u>[Updated] 2024 Approved Social Media Sensation Spotlights</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-skyrocketing-to-million-dollar-views-best-hashtags-for-2024/"><u>[Updated] Skyrocketing to Million-Dollar Views Best Hashtags for 2024</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1728483214792-kingston-ssd/"><u>「Kingston SSDデータ復元・復旧手順ガイド」</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-experts-top-picks-for-creating-art-on-windows/"><u>2024 Approved Expert's Top Picks for Creating Art on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-a15-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy A15 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-14-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 14</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fn-key-configuration-for-windows-os/"><u>Mastering the Art of FN Key Configuration for Windows OS</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/professional-looney-tunes-hd-image-collections-for-pc-backgrounds-immersive-cartoon-experience-by-yl-computing/"><u>Professional Looney Tunes HD Image Collections for PC Backgrounds – Immersive Cartoon Experience by YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/the-significant-influence-of-karaoke-events-on-bar-profits-insights-and-strategies/"><u>The Significant Influence of Karaoke Events on Bar Profits – Insights & Strategies</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-strategies-for-resolving-software-compatibility-problems-insights-from-yl-computing/"><u>Top Strategies for Resolving Software Compatibility Problems: Insights From YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/troubleshooting-a-non-functional-scanner-expert-tips-and-solutions-yl-computing/"><u>Troubleshooting a Non-Functional Scanner: Expert Tips & Solutions - YL Computing</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/troubleshooting-sound-glitches-after-your-latest-windows-os-upgrade-with-yl-software-solutions/"><u>Troubleshooting Sound Glitches After Your Latest Windows OS Upgrade with YL Software Solutions</u></a></li>
 </ul></div>
 
