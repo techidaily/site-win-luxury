@@ -1,7 +1,7 @@
 ---
 title: PCDJ DEX Version 3.4 Release Candidate Available for Immediate Download
-date: 2025-02-16T06:43:21.961Z
-updated: 2025-02-18T18:31:33.653Z
+date: 2025-03-02T20:08:25.827Z
+updated: 2025-03-07T17:26:56.186Z
 tags:
   - product
 categories:
@@ -27,10 +27,6 @@ DEX 3 continues to innovate and improve with every free update launched, proving
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### WHAT’S NEW, CHANGED OR FIXED IN DEX 3.4 RC
 
@@ -72,10 +68,6 @@ _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your E
 
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34rc-coverimage.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2015-07-21 09:00:052018-10-03 15:34:40Download The DEX 3.4 Release Candidate Now}
@@ -95,19 +87,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34rc-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-essential-elements-for-implementing-channel-banners-in-games/"><u>[New] 2024 Approved Essential Elements for Implementing Channel Banners in Games</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-premium-audio-alerts-excellent-sites-compilation/"><u>[New] 2024 Approved Premium Audio Alerts Excellent Sites Compilation</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-media-sensation-spotlights/"><u>[Updated] 2024 Approved Social Media Sensation Spotlights</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-skyrocketing-to-million-dollar-views-best-hashtags-for-2024/"><u>[Updated] Skyrocketing to Million-Dollar Views Best Hashtags for 2024</u></a></li>
-<li><a href="https://win-popular.techidaily.com/1728483214792-kingston-ssd/"><u>「Kingston SSDデータ復元・復旧手順ガイド」</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-experts-top-picks-for-creating-art-on-windows/"><u>2024 Approved Expert's Top Picks for Creating Art on Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-a15-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy A15 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-14-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 14</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fn-key-configuration-for-windows-os/"><u>Mastering the Art of FN Key Configuration for Windows OS</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/professional-looney-tunes-hd-image-collections-for-pc-backgrounds-immersive-cartoon-experience-by-yl-computing/"><u>Professional Looney Tunes HD Image Collections for PC Backgrounds – Immersive Cartoon Experience by YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/the-significant-influence-of-karaoke-events-on-bar-profits-insights-and-strategies/"><u>The Significant Influence of Karaoke Events on Bar Profits – Insights & Strategies</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/top-strategies-for-resolving-software-compatibility-problems-insights-from-yl-computing/"><u>Top Strategies for Resolving Software Compatibility Problems: Insights From YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/troubleshooting-a-non-functional-scanner-expert-tips-and-solutions-yl-computing/"><u>Troubleshooting a Non-Functional Scanner: Expert Tips & Solutions - YL Computing</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/troubleshooting-sound-glitches-after-your-latest-windows-os-upgrade-with-yl-software-solutions/"><u>Troubleshooting Sound Glitches After Your Latest Windows OS Upgrade with YL Software Solutions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-pixel-perfection-portfolio-best-animation-transformation-tools/"><u>[New] 2024 Approved Pixel Perfection Portfolio Best Animation Transformation Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ips-for-increasing-visibility-with-accurate-tags-and-titles/"><u>[New] Tips for Increasing Visibility with Accurate Tags & Titles</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-insightful-rank-watchers-optimizing-your-video-performance-for-2024/"><u>[Updated] Insightful Rank Watchers Optimizing Your Video Performance for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-art-of-circle-and-sphere-construction-in-mc/"><u>[Updated] The Art of Circle and Sphere Construction in MC</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1-simple-strategies-for-adding-written-content-to-your-pdf-documents-updated-guide/"><u>1. Simple Strategies for Adding Written Content to Your PDF Documents - Updated Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-future-frameworks-exclusive-list-of-top-cameras/"><u>2024 Approved Future Frameworks Exclusive List of Top Cameras</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-experts-guide-to-growing-valheim-crops-successfully/"><u>2024 Approved The Expert's Guide to Growing Valheim Crops Successfully</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-11-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 11 to Samsung | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2670009-9781515407867-holy-in-christ/"><u>Holy in Christ | Free Book</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oppo-find-x7-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Oppo Find X7 Phones</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-moving-your-itunes-tunes-to-an-android-device/"><u>Step-by-Step Guide: Moving Your iTunes Tunes to an Android Device</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-retrieving-images-from-a-non-responsive-ios-device/"><u>Step-by-Step Guide: Retrieving Images From a Non-Responsive iOS Device</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-5-flexible-video-conversion-tools-compatible-with-windows-11/"><u>Top 5 Flexible Video Conversion Tools Compatible with Windows 11</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-alternatives-to-imovie-on-android-devices-best-app-picks-of-2020/"><u>Top Alternatives to iMovie on Android Devices: Best App Picks of 2020</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-free-tools-seamless-conversion-of-videos-into-multiple-languages/"><u>Top Free Tools: Seamless Conversion of Videos Into Multiple Languages</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/trouble-free-methods-sync-photos-with-your-iphone-apart-from-using-itunes/"><u>Trouble-Free Methods: Sync Photos with Your iPhone Apart From Using iTunes</u></a></li>
 </ul></div>
 

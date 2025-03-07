@@ -1,7 +1,7 @@
 ---
 title: Karaoki v0.9.8 – Exclusive Beta Release for Enthusiasts | Get Your FREE Demo Now!
-date: 2025-02-07T22:22:16.243Z
-updated: 2025-02-08T23:59:49.161Z
+date: 2025-03-02T19:54:41.337Z
+updated: 2025-03-07T16:25:17.453Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ Please download/install Karaoki version 0.9.7558 below with your existing versio
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Changes In Karaoki Beta 0.9.7558
 
 * **Change** – History now saves by Month, “Today” filter added to current months history. The history files are now located in the “Documents>PCDJ Karaoki>History” folder. (this is to help with large history files, which in prior versions could cause resource related problems over time)
@@ -44,10 +40,6 @@ Please download/install Karaoki version 0.9.7558 below with your existing versio
 _**IMPORTANT NOTES:** Install update with your existing version of Karaoki closed. Version 0.9.7558 will automatically overwrite and update your currently installed version and keep all data intact (you will not need to re-activate the software!). If you have any issues or questions please share them on the [PCDJ Facebook User Group](https://www.facebook.com/groups/208451843303338/)._ 
 
 _Have questions about version 0.9.7558 of our **karaoke software** solution? Please feel free to leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -68,18 +60,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/09/large-temp59a5dc4717b76.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-joyjingles-where-to-find-hilarious-ringtone-links/"><u>[New] In 2024, JoyJingles Where to Find Hilarious Ringtone Links</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-mac-audio-sync-for-screen-captures-for-2024/"><u>[New] Mac Audio Sync for Screen Captures for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-understanding-magixs-acid-pro-and-its-market-rivals/"><u>[New] Understanding Magix's ACID Pro and Its Market Rivals</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/panasonic-lumix/"><u>「Panasonic Lumixで失われた写真を取り戻す方法」</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-spotting-the-top-10-covert-instagram-story-spectators/"><u>2024 Approved Spotting the Top 10 Covert Instagram Story Spectators</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/come-trasferire-i-tuoi-file-dal-backup-di-windows-10-a-windows-11-le-3-migliori-opzioni/"><u>Come Trasferire I Tuoi File Dal Backup Di Windows 10 a Windows 11: Le 3 Migliori Opzioni</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/comprehensive-review-of-vive-cosmos-outstanding-vr-experience-despite-strong-rivals/"><u>Comprehensive Review of Vive Cosmos – Outstanding VR Experience Despite Strong Rivals</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/decode-the-issue-troubleshooting-non-detectable-sd-card-readers-in-windows-11/"><u>Decode the Issue: Troubleshooting Non-Detectable SD Card Readers in Windows 11</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/guide-retrieving-and-saving-pictures-on-your-ipad-via-icloud/"><u>Guide: Retrieving and Saving Pictures on Your iPad via iCloud</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-xcover-6-pro-tactical-edition-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy XCover 6 Pro Tactical Edition Phone Now with These Tips</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/resuming-your-operating-life-replicating-windows-1011-os-images-onto-a-fresh-hard-drive-top-2-techniques/"><u>Resuming Your Operating Life: Replicating Windows 10/11 OS Images Onto a Fresh Hard Drive – Top 2 Techniques</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-xcover-7-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy XCover 7 won’t play MKV movies</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/windows-easy-transfer-usmt/"><u>パワフルなデータ移動ツールの頂点決定戦: Windows Easy Transfer 対 USMT</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-capturing-the-web-in-motion-a-compact-list-of-leading-recorders/"><u>[New] In 2024, Capturing the Web in Motion A Compact List of Leading Recorders</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mirthful-mastery-no-monetary-boundaries-for-2024/"><u>[New] Mirthful Mastery, No Monetary Boundaries for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/comment-proteger-votre-disque-ecrit-par-windows-11-beneficiez-de-ces-6-methodes-simples-pour-une-securite-accrue/"><u>Comment Protéger Votre Disque Écrit Par Windows 11 ? Bénéficiez De Ces 6 Méthodes Simples Pour Une Sécurité Accrue</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/guia-paso-a-paso-para-recuperar-datos-de-un-iphone-sin-respaldo/"><u>Guía Paso a Paso Para Recuperar Datos De Un iPhone Sin Respaldo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-counteract-missed-steam-icons/"><u>How to Counteract Missed Steam Icons</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-15-plus-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 15 Plus (4 Methods) | Stellar</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-to-restore-missing-and-erased-mapping-files-in-windows-11/"><u>How to Restore Missing and Erased Mapping Files in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/locate-and-launch-windows-11-access-control-panel/"><u>Locate and Launch Windows 11 Access Control Panel</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-average-incomes-in-the-podcasting-industry-for-2024/"><u>Navigating Average Incomes in the Podcasting Industry for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/reversing-mistakes-a-comprehensive-tutorial-to-recover-lost-data-from-win-server-2012-r2/"><u>Reversing Mistakes: A Comprehensive Tutorial to Recover Lost Data From Win Server 2012 (R2)</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/solution-troubleshooting-missing-windows-1011-recovery-environment-detection-issues/"><u>Solution: Troubleshooting Missing Windows 10/11 Recovery Environment Detection Issues</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/troubleshoot-no-text-alerts-on-your-iphone-comprehensive-instructions/"><u>Troubleshoot No Text Alerts on Your iPhone - Comprehensive Instructions</u></a></li>
 </ul></div>
 
